@@ -1,10 +1,6 @@
-<!-- Filename: How_do_you_recover_or_reset_your_admin_password%3F / Display title: Como recuperar ou repor a sua palavra-passe de administrador? -->
+<!-- Filename: How_do_you_recover_or_reset_your_admin_password%3F / Display title: Recuperação de palavra-passe de administrador -->
 
-Joomla! 1.5 Recuperação de Senha
-
-Esta página é apenas para o Joomla! 2.5 e versões superiores. Se ainda
-estiver a utilizar o Joomla! 1.5  as instruções podem ser encontradas
-aqui.
+## Introduction
 
 Normally, you can add, edit and delete users and passwords from the
 back-end User Manager. To do this, you must be logged in as a member of
