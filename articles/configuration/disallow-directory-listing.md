@@ -17,7 +17,7 @@ Options -Indexes
 
 ## Sem listagem de diretórios
 <IfModule mod_autoindex.c>
-	IndexIgnore *
+    IndexIgnore *
 </IfModule>
 ```
 
@@ -26,4 +26,3 @@ Options -Indexes
 Uma maneira de testar seu site é inserir a URL da pasta de imagens na barra de URL do navegador: `https://seudominio.com/images/`. Como a pasta de imagens normalmente não contém um arquivo index.html ou index.php, você deverá ver uma página completamente vazia. Se você ver uma lista de todos os arquivos e pastas, então você não está impedindo varreduras de diretório para qualquer parte do seu site. Corrija isso!
 
 *Traduzido por openai.com*
-

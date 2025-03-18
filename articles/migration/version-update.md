@@ -26,7 +26,7 @@ selecione **Sistema** para passar pelo **Painel do Sistema**.
 
 O Painel do Sistema tem um *Painel de Atualização* que inclui um link do Joomla
 que mostrará o número da versão de atualização disponível. Selecione o link **Joomla**
-para acessar o Componente de Atualização.  
+para acessar o Componente de Atualização.
 
 ## Realizando a Atualização
 
@@ -96,7 +96,7 @@ Se seu banco de dados não estiver atualizado, você verá uma tela listando os 
 
 Nesse caso, selecione o *Nome* da extensão problemática e em seguida o botão Atualizar Estrutura na Barra de Ferramentas. O Joomla atualizará seu banco de dados para corrigir os problemas listados e então redirecionará a tela. Se a correção foi bem-sucedida, a exibição indicará que o banco de dados está atualizado.
 
-**Nota:** Se ainda existirem erros, certifique-se de que todas as tabelas do banco de dados estejam marcadas como verificadas.  
+**Nota:** Se ainda existirem erros, certifique-se de que todas as tabelas do banco de dados estejam marcadas como verificadas.
 
 ## Descoberta do Sistema
 
@@ -133,20 +133,19 @@ administrator/logs/joomla_update.php que você pode abrir com um editor de texto
 instalar, executar instruções SQL, limpar), algo como isto:
 
 ```
-2024-04-17T09:13:16+00:00	INFO 127.0.0.1	atualização	Iniciada atualização pelo usuário Jimmy (139). A versão antiga é 5.0.3.
-2024-04-17T09:13:18+00:00	INFO 127.0.0.1	atualização	Download do arquivo de atualização de ...
-2024-04-17T09:13:28+00:00	INFO 127.0.0.1	atualização	Arquivo Joomla_5.1.0-Stable-Update_Package.zip baixado.
-2024-04-17T09:13:28+00:00	INFO 127.0.0.1	atualização	Iniciando instalação da nova versão.
-2024-04-17T09:13:40+00:00	INFO 127.0.0.1	atualização	Finalizando instalação.
-2024-04-17T09:13:40+00:00	INFO 127.0.0.1	atualização	Início das atualizações SQL.
-2024-04-17T09:13:40+00:00	INFO 127.0.0.1	atualização	A versão atual do banco de dados (esquema) é 5.0.0-2023-09-11.
+2024-04-17T09:13:16+00:00    INFO 127.0.0.1    atualização    Iniciada atualização pelo usuário Jimmy (139). A versão antiga é 5.0.3.
+2024-04-17T09:13:18+00:00    INFO 127.0.0.1    atualização    Download do arquivo de atualização de ...
+2024-04-17T09:13:28+00:00    INFO 127.0.0.1    atualização    Arquivo Joomla_5.1.0-Stable-Update_Package.zip baixado.
+2024-04-17T09:13:28+00:00    INFO 127.0.0.1    atualização    Iniciando instalação da nova versão.
+2024-04-17T09:13:40+00:00    INFO 127.0.0.1    atualização    Finalizando instalação.
+2024-04-17T09:13:40+00:00    INFO 127.0.0.1    atualização    Início das atualizações SQL.
+2024-04-17T09:13:40+00:00    INFO 127.0.0.1    atualização    A versão atual do banco de dados (esquema) é 5.0.0-2023-09-11.
 ... Muitas consultas SQL individuais
-2024-04-17T09:13:41+00:00	INFO 127.0.0.1	atualização	Fim das atualizações SQL.
-2024-04-17T09:13:41+00:00	INFO 127.0.0.1	atualização	Desinstalando extensões
-2024-04-17T09:13:41+00:00	INFO 127.0.0.1	atualização	Excluindo arquivos e pastas removidos.
-2024-04-17T09:13:44+00:00	INFO 127.0.0.1	atualização	Limpeza após instalação.
-2024-04-17T09:13:44+00:00	INFO 127.0.0.1	atualização	Atualização para a versão 5.1.0 completa.
+2024-04-17T09:13:41+00:00    INFO 127.0.0.1    atualização    Fim das atualizações SQL.
+2024-04-17T09:13:41+00:00    INFO 127.0.0.1    atualização    Desinstalando extensões
+2024-04-17T09:13:41+00:00    INFO 127.0.0.1    atualização    Excluindo arquivos e pastas removidos.
+2024-04-17T09:13:44+00:00    INFO 127.0.0.1    atualização    Limpeza após instalação.
+2024-04-17T09:13:44+00:00    INFO 127.0.0.1    atualização    Atualização para a versão 5.1.0 completa.
 ```
 
 *Traduzido por openai.com*
-

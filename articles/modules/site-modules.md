@@ -17,24 +17,24 @@ Os módulos são atribuídos a uma posição em uma página definida pelo templa
 E a lista a seguir mostra as posições de módulos disponíveis por nome:
 
 ```xml
-	<positions>
-		<position>barra superior</position>
-		<position>abaixo do topo</position>
-		<position>menu</position>
-		<position>pesquisa</position>
-		<position>banner</position>
-		<position>topo-a</position>
-		<position>topo-b</position>
-		<position>principal-topo</position>
-		<position>principal-base</position>
-		<position>caminho de navegação</position>
-		<position>barra lateral-esquerda</position>
-		<position>barra lateral-direita</position>
-		<position>inferior-a</position>
-		<position>inferior-b</position>
-		<position>rodapé</position>
-		<position>debug</position>
-	</positions>
+    <positions>
+        <position>barra superior</position>
+        <position>abaixo do topo</position>
+        <position>menu</position>
+        <position>pesquisa</position>
+        <position>banner</position>
+        <position>topo-a</position>
+        <position>topo-b</position>
+        <position>principal-topo</position>
+        <position>principal-base</position>
+        <position>caminho de navegação</position>
+        <position>barra lateral-esquerda</position>
+        <position>barra lateral-direita</position>
+        <position>inferior-a</position>
+        <position>inferior-b</position>
+        <position>rodapé</position>
+        <position>debug</position>
+    </positions>
 ```
 
 ## Adicionar um Módulo Principal
@@ -107,4 +107,3 @@ Tudo feito?
 - **Envolver** Este módulo exibe uma janela iframe para um local especificado.
 
 *Traduzido por openai.com*
-
