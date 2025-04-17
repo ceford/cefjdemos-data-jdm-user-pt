@@ -96,7 +96,7 @@ atribua um usuário de banco de dados a ele.
 ## Akeeba Quickstart
 
 Se você usou o Akeeba Backup, então utilize o Akeeba Quickstart para restaurar seu backup.
-* Consulte o [Tutorial em Vídeo](http://akee.ba/abrestoreanywhere "").
+* Consulte o [Tutorial em Vídeo](http://akee.ba/abrestoreanywhere).
 * Baixe o Akeeba Quickstart (PDF 94Kb) gratuitamente.
 * Verifique se o site restaurado está funcionando corretamente!
 

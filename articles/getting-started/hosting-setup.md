@@ -46,7 +46,7 @@ Cada serviço de hospedagem oferece planos diferentes em diferentes níveis de p
 
 Não existe hospedagem realmente gratuita! No entanto, um serviço de hospedagem parceiro do Joomla oferece um site Joomla gratuito no domínio joomla.com. Isso lhe dá a oportunidade de experimentar o seu próprio site Joomla totalmente funcional sem nenhum custo. É semelhante a um plano de hospedagem compartilhada, mas com restrições e frequentes apelos para que você faça um upgrade para um plano pago. Além disso, o plano gratuito precisa ser renovado a cada 30 dias ou será encerrado. O artigo a seguir mostra os passos necessários para configurar um site Joomla gratuito.
 
-* [Hospedagem Gratuita Joomla](jdocmanual?article=user/hosting/free-hosting "")
+* [Hospedagem Gratuita Joomla](jdocmanual?article=user/hosting/free-hosting)
 
 Se você descobrir que gosta do Joomla, pode atualizar para um plano pago ou procurar em outro lugar um serviço de hospedagem que atenda às suas necessidades e orçamento.
 
@@ -88,7 +88,7 @@ Se você comprou um nome de domínio, seu serviço de hospedagem irá configurá
 
 O artigo a seguir mostra o que esperar se você adquirir um plano de hospedagem que inclui uma interface de usuário cPanel.
 
-* [Hospedagem cPanel](jdocmanual?article=user/hosting/cpanel-hosting "Hospedagem cPanel")
+* [Hospedagem cPanel](jdocmanual?article=user/hosting/cpanel-hosting)
 
 ## Hospedagem VPS
 
@@ -105,7 +105,7 @@ A maioria das pessoas que desenvolvem sites mantém cópias locais em um laptop 
 
 Os artigos a seguir descrevem como configurar a hospedagem local em diferentes tipos de computadores desktop ou laptop:
 
-* [Hospedagem Local no Windows](jdocmanual?article=user/hosting/local-hosting-on-windows "Hospedagem Local no Windows") apenas para Windows
-* [Hospedagem Local com XAMPP](jdocmanual?article=user/hosting/local-hosting-with-xampp "Hospedagem Local com XAMPP") para Linux, Mac e Windows.
-* [Hospedagem Local no Linux](jdocmanual?article=user/hosting/local-hosting-on-linux "Hospedagem Local no Linux")
+* [Hospedagem Local no Windows](jdocmanual?article=user/hosting/local-hosting-on-windows) apenas para Windows
+* [Hospedagem Local com XAMPP](jdocmanual?article=user/hosting/local-hosting-with-xampp) para Linux, Mac e Windows.
+* [Hospedagem Local no Linux](jdocmanual?article=user/hosting/local-hosting-on-linux)
 

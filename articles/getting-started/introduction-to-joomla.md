@@ -16,7 +16,7 @@ Uma instalação do Joomla! consiste nos arquivos usados para gerenciar e exibir
 
 Este template tem tudo que você precisa para começar seu próprio site. Ele pode ser personalizado com configurações de template e recursos especificados pelo usuário, como imagens e cores.
 
-![O Template Cassiopeia](../../../en/images/getting-started/introduction-to-joomla-cassiopeia.png "O Template Cassiopeia")
+![O Template Cassiopeia](../../../en/images/getting-started/introduction-to-joomla-cassiopeia.png)
 
 Se o Cassiopeia não for adequado para seu site, existem centenas de outros templates disponíveis de fornecedores terceiros, tanto gratuitos quanto comerciais.
 
@@ -30,7 +30,7 @@ Se o Cassiopeia não for adequado para seu site, existem centenas de outros temp
 
 Este template não é visto pelo público, então raramente é necessário buscar uma alternativa.
 
-![O Template Atum](../../../en/images/getting-started/introduction-to-joomla-atum.png "O Template Atum")
+![O Template Atum](../../../en/images/getting-started/introduction-to-joomla-atum.png)
 
 Você pode configurar o que aparece em vários painéis, mas é melhor deixar isso até que a experiência justifique uma mudança.
 

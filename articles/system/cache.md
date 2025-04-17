@@ -183,7 +183,7 @@ Isso pode ser feito automaticamente através da função de exibição do contro
     }
 
 Também existem alguns parâmetros de URL a considerar. Confira este
-[Joomla StackExchange](http://joomla.stackexchange.com/questions/5781/how-can-i-use-joomlas-cache-with-my-components-view/7000#7000 "")
+[Joomla StackExchange](http://joomla.stackexchange.com/questions/5781/how-can-i-use-joomlas-cache-with-my-components-view/7000#7000)
 
 Além disso, esteja ciente de que quaisquer atualizações (como acessos ou contagens de visitas) NÃO serão atualizadas (a menos que você adicione isso fora deste método e, portanto, em qualquer parte profunda do MVC).
 

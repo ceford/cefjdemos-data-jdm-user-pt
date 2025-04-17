@@ -10,7 +10,7 @@ Se você tem um site multilíngue, pode exibir os rótulos e descrições dos ca
 
 No exemplo a seguir, um grupo de campos de Contato e um campo são criados para as preferências pessoais de um contato. O grupo de campos é chamado de Favoritos e o campo exemplo é chamado de Carro. Claramente, mais campos podem ser adicionados para outras coisas favoritas, como comida ou filmes.
 
-Para seguir este exemplo, assume-se que você configurou um site multilíngue, conforme descrito no tutorial [Sites Multilíngues](jdocmanual?article=user/languages/setup-a-multilingual-site "Sites Multilíngues").
+Para seguir este exemplo, assume-se que você configurou um site multilíngue, conforme descrito no tutorial [Sites Multilíngues](jdocmanual?article=user/languages/setup-a-multilingual-site).
 
 ## Constantes de Idioma
 
@@ -50,7 +50,7 @@ sobrescrições para as páginas do Site e do Administrador.
 
 A captura de tela a seguir mostra um exemplo de criação de sobrescrição para uma constante de idioma alemã.
 
-![Criação de sobrescrição em alemão](../../../en/images/fields/fields-overrides-creation-de.png "Criação de sobrescrição em alemão")
+![Criação de sobrescrição em alemão](../../../en/images/fields/fields-overrides-creation-de.png)
 
 ## Definindo o Grupo de Campos
 
@@ -81,11 +81,11 @@ No menu do Administrador:
 
 Com o inglês selecionado antes do login do Administrador, o formulário de entrada de dados do Contato deve conter uma aba com o nome em inglês do seu grupo de campos e campos nesse grupo também com valores em inglês.
 
-![Entrada de dados em inglês](../../../en/images/fields/fields-overrides-entry.png "Entrada de dados em inglês")
+![Entrada de dados em inglês](../../../en/images/fields/fields-overrides-entry.png)
 
 Com o alemão selecionado antes do login do Administrador, você deverá ver as traduções em alemão das suas constantes de idioma:
 
-![Entrada de dados em alemão](../../../en/images/fields/fields-overrides-entry-de.png "Entrada de dados em alemão")
+![Entrada de dados em alemão](../../../en/images/fields/fields-overrides-entry-de.png)
 
 Atenção: tradução por translate.google.co.uk!
 
@@ -93,11 +93,11 @@ Atenção: tradução por translate.google.co.uk!
 
 Em inglês:
 
-![Exibição de dados em inglês](../../../en/images/fields/fields-overrides-display.png "Exibição de dados em inglês")
+![Exibição de dados em inglês](../../../en/images/fields/fields-overrides-display.png)
 
 E em alemão:
 
-![Exibição de dados em alemão](../../../en/images/fields/fields-overrides-display-de.png "Exibição de dados em alemão")
+![Exibição de dados em alemão](../../../en/images/fields/fields-overrides-display-de.png)
 
 *Traduzido por openai.com*
 
