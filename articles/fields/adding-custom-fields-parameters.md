@@ -85,7 +85,16 @@ O título é exibido na página de lista *Artigos: Campos*, onde pode ser seleci
 
 ### Aba de Permissões
 
+As permissões para cada grupo de utilizadores são autoexplicativas para as ações *Eliminar*, *Editar* e *Editar estado*. As permissões indicam quem pode fazer o quê com o campo como um todo, como eliminá-lo, alterá-lo ou despublicá-lo.
+
 ![Parâmetros do campo aba geral](../../../en/images/fields/fields-parameters-permissions-tab.png)
+
+A permissão *Editar valor de campo personalizado* pode ser confusa. Ela mostra quem pode alterar o conteúdo do campo. Por padrão, está definida como **Não permitido (Herdado)** para todos os grupos, exceto para os Super Utilizadores. Dois exemplos:
+
+* **Dados personalizados de registo de utilizador**
+  Suponha que crie um campo de utilizador para *Género*, a ser adicionado a um formulário de registo. Este pode ser uma lista ou botão de opção (radio button) que permite ao utilizador escolher entre *Masculino* ou *Feminino*. Neste caso, a permissão para o grupo Público deve ser definida como *Permitido*. Caso contrário, um utilizador convidado não conseguirá selecionar o género. Como todos os outros grupos herdam do grupo Público, um utilizador registado poderá alterar a escolha de género no perfil após iniciar sessão.
+* **Comentário em artigo**
+  Suponha que deseje permitir que um Autor adicione um comentário a um artigo. Isso pode ser um campo de texto com comprimento limitado. Neste caso, a permissão para o grupo Autor deve ser definida como *Permitido*. Os grupos Editor e Publicador herdarão essa configuração ao guardar o formulário. Os grupos Gestor e Administrador têm permissão para editar artigos, mas não para valores de campos personalizados — a menos que a permissão para o grupo Gestor também seja definida como *Permitido*.
 
 *Traduzido por openai.com*
 
