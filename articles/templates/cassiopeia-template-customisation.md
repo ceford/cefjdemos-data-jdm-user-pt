@@ -110,7 +110,12 @@ A ilustração abaixo mostra dois grupos de pastas. O primeiro grupo consiste na
 
 ![Cassiopeia editar arquivos](../../../en/images/templates/cassiopeia-customisation-edit-files.png)
 
-Note que não há um arquivo *user.css* presente na pasta *css*. Esse é um que você cria você mesmo para que possa substituir estilos previamente definidos. Se não estiver presente, crie agora selecionando a pasta *css* e depois o botão *Novo*. No diálogo modal Novo Arquivo, selecione a pasta *css*, senão o novo arquivo aparecerá no lugar errado. Digite *user* (em minúsculas e sem *.css*) no campo Nome do Arquivo e selecione *.css* no campo Tipo de Arquivo. Selecione o botão Criar para criar o arquivo. Se *user.css* já estiver presente, selecione-o para abrir o formulário de edição.
+Note que numa nova instalação do Joomla não existe um ficheiro ***user.css*** na pasta css. Este ficheiro deve ser criado para que possa sobrescrever estilos previamente definidos. Se o ficheiro ***user.css*** já existir, seleccione-o para abrir o formulário de edição. Caso contrário, crie-o agora:
+
+1. Selecione o botão Novo Ficheiro.
+2. Na janela Novo Ficheiro, selecione a pasta css; caso contrário, o novo ficheiro aparecerá no local errado.
+3. Digite user (em minúsculas e sem . css) no campo Nome do ficheiro e seleccione . css no campo Tipo de ficheiro.
+4. Selecione o botão Criar para criar o ficheiro.
 
 ### Cabeçalhos
 
