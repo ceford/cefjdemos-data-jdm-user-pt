@@ -1,4 +1,11 @@
-<!-- Filename: Joomla_3.x_to_4.x_Step_by_Step_Migration / Display title: Joomla 3 para 4 Passo a Passo -->
+<!--
+{
+  "source": "https://docs.joomla.org/Joomla_3.x_to_4.x_Step_by_Step_Migration",
+  "title": "Joomla 3 para 4 Passo a Passo ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 

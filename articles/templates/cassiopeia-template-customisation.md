@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Cassiopeia_Template_Customisation / Display title: Personalização de Cassiopeia  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Cassiopeia_Template_Customisation",
+  "title": "Personalização de Cassiopeia  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 
@@ -6,13 +13,13 @@ Cassiopeia é o modelo de site fornecido com o Joomla 4. É um modelo de propós
 
 A ilustração a seguir mostra a aparência de um site Joomla 4 com um artigo e alguns itens de menu criados.
 
-![Visualização de um único artigo Cassiopeia](../../../en/images/templates/cassiopeia-customisation-article-view.png)
+![Visualização de um único artigo Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/01-cassiopeia-customisation-article-view.png)
 
 ## Modelos: Editar Estilo
 
 Você pode experimentar a aparência do site abrindo o formulário Editar Estilo. Vá para **Sistema → Modelos → Estilos de Modelo do Site** e selecione o título do modelo na coluna Estilo, Cassiopeia - Padrão. A guia Avançado contém configurações que você pode ajustar:
 
-![Cassiopeia editar estilo guia avançada](../../../en/images/templates/cassiopeia-customisation-edit-style.png)
+![Cassiopeia editar estilo guia avançada](../../../en/images/templates/cassiopeia-template-customisation/02-cassiopeia-customisation-edit-style.png)
 
 Para testar as opções, abra uma aba ou janela do navegador com a interface do Administrador e uma segunda aba ou janela com a interface do Site e alterne entre elas após cada alteração salva.
 
@@ -38,7 +45,7 @@ Você pode definir a Marca para Não se desejar fornecer uma marca em um módulo
 
 - **Sempre ao seu serviço** Se presente, as palavras no campo de slogan aparecerão em um tamanho de fonte pequeno abaixo da imagem do logotipo ou nome da Marca.
 
-![Cassiopeia marca com slogan](../../../en/images/templates/cassiopeia-customisation-brand-with-tagline.png)
+![Cassiopeia marca com slogan](../../../en/images/templates/cassiopeia-template-customisation/03-cassiopeia-customisation-brand-with-tagline.png)
 
 ### Esquema de Fontes
 
@@ -50,7 +57,7 @@ Você pode definir a Marca para Não se desejar fornecer uma marca em um módulo
 - **Padrão** Uma cor de fundo azul escuro para a barra da Marca e outros recursos, como o botão de Login.
 - **Alternativa** Uma cor de fundo marrom em vez de azul escuro.
 
-![Cassiopeia esquema de cores alternativo](../../../en/images/templates/cassiopeia-customisation-alt-color-scheme.png)
+![Cassiopeia esquema de cores alternativo](../../../en/images/templates/cassiopeia-template-customisation/04-cassiopeia-customisation-alt-color-scheme.png)
 
 ### Layout
 
@@ -59,7 +66,7 @@ Você pode definir a Marca para Não se desejar fornecer uma marca em um módulo
 
 A visão em um dispositivo móvel de tela estreita:
 
-![Cassiopeia visão móvel](../../../en/images/templates/cassiopeia-customisation-mobile-view.png)
+![Cassiopeia visão móvel](../../../en/images/templates/cassiopeia-template-customisation/05-cassiopeia-customisation-mobile-view.png)
 
 ### Cabeçalho Fixo
 
@@ -71,14 +78,14 @@ A visão em um dispositivo móvel de tela estreita:
 - **Não** o padrão. Não há link de Voltar ao Topo.
 - **Sim** Quando o conteúdo é mais alto que a área de visão, no canto inferior direito da página há um botão marcado com um chevron para cima. Selecione-o para rolar de volta ao topo da página.
 
-![Cassiopeia voltar ao topo](../../../en/images/templates/cassiopeia-customisation-back-to-top.png)
+![Cassiopeia voltar ao topo](../../../en/images/templates/cassiopeia-template-customisation/06-cassiopeia-customisation-back-to-top.png)
 
 
 ## Posições do Template Cassiopeia
 
 À medida que você constrói um site com o Cassiopeia, torna-se muito útil conhecer as localizações das posições que você pode usar para os módulos. Algumas são descritivas, como *menu* e *bottom-a*, mas não é tão óbvio onde elas estão até que você as use. Esta ilustração pode ajudar:
 
-![Posições do template Cassiopeia](../../../en/images/templates/cassiopeia-template-positions.png)
+![Posições do template Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/07-cassiopeia-template-positions.png)
 
 Experimente o seguinte:
 
@@ -90,7 +97,7 @@ Na aba Módulo, mude o campo de Posição à direita para Menu \[menu\]. Salve e
 
 No formulário de edição do menu, selecione a aba Avançado e role para baixo até o campo Layout. É uma lista suspensa com quatro opções. --Do Módulo-- / Padrão está selecionado por padrão. Experimente as outras opções e veja o resultado. (Lembre-se de *Salvar* no formulário de edição e recarregar na visualização do Site.) Nenhuma das opções --Do Módulo-- mostra os itens do menu filho, mas ambas as opções --Do Template Cassiopeia-- mostram.
 
-![Posições do menu Cassiopeia](../../../en/images/templates/cassiopeia-customisation-menu-position.png)
+![Posições do menu Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/08-cassiopeia-customisation-menu-position.png)
 
 Então, qual diferença faz o **Colapsável**?
 
@@ -108,7 +115,7 @@ Suponha que você prefira um tema verde escuro. Para resolver isso, você precis
 
 A ilustração abaixo mostra dois grupos de pastas. O primeiro grupo consiste nas pastas e arquivos do template que você não deve alterar, mas pode adicionar. Em particular, você pode adicionar arquivos HTML de substituição de template à pasta *html*. O segundo grupo contém os arquivos de mídia do template que você não deve alterar. No entanto, você pode adicionar um arquivo *user.css* à pasta *css* e/ou um arquivo *user.js* à pasta *js*. Isso seria feito se você quisesse fazer algumas alterações simples na aparência do site.
 
-![Cassiopeia editar arquivos](../../../en/images/templates/cassiopeia-customisation-edit-files.png)
+![Cassiopeia editar arquivos](../../../en/images/templates/cassiopeia-template-customisation/09-cassiopeia-customisation-edit-files.png)
 
 Note que numa nova instalação do Joomla não existe um ficheiro ***user.css*** na pasta css. Este ficheiro deve ser criado para que possa sobrescrever estilos previamente definidos. Se o ficheiro ***user.css*** já existir, seleccione-o para abrir o formulário de edição. Caso contrário, crie-o agora:
 
@@ -139,7 +146,7 @@ Note aqui que o ponto (.) inicial é um seletor de classe, por exemplo, Dummy H1
 
 Na aba do navegador contendo o Site, abra as Ferramentas de Desenvolvedor do seu navegador, Firefox neste exemplo, e selecione a tag do cabeçalho.
 
-![Cassiopeia ferramentas de desenvolvedor](../../../en/images/templates/cassiopeia-customisation-developer-tools.png)
+![Cassiopeia ferramentas de desenvolvedor](../../../en/images/templates/cassiopeia-template-customisation/10-cassiopeia-customisation-developer-tools.png)
 
 Isso mostra os estilos usados. O estilo container-header é onde a cor de fundo e a imagem de fundo são definidas. Eles precisam ser sobrescritos no arquivo *user.css*. Tente isso:
 ```css
@@ -160,7 +167,7 @@ Lembre-se daquele comentário sobre o menu estar muito à esquerda na barra supe
 ```
 Este é o tema verde em funcionamento:
 
-![Cassiopeia tema verde](../../../en/images/templates/cassiopeia-customisation-green-theme.png)
+![Cassiopeia tema verde](../../../en/images/templates/cassiopeia-template-customisation/11-cassiopeia-customisation-green-theme.png)
 
 ### Acessibilidade
 
@@ -172,7 +179,7 @@ A aba Criar Substituições no formulário Modelos: Personalizar (Cassiopeia) mo
 
 Esta é a aba Criar Substituições:
 
-![Cassiopeia criar substituições](../../../en/images/templates/cassiopeia-customisation-create-overrides.png)
+![Cassiopeia criar substituições](../../../en/images/templates/cassiopeia-template-customisation/12-cassiopeia-customisation-create-overrides.png)
 
 Se você estiver apenas experimentando e realmente não quiser uma substituição, pode *Fechar* o formulário de edição, Selecionar o botão Gerenciar Pastas na Barra de Ferramentas e selecionar o botão Excluir na parte inferior do formulário modal Gerenciar Pastas.
 
@@ -182,7 +189,7 @@ Substituições são realmente sobre personalizar extensões em vez do modelo Ca
 
 Se você deseja fazer alterações mais substanciais na aparência do site, pode criar um template filho. Isso copia apenas uma pequena seleção de pastas e arquivos para que você possa alterar ou adicionar, mas continua a usar as pastas e arquivos do template pai. Utilizando templates filhos, é possível ter algumas páginas com uma cor de tema e outras páginas com uma segunda cor de tema. Templates filhos são abordados em outro lugar. Esta é uma ilustração da estrutura de arquivos em um filho de Cassiopeia:
 
-![Arquivos do template filho de Cassiopeia](../../../en/images/templates/cassiopeia-customisation-child-template-files.png)
+![Arquivos do template filho de Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/13-cassiopeia-customisation-child-template-files.png)
 
 *Traduzido por openai.com*
 

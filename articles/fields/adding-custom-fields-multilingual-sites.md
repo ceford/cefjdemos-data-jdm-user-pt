@@ -1,4 +1,11 @@
-<!-- Filename: J3.x:Adding_custom_fields/Multilingual_Sites / Display title: Sites Multilíngues -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Sites Multilíngues ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 
@@ -50,7 +57,7 @@ sobrescrições para as páginas do Site e do Administrador.
 
 A captura de tela a seguir mostra um exemplo de criação de sobrescrição para uma constante de idioma alemã.
 
-![Criação de sobrescrição em alemão](../../../en/images/fields/fields-overrides-creation-de.png)
+![Criação de sobrescrição em alemão](../../../en/images/fields/adding-custom-fields-multilingual-sites/01-fields-overrides-creation-de.png)
 
 ## Definindo o Grupo de Campos
 
@@ -81,11 +88,11 @@ No menu do Administrador:
 
 Com o inglês selecionado antes do login do Administrador, o formulário de entrada de dados do Contato deve conter uma aba com o nome em inglês do seu grupo de campos e campos nesse grupo também com valores em inglês.
 
-![Entrada de dados em inglês](../../../en/images/fields/fields-overrides-entry.png)
+![Entrada de dados em inglês](../../../en/images/fields/adding-custom-fields-multilingual-sites/02-fields-overrides-entry.png)
 
 Com o alemão selecionado antes do login do Administrador, você deverá ver as traduções em alemão das suas constantes de idioma:
 
-![Entrada de dados em alemão](../../../en/images/fields/fields-overrides-entry-de.png)
+![Entrada de dados em alemão](../../../en/images/fields/adding-custom-fields-multilingual-sites/03-fields-overrides-entry-de.png)
 
 Atenção: tradução por translate.google.co.uk!
 
@@ -93,11 +100,11 @@ Atenção: tradução por translate.google.co.uk!
 
 Em inglês:
 
-![Exibição de dados em inglês](../../../en/images/fields/fields-overrides-display.png)
+![Exibição de dados em inglês](../../../en/images/fields/adding-custom-fields-multilingual-sites/04-fields-overrides-display.png)
 
 E em alemão:
 
-![Exibição de dados em alemão](../../../en/images/fields/fields-overrides-display-de.png)
+![Exibição de dados em alemão](../../../en/images/fields/adding-custom-fields-multilingual-sites/05-fields-overrides-display-de.png)
 
 *Traduzido por openai.com*
 

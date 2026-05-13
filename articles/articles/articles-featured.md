@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Featured_Articles / Display title: Artigos: Em Destaque   -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Featured_Articles",
+  "title": "Artigos: Em Destaque   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 
@@ -28,7 +35,7 @@ Para ver os artigos selecionados para um layout de *Artigos em Destaque*:
 
 A captura de tela a seguir mostra uma lista de artigos em destaque contendo quatro itens, suficiente para criar um layout de blog interessante.:
 
-![Artigos em destaque](../../../en/images/articles/articles-featured.png)
+![Artigos em destaque](../../../en/images/articles/articles-featured/01-articles-featured.png)
 
 ### Ordem dos Artigos em Destaque
 
@@ -40,7 +47,7 @@ Um layout de blog funciona melhor se a quantidade de texto em cada item for limi
 
 ## Aparência do Site
 
-![Visualização de artigos em destaque no site](../../../en/images/articles/articles-featured-site.png)
+![Visualização de artigos em destaque no site](../../../en/images/articles/articles-featured/02-articles-featured-site.png)
 
 *Traduzido por openai.com*
 

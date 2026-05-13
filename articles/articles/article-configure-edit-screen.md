@@ -1,4 +1,11 @@
-<!-- Filename: J6.x:_Article_Edit_Configure_Edit_Screen / Display title: Artigo: Editar - Configurar Tela de Edição  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J6.x:_Article_Edit_Configure_Edit_Screen",
+  "title": "Artigo: Editar - Configurar Tela de Edição  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 
@@ -6,7 +13,7 @@ As telas de edição de artigo têm layouts diferentes no backend e no frontend.
 
 ## Captura de Tela
 
-![A guia da tela de edição de configuração](../../../en/images/articles/articles-edit-configure-edit-screen-tab.png)
+![A guia da tela de edição de configuração](../../../en/images/articles/article-configure-edit-screen/01-articles-edit-configure-edit-screen-tab.png)
 
 ## Configurar painel de Edição de Tela
 

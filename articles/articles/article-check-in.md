@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Article_Check-out_and_Check-in / Display title: Artigo: Check-in -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Article_Check-out_and_Check-in",
+  "title": "Artigo: Check-in ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 
@@ -32,7 +39,7 @@ No menu do Administrador:
   **Sistema → Painel de Manutenção → Registro Global**.
 - A lista mostra o número de itens retirados.
 
-![Página de registro global](../../../en/images/articles/global-checkin.png)
+![Página de registro global](../../../en/images/articles/article-check-in/01-global-checkin.png)
 
 - Na lista de tabelas do banco de dados, selecione a caixa de seleção para o tipo de item a ser registrado.
 - Selecione *Registrar* na Barra de ferramentas.

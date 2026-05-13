@@ -1,4 +1,11 @@
-<!-- Filename: Visual_Studio_Code_Primer / Display title: Introdução ao Visual Studio Code  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Visual_Studio_Code_Primer",
+  "title": "Introdução ao Visual Studio Code  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## VS Code - Um IDE Gratuito e Popular
 
@@ -95,7 +102,7 @@ Na Configuração Global do Joomla, defina *Debug do Sistema* para *Sim* e *Rela
 
 Quando você abrir uma página contendo o módulo com bug, verá uma rastreamento de pilha informando onde um erro foi acionado.
 
-![rastreamento de pilha vscode](../../../en/images/test-installations/vscode-primer-stack-trace.png)
+![rastreamento de pilha vscode](../../../en/images/test-installations/visual-studio-code-primer/01-vscode-primer-stack-trace.png)
 
 Às vezes, o erro de codificação está na primeira linha do rastreamento de pilha. Caso contrário, se o erro for acionado no código da biblioteca, por exemplo, passando dados inválidos para uma função de banco de dados, o erro de codificação pode estar mais abaixo na lista de chamadas de função.
 
@@ -103,7 +110,7 @@ Quando você abrir uma página contendo o módulo com bug, verá uma rastreament
 
 No VS Code, use o item de menu Arquivo / Abrir Pasta para localizar e abrir a pasta que contém sua cópia local do código da extensão *mod_debugme*. Você deverá ver algo semelhante ao seguinte:
 
-![visualização de pasta do vscode](../../../en/images/test-installations/vscode-primer-screen.png)
+![visualização de pasta do vscode](../../../en/images/test-installations/visual-studio-code-primer/02-vscode-primer-screen.png)
 
 Você pode conseguir diagnosticar o problema apenas lendo o código. No caso do erro *Classe "DebugHelper" não encontrada*, você verá que uma declaração *use* foi comentada algumas linhas antes. Esquecer de inserir uma declaração *use* é um erro comum durante o desenvolvimento inicial!
 

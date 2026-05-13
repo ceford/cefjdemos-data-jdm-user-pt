@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Media:_Upload_Delete_Rename / Display title: Carregar Excluir Renomear  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Media:_Upload_Delete_Rename",
+  "title": "Carregar Excluir Renomear  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Funções Simples de Mídia
 

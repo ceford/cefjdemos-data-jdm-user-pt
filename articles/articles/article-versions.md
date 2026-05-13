@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Components_Version_History / Display title: Artigo: Versões  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Components_Version_History",
+  "title": "Artigo: Versões  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 
@@ -16,7 +23,7 @@ Selecione o botão **Versões** na Barra de Ferramentas enquanto edita o item.
 
 ## Captura de Tela
 
-![Caixa de diálogo de versões](../../../en/images/articles/articles-versions.png)
+![Caixa de diálogo de versões](../../../en/images/articles/article-versions/01-articles-versions.png)
 
 ## Cabeçalhos de Coluna
 
@@ -38,14 +45,14 @@ No topo da página, você verá a barra de ferramentas mostrada na captura de te
   navegador separada será carregada mostrando a versão selecionada do item, 
   semelhante à captura de tela abaixo. Após visualizar a versão, feche a janela 
   do navegador.
-![Diálogo de visualização de versões](../../../en/images/articles/articles-versions-preview.png)
+![Diálogo de visualização de versões](../../../en/images/articles/article-versions/02-articles-versions-preview.png)
 - **Comparar** Para comparar duas versões e ver o que foi alterado, clique
   nas caixas de seleção de cada uma das versões e clique no botão Comparar.
   Uma nova janela de navegador será aberta, como mostrado na captura de tela
   abaixo. A primeira coluna é o nome do campo, a segunda é a versão mais antiga, 
   a terceira é a versão mais recente, e a última coluna destaca as diferenças 
   entre as duas versões.
-![Diálogo de comparação de versões](../../../en/images/articles/articles-versions-compare.png)
+![Diálogo de comparação de versões](../../../en/images/articles/article-versions/03-articles-versions-compare.png)
 - **Manter Ligado/Desligado** Este botão permite alternar a funcionalidade
   Manter Para Sempre para uma versão. Normalmente, a versão mais antiga de um item 
   será excluída automaticamente quando o número máximo de versões (definido

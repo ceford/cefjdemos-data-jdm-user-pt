@@ -1,4 +1,11 @@
-<!-- Filename: J3.x:Adding_custom_fields/Url_Field / Display title: Campo de URL -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Campo de URL ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Propósito
 
@@ -18,7 +25,7 @@ As opções especiais dentro deste campo são:
 - **Mostrar URL** Se configurado como *Não*, na exibição do Artigo o URL é
   substituído pelas palavras *Visitar Site*.
 
-![criação de campo url](../../../en/images/fields/fields-url-edit.png)
+![criação de campo url](../../../en/images/fields/adding-custom-fields-url-field/01-fields-url-edit.png)
 
 **Nota:** Neste exemplo, a inclusão do tipo de campo no Título é apenas para
 fins de demonstração. Deixe-o de fora nos títulos de campo próprios.
@@ -27,13 +34,13 @@ fins de demonstração. Deixe-o de fora nos títulos de campo próprios.
 
 Simples: basta inserir uma URL de destino.
 
-![entrada de dados do campo de URL](../../../en/images/fields/fields-url-data-entry.png)
+![entrada de dados do campo de URL](../../../en/images/fields/adding-custom-fields-url-field/02-fields-url-data-entry.png)
 
 ## Exibição de Dados
 
 A captura de tela do Site a seguir mostra o campo exibido em um artigo. A opção *Exibição automática* é responsável pela posição do campo e o seu template é responsável pelo design do campo.
 
-![exibição do campo de URL do site](../../../en/images/fields/fields-url-site.png)
+![exibição do campo de URL do site](../../../en/images/fields/adding-custom-fields-url-field/03-fields-url-site.png)
 
 A URL segue o Rótulo do campo.
 

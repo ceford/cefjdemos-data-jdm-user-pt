@@ -1,4 +1,11 @@
-<!-- Filename: Content_editors / Display title: Plugin TinyMCE  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Content_editors",
+  "title": "Plugin TinyMCE  ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 
@@ -13,19 +20,19 @@ O TinyMCE está configurado com 3 conjuntos diferentes de botões de barra de fe
 
 Este conjunto de ferramentas é o mais extenso e é atribuído por padrão aos grupos de *Administrador*, *Editor* e *Super Usuários*.
 
-![Plugin TinyMCE mostrando conjunto de botões 2](../../../en/images/editors/tinymce-set0.png)
+![Plugin TinyMCE mostrando conjunto de botões 2](../../../en/images/editors/tinymce-plugin/01-tinymce-set0.png)
 
 ### Conjunto de Ferramentas 1
 
 Este conjunto de ferramentas é atribuído aos grupos *Gerente* e *Registrado*.
 
-![Plugin TinyMCE mostrando conjunto de botões 2](../../../en/images/editors/tinymce-set1.png)
+![Plugin TinyMCE mostrando conjunto de botões 2](../../../en/images/editors/tinymce-plugin/02-tinymce-set1.png)
 
 ### Conjunto de Ferramentas 2
 
 Este conjunto tem ferramentas mínimas e é atribuído ao grupo *Público*. Ele seria usado para preencher formulários públicos.
 
-![Plugin TinyMCE mostrando conjunto de botões 2](../../../en/images/editors/tinymce-set2.png)
+![Plugin TinyMCE mostrando conjunto de botões 2](../../../en/images/editors/tinymce-plugin/03-tinymce-set2.png)
 
 ## Outras Configurações
 

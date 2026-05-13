@@ -1,4 +1,11 @@
-<!-- Filename: What_has_the_copyright_of_Joomla!%3F / Display title: Joomla! Direitos Autorais -->
+<!--
+{
+  "source": "https://docs.joomla.org/What_has_the_copyright_of_Joomla!%3F",
+  "title": "Joomla! Direitos Autorais ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 O projeto Joomla! não agrega os direitos autorais de seus contribuidores de código. Nenhum colaborador é obrigado a transferir seus direitos autorais para o Joomla!, e cada contribuição individual permanecerá para sempre sob a propriedade de seu autor. Isso também se aplica às traduções dos conjuntos de idiomas de instalação, pois estas são as únicas incluídas no lançamento principal do Joomla!.
 

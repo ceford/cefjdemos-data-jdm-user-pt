@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Guest_Access / Display title: Acesso de Convidado -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Guest_Access",
+  "title": "Acesso de Convidado ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Níveis de Acesso
 
@@ -24,7 +31,7 @@ O uso do nível de acesso de Convidado pode ser ilustrado com um item de menu de
 - Opcionalmente, selecione a lista de Ordenação e escolha o item **após o
   qual você gostaria que o item de Login aparecesse.
 
-![formulário de menu de login restrito a acesso de convidado](../../../en/images/users/guest-access-menu-login.png)
+![formulário de menu de login restrito a acesso de convidado](../../../en/images/users/guest-access/01-guest-access-menu-login.png)
 
 - Salvar e Fechar.
 - Veja o site. Verifique se o item do menu Login funciona. Verifique se ele
@@ -42,7 +49,7 @@ O uso do nível de acesso Registrado pode ser ilustrado com um item de menu de L
 - Salve.
 - Opcionalmente, selecione o menu suspenso de Ordenação e escolha o item **após** o qual você gostaria que o item Login aparecesse.
 
-![formulário de menu de logout restrito a acesso registrado](../../../en/images/users/guest-access-menu-logout.png)
+![formulário de menu de logout restrito a acesso registrado](../../../en/images/users/guest-access/02-guest-access-menu-logout.png)
 
 - Salve e Feche.
 - Veja o site. Verifique se o item de menu Logout funciona. Verifique se ele desaparece após o logout.

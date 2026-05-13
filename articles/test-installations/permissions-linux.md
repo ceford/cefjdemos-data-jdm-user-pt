@@ -1,4 +1,11 @@
-<!-- Filename: Verifying_permissions / Display title: Permissões de Arquivo: Linux   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Verifying_permissions",
+  "title": "Permissões de Arquivo: Linux   ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 
@@ -22,11 +29,11 @@ Existem vários métodos disponíveis para visualizar e alterar as permissões d
 
 Dependendo do que você está usando, deverá ver algo como esta imagem de parte do sistema de arquivos raiz do Joomla, conforme visto no cPanel:
 
-![verificando permissões no cpanel](../../../en/images/test-installations/verifying-permissions-cpanel.png)
+![verificando permissões no cpanel](../../../en/images/test-installations/permissions-linux/01-verifying-permissions-cpanel.png)
 
 As permissões estão no extremo direito e são precedidas por um zero para indicar que são números octais. Deve haver um formulário para alterar as permissões de um ou mais itens selecionados:
 
-![alterando permissões no cpanel](../../../en/images/test-installations/verifying-permissions-cpanel-change.png)
+![alterando permissões no cpanel](../../../en/images/test-installations/permissions-linux/02-verifying-permissions-cpanel-change.png)
 
 Em uma janela de terminal, as permissões de arquivos e pastas são exibidas como grupos de letras em vez de números (o `d` inicial indica que o item é um diretório):
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Menu_Dashboard / Display title: Menu do Painel de Controle -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Menu_Dashboard",
+  "title": "Menu do Painel de Controle ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introdução
 
@@ -8,7 +15,7 @@ Você pode ter quantos menus de Site e Administrador quiser, em praticamente qua
 
 ## Captura de Tela
 
-![Menu do painel](../../../en/images/dashboards/menus-dashboard.png)
+![Menu do painel](../../../en/images/dashboards/menu-dashboard/01-menus-dashboard.png)
 
 *Traduzido por openai.com*
 
