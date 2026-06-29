@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Media:_Upload_Delete_Rename",
-  "title": "Carregar Excluir Renomear  ",
+  "title": "Carregar Excluir Renomear ",
   "description": "", 
   "author": ""
 }

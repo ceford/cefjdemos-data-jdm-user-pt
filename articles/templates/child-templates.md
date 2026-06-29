@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Child_Templates",
-  "title": "Modelos Filhos ",
+  "title": "Modelos Filhos",
   "description": "", 
   "author": ""
 }

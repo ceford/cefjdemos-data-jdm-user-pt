@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Adding_a_Custom_Administrator_Menu",
-  "title": "Menu Personalizado de Administrador  ",
+  "title": "Menu Personalizado de Administrador ",
   "description": "", 
   "author": ""
 }

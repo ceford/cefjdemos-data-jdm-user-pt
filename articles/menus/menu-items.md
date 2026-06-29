@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Menu_Items",
-  "title": "Itens do Cardápio  ",
+  "title": "Itens do Cardápio ",
   "description": "", 
   "author": ""
 }

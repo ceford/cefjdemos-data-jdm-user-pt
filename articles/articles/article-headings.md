@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Article_Headings",
-  "title": "Artigo: Edição - Títulos  ",
+  "title": "Artigo: Edição - Títulos ",
   "description": "", 
   "author": ""
 }

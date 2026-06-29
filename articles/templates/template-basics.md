@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Template_Basics",
-  "title": "Noções Básicas de Template ",
+  "title": "Noções Básicas de Template",
   "description": "", 
   "author": ""
 }

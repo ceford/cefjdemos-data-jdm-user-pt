@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Template_Layouts",
-  "title": "Layouts de Modelo  ",
+  "title": "Layouts de Modelo ",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Smart_Search_Frequently_Asked_Questions",
-  "title": "Perguntas Frequentes sobre Pesquisa Inteligente  ",
+  "title": "Perguntas Frequentes sobre Pesquisa Inteligente ",
   "description": "", 
   "author": ""
 }

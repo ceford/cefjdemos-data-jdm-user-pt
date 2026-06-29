@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=fields&filename=subform.md",
-  "title": "Campo do Subformulário ",
+  "title": "Campo do Subformulário",
   "description": "", 
   "author": ""
 }
