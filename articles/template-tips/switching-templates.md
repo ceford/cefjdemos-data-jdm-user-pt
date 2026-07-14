@@ -1,4 +1,12 @@
-<!-- Filename: J4.x:Switching_Templates / Display title: Mudança de Modelos  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Switching_Templates",
+  "title": "Mudança de Modelos  ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Modelos de Site e Administrador
 
@@ -16,7 +24,7 @@ Para definir o template padrão:
   no menu do Administrador.
 - Selecione um dos botões na coluna Padrão.
 
-![lista de estilos de templates do site](../../../en/images/templates/switch-templates-styles-list.png)
+![página de lista de estilos de templates do site](../../../en/images/template-tips/switching-templates/01-switch-templates-styles-list.png)
 
 Dê uma olhada no seu site para garantir que todas as páginas estão usando o
 template padrão.
@@ -34,7 +42,7 @@ A partir da lista de Estilos de Templates:
 - Selecione itens de menu individuais ou alternar todos os itens em um menu.
 - Salvar
 
-![aba de atribuição de menu de edição de estilo de templates](../../../en/images/templates/switch-templates-styles-edit-style-menu-assignment.png)
+![aba de atribuição de menu na página de edição de estilo de templates](../../../en/images/template-tips/switching-templates/02-switch-templates-styles-edit-style-menu-assignment.png)
 
 Neste exemplo, todos os itens de menu no menu `Menu Principal de Teste` foram selecionados. Volte ao seu site e selecione qualquer um dos itens de menu que deve usar o template selecionado.
 
@@ -47,7 +55,7 @@ Este método é usado para definir o template para itens de menu individuais.
 - No campo **Estilo de Template**, selecione o estilo de template desejado.
 - Salvar
 
-![formulário de edição de item de menus de templates mostrando a seleção de estilo](../../../en/images/templates/switch-templates-styles-edit-menu-style.png)
+![formulário de edição de item de menus de templates mostrando seleção de estilo](../../../en/images/template-tips/switching-templates/03-switch-templates-styles-edit-menu-style.png)
 
 Volte ao seu site e selecione o item de menu alterado para verificar se ele é exibido com o estilo de template selecionado.
 

@@ -1,4 +1,12 @@
-<!-- Filename: J4.x:Apache_PHP_Handler / Display title: Manipuladores PHP do Apache  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Apache_PHP_Handler",
+  "title": "Manipuladores PHP do Apache  ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Notas
 

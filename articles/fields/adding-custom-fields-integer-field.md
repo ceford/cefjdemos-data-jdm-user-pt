@@ -1,4 +1,12 @@
-<!-- Filename: J3.x:Adding_custom_fields/Integer_Field / Display title: Campo Inteiro -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Campo Inteiro ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Finalidade
 
@@ -15,7 +23,7 @@ Opções especiais para este campo:
 - **Classe do Campo** Defina como *w-auto* para que a lista seja apenas larga o suficiente para sua
 lista de inteiros.
 
-![Criação de campo inteiro](../../../en/images/fields/fields-integer-edit.png)
+![Criação de campo inteiro](../../../en/images/fields/adding-custom-fields-integer-field/01-fields-integer-edit.png)
 
 **Nota:** Neste exemplo, a inclusão do tipo de campo no Título é apenas para
 fins de demonstração. Não inclua nos seus próprios títulos de campo.
@@ -24,7 +32,7 @@ fins de demonstração. Não inclua nos seus próprios títulos de campo.
 
 Selecione o número inteiro necessário da lista, ou mais de um de uma lista de seleção múltipla. Note que, sem w-auto, o campo de seleção de inteiro ocupa toda a largura do formulário.
 
-![Entrada de dados no campo de número inteiro](../../../en/images/fields/fields-integer-data-entry.png)
+![Entrada de dados do campo de número inteiro](../../../en/images/fields/adding-custom-fields-integer-field/02-fields-integer-data-entry.png)
 
 ## Exibição de Dados
 
@@ -32,7 +40,7 @@ A captura de tela do site a seguir mostra o campo exibido em um artigo. A
 opção *Exibição automática* é responsável pela posição do campo, e
 seu template é responsável pelo design do campo.
 
-![Exibição de campo inteiro no site](../../../en/images/fields/fields-integer-site.png)
+![Exibição do campo inteiro no site](../../../en/images/fields/adding-custom-fields-integer-field/03-fields-integer-site.png)
 
 *Traduzido por openai.com*  
 

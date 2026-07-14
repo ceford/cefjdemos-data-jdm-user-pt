@@ -1,4 +1,12 @@
-<!-- Filename: J4.x:Global_Configuration / Display title: Configuração Global  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Global_Configuration",
+  "title": "Configuração Global  ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Visão Geral
 
@@ -10,7 +18,7 @@ O formulário de Configuração Global permite que um Super Usuário altere as v
 
 O formulário de Configuração Global possui seis abas, algumas das quais têm longas listas de parâmetros. Use o botão *Alternar Ajuda Inline* na Barra de Ferramentas para ver mais ou menos informações sobre cada parâmetro.
 
-![Aba de configuração global do site](../../../en/images/configuration/global-configuration-site-tab.png)
+![Aba de configuração global do site](../../../en/images/configuration/global-configuration/01-global-configuration-site-tab.png)
 
 Alguns parâmetros mostram ou ocultam outros parâmetros quando selecionados. Por exemplo, o botão **Site Offline** mostra mais campos quando configurado como *Sim* do que quando configurado como *Não*. Com a ajuda inline expandida, a maioria dos campos está suficientemente bem documentada para não necessitar de mais explicações aqui, exceto algumas notas adicionais do usuário em cada aba.  
 
@@ -44,7 +52,7 @@ SEO é um acrônimo para *Otimização para Motores de Busca*. As configuraçõe
 
 ## Aba do Sistema
 
-![Aba do sistema de configuração global](../../../en/images/configuration/global-configuration-system-tab.png)
+![Aba de sistema de configuração global](../../../en/images/configuration/global-configuration/02-global-configuration-system-tab.png)
 
 ### Painel de Depuração
 
@@ -52,7 +60,7 @@ Os itens deste painel são bem explicados pela ajuda inline. No entanto, se voc�
 
 ## Guia do Servidor
 
-![Guia do servidor de configuração global](../../../en/images/configuration/global-configuration-server-tab.png)
+![Guia de configuração global do servidor](../../../en/images/configuration/global-configuration/03-global-configuration-server-tab.png)
 
 ### Painel de e-mail
 
@@ -106,19 +114,19 @@ As seguintes combinações também funcionam:
 
 ## Aba de Log
 
-![Aba do site de configuração global](../../../en/images/configuration/global-configuration-logging-tab.png)
+![Aba de configuração global do site](../../../en/images/configuration/global-configuration/04-global-configuration-logging-tab.png)
 
 Em operação normal, um site Joomla deve ter o registro desativado. Se houver problemas, você pode ativar o registro configurando o campo **Registrar Quase Tudo** para `Sim`. A opção **Registrar API Obsoleta** é realmente apenas para desenvolvedores. O campo **Caminho para a Pasta de Logs** mostra onde procurar os logs, caso você tenha configurado o registro para ajudar na depuração. Os logs de erro que você encontrar lá são apenas aqueles capturados pelo Joomla. Pode haver outros erros que só aparecerão nos logs de erro do seu servidor.
 
 ## A aba Filtros de Texto
 
-![Aba de configuração global do site](../../../en/images/configuration/global-configuration-filters-tab.png)
+![Guia de configuração global do site](../../../en/images/configuration/global-configuration/05-global-configuration-filters-tab.png)
 
 As configurações de filtro de texto serão aplicadas a todos os campos do editor de texto enviados por usuários nos grupos selecionados. Essas opções de filtragem oferecem mais controle sobre o HTML que seus provedores de conteúdo enviam. Você pode ser tão rigoroso ou liberal quanto necessário para atender às necessidades do seu site. A filtragem é opcional, e as configurações padrão oferecem boa proteção contra marcações comumente associadas a ataques em sites.
 
 ## Aba de Permissões
 
-![Guia do site de configuração global](../../../en/images/configuration/global-configuration-permissions-tab.png)
+![Guia de configuração global do site](../../../en/images/configuration/global-configuration/06-global-configuration-permissions-tab.png)
 
 As permissões controlam o que os usuários em cada Grupo de Usuários podem ver e fazer. As entradas na aba de Permissões definem as permissões padrão para o site.
 

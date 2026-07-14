@@ -1,4 +1,12 @@
-<!-- Filename: J4.x:Submenus / Display title: Submenus  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Submenus",
+  "title": "Submenus  ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Noções Básicas de Menu
 
@@ -26,7 +34,7 @@ Suponha que você tenha uma série de artigos sobre animais. Pode ser animais de
 
 As listas podem ser bastante longas, então você pode desejar exibir apenas uma lista de raças de gatos em páginas sobre gatos e apenas uma lista de raças de cães em páginas sobre cães. A captura de tela a seguir mostra o layout alvo que o usuário gostaria de alcançar:
 
-![objetivos dos submenus animais gatos](../../../en/images/menus/submenus-objectives-animals-cats.png)
+![submenus objetivos animais gatos](../../../en/images/menus/submenus/01-submenus-objectives-animals-cats.png)
 
 Neste exemplo, quando o usuário seleciona o item de menu Animais, a página Animais é carregada e o módulo de menu Gatos desaparece (nenhum módulo de Cães também). Selecionar o item de menu Gatos faz com que o módulo de menu Gatos apareça ao lado da página Gatos. Selecionar o item de menu Burmese faz com que a página Burmese apareça. Selecionar o item de menu Cães substitui o módulo de menu Gatos por um módulo de menu Cães ao lado da página Cães.
 
@@ -53,7 +61,7 @@ No menu do Administrador:
 - Em alguns casos, pode ser necessário lembrar-se para que serve este menu. Portanto, preencha o campo de descrição.
 - Salvar ou Salvar & Fechar.
 
-![submenus new menu](../../../en/images/menus/submenus-new-menu.png)
+![submenus novo menu](../../../en/images/menus/submenus/02-submenus-new-menu.png)
 
 ## Criar Itens de Menu
 
@@ -97,7 +105,7 @@ Continue até ter sete itens de menu, um para cada artigo.
 
 Quando você tiver criado todos os seus itens de menu, verifique se eles têm as corretas relações de pai-filho e se estão na ordem correta. Você pode ordenar pela coluna de Ordenação (a segunda coluna) e usar os controles de arrasto (elipse vertical) para mover os itens para a ordem correta. Se algum item tiver um pai errado, basta selecionar o título do item e alterar o pai no formulário Menus: Editar Item.
 
-![lista de itens de menu de submenus](../../../en/images/menus/submenus-menu-items-list.png)
+![lista de itens do menu de submenus](../../../en/images/menus/submenus/03-submenus-menu-items-list.png)
 
 ## Módulos de Menu
 
@@ -123,7 +131,7 @@ No menu do Administrador:
     Cães)
   - Posição: barra lateral-esquerda (ou onde achar mais adequado)
 
-![submenus animais módulo](../../../en/images/menus/submenus-animals-module.png)
+![módulo de submenus animais](../../../en/images/menus/submenus/04-submenus-animals-module.png)
 
 ### Atribuição de Menu de Animais
 
@@ -135,7 +143,7 @@ Submenus são normalmente exibidos apenas em páginas onde são relevantes, nest
 - Certifique-se de que nenhuma outra caixa esteja marcada.
 - Salvar & Fechar
 
-![atribuição de menu do módulo submenu de animais](../../../en/images/menus/submenus-animals-module-menu-assignment.png)
+![atribuição de menu módulo animais de submenus](../../../en/images/menus/submenus/05-submenus-animals-module-menu-assignment.png)
 
 ## Módulo de Submenu de Gatos
 
@@ -178,7 +186,7 @@ Até aqui, tudo bem! Mas não há link para a página de Animais a partir do Men
   - Tipo de Item de Menu: Alias do Item de Menu
   - Item de Menu: Animais - selecionado na lista de itens de menu existentes.
 
-![submenus animals alias](../../../en/images/menus/submenus-animals-alias.png)
+![submenus animais alias](../../../en/images/menus/submenus/06-submenus-animals-alias.png)
 
 - Salvar
 - Ordenação - após salvar, a ordem pode ser alterada. Neste exemplo, é colocado primeiro.
@@ -187,7 +195,7 @@ Até aqui, tudo bem! Mas não há link para a página de Animais a partir do Men
 
 Visualize as páginas do seu site. Neste exemplo, a maioria das páginas não mostrará os submenus na posição do lado esquerdo. O link Animais no menu superior abrirá a página de animais, a partir da qual é possível navegar para as páginas de Gatos ou Cachorros:
 
-![objetivos submenus animais cães](../../../en/images/menus/submenus-objectives-animals-dogs.png)
+![objetivos dos submenus animais cachorros](../../../en/images/menus/submenus/07-submenus-objectives-animals-dogs.png)
 
 *Traduzido por openai.com*
 

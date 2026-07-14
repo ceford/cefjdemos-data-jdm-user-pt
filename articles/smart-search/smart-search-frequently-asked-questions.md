@@ -1,4 +1,12 @@
-<!-- Filename: Smart_Search_Frequently_Asked_Questions / Display title: Perguntas Frequentes sobre Pesquisa Inteligente  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Smart_Search_Frequently_Asked_Questions",
+  "title": "Perguntas Frequentes sobre Pesquisa Inteligente  ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Por que devo usar a Pesquisa Inteligente?
 

@@ -1,4 +1,12 @@
-<!-- Filename: J3.x:Adding_custom_fields/Textarea_Field / Display title: Campo de Área de Texto -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Campo de Área de Texto ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Finalidade
 
@@ -13,7 +21,7 @@ As opções especiais dentro deste campo são:
 - **Comprimento Máximo** O número máximo de caracteres que pode ser inserido.
 - **Filtro** Permite que o sistema salve determinadas tags HTML ou dados brutos.
 
-![criação do campo de área de texto](../../../en/images/fields/fields-textarea-edit.png)
+![criação de campo de área de texto](../../../en/images/fields/adding-custom-fields-textarea-field/01-fields-textarea-edit.png)
 
 **Nota:** Neste exemplo, a inclusão do tipo de campo no Título é apenas para fins de demonstração. Deixe de fora em seus próprios títulos de campo.
 
@@ -21,13 +29,13 @@ As opções especiais dentro deste campo são:
 
 Simples: insira o texto a ser exibido.
 
-![entrada de dados do campo de área de texto](../../../en/images/fields/fields-textarea-data-entry.png)
+![campo de entrada de dados em área de texto](../../../en/images/fields/adding-custom-fields-textarea-field/02-fields-textarea-data-entry.png)
 
 ## Exibição de Dados
 
 A captura de tela a seguir do Site mostra o campo exibido em um artigo. A opção *Exibição automática* é responsável pela posição do campo, e seu modelo é responsável pelo design do campo.
 
-![exibição do campo de área de texto no site](../../../en/images/fields/fields-textarea-site.png)
+![exibição de campo de área de texto no site](../../../en/images/fields/adding-custom-fields-textarea-field/03-fields-textarea-site.png)
 
 O rótulo do campo inicia um único bloco de texto, a menos que você tenha inserido tags HTML, como `<p>...</p>`.
 

@@ -1,4 +1,12 @@
-<!-- Filename: J5.x:Schema_org/Type_JobPosting_-_Using_JobPosting_Plugin / Display title: Schema.org - JobPosting -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Schema_org",
+  "title": "Schema.org - JobPosting ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Objetivo
 
@@ -29,7 +37,7 @@ A seção *Campo Genérico* permite que pares de *Título* e *Valor* sejam inser
 
 Abaixo está um exemplo de um esquema JobPosting em um formulário de edição de Artigo.
 
-![A jobposting schema edit form](../../../en/images/schemas/edit-schema-jobposting.png)
+![A jobposting schema edit form](../../../en/images/schemas/jobposting/01-edit-schema-jobposting.png)
 
 *Traduzido por openai.com*
 

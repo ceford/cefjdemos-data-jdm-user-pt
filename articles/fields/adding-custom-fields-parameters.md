@@ -1,4 +1,12 @@
-<!-- Filename: J3.x:Adding_custom_fields/Parameters_for_all_Custom_Fields / Display title: Parâmetros de Campo -->
+<!--
+{
+  "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+  "title": "Parâmetros de Campo ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Formulário de Entrada de Dados de Campo
 
@@ -9,7 +17,7 @@ Uma lista de Campos estará inicialmente vazia. Para começar, por exemplo, com 
 
 O formulário consiste em um campo de Título e quatro abas.
 
-![Parâmetros de campo aba geral](../../../en/images/fields/fields-parameters-general-tab.png)
+![Aba geral de parâmetros do campo](../../../en/images/fields/adding-custom-fields-parameters/01-fields-parameters-general-tab.png)
 
 
 ## Título
@@ -45,7 +53,7 @@ O título é exibido na página de lista *Artigos: Campos*, onde pode ser seleci
 
 ### Aba de Opções
 
-![Parâmetros do campo aba geral](../../../en/images/fields/fields-parameters-options-tab.png)
+![Parâmetros do campo aba opções](../../../en/images/fields/adding-custom-fields-parameters/02-fields-parameters-options-tab.png)
 
 #### Opções de Formulário
 
@@ -81,13 +89,13 @@ O título é exibido na página de lista *Artigos: Campos*, onde pode ser seleci
 
 ### Aba de Publicação
 
-![Parâmetros do campo aba geral](../../../en/images/fields/fields-parameters-publishing-tab.png)
+![Parâmetros do campo aba publicação](../../../en/images/fields/adding-custom-fields-parameters/03-fields-parameters-publishing-tab.png)
 
 ### Aba de Permissões
 
 As permissões para cada grupo de utilizadores são autoexplicativas para as ações *Eliminar*, *Editar* e *Editar estado*. As permissões indicam quem pode fazer o quê com o campo como um todo, como eliminá-lo, alterá-lo ou despublicá-lo.
 
-![Parâmetros do campo aba geral](../../../en/images/fields/fields-parameters-permissions-tab.png)
+![Parâmetros do campo aba permissões](../../../en/images/fields/adding-custom-fields-parameters/04-fields-parameters-permissions-tab.png)
 
 A permissão *Editar valor de campo personalizado* pode ser confusa. Ela mostra quem pode alterar o conteúdo do campo. Por padrão, está definida como **Não permitido (Herdado)** para todos os grupos, exceto para os Super Utilizadores. Dois exemplos:
 

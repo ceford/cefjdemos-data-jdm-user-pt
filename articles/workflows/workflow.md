@@ -1,4 +1,12 @@
-<!-- Filename: J4.x:Workflow / Display title: Fluxo de Publicação  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Workflow",
+  "title": "Fluxo de Publicação  ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Introdução
 
@@ -20,7 +28,7 @@ Existe uma página de tutorial contendo etapas para a criação de um exemplo de
 
 Quando os fluxos de trabalho estão habilitados, a lista de fluxos de trabalho disponíveis pode ser vista selecionando **Conteúdo → Fluxos de Trabalho** no menu do Administrador.
 
-![Lista de Fluxos de Trabalho](../../../en/images/workflows/workflows-list.png)
+![Lista de fluxos de trabalho](../../../en/images/workflows/workflow/01-workflows-list.png)
 
 - O **Status** de um fluxo de trabalho pode ser Ativado, Desativado ou Excluído.
 - O **Nome** é um link para o formulário de edição do fluxo de trabalho.
@@ -34,17 +42,17 @@ Quando os fluxos de trabalho estão habilitados, a lista de fluxos de trabalho d
 As etapas são acessadas via a lista de *Workflows*. Selecione o botão amarelo
 que mostra o número de etapas.
 
-![Lista de etapas de workflow](../../../en/images/workflows/workflow-stages-list.png)
+![Lista de etapas do fluxo de trabalho](../../../en/images/workflows/workflow/02-workflow-stages-list.png)
 
 Selecione o nome de uma etapa para editá-la.
 
-![Formulário de edição de etapa do workflow](../../../en/images/workflows/workflow-stage-edit.png)
+![Formulário de edição da etapa do fluxo de trabalho](../../../en/images/workflows/workflow/03-workflow-stage-edit.png)
 
 ## Transições
 
 Nos fluxos de trabalho, os artigos transitam de uma etapa para outra. As transições são geridas através da lista de *Transições*.
 
-![A lista de transições](../../../en/images/workflows/workflow-transitions-list.png)
+![A lista de transições](../../../en/images/workflows/workflow/04-workflow-transitions-list.png)
 
 - O *Estágio Atual* define onde esta transição começa.
 - O *Estágio Alvo* define onde esta transição termina.
@@ -53,18 +61,18 @@ Nos fluxos de trabalho, os artigos transitam de uma etapa para outra. As transi�
 
 Os estágios *Atual* e *Alvo* são configurados no formulário *Editar Transição*:
 
-![Formulário de edição de transição](../../../en/images/workflows/workflow-transition-edit.png)
+![Formulário de edição de transição](../../../en/images/workflows/workflow/05-workflow-transition-edit.png)
 
 A aba *Ações de Transição* é usada para definir o *Estado* que o item terá após a conclusão da transição.
 
-![Aba de ações do formulário de edição de transição](../../../en/images/workflows/workflow-transition-edit-actions-tab.png)
+![Aba de ações do formulário de edição de transição](../../../en/images/workflows/workflow/06-workflow-transition-edit-actions-tab.png)
 
 - **Estado de Destaque** Se o item será ou não *Destacado*.
 - **Estado de Publicação** Selecione da lista o estado alvo.
 
 A aba *Notificações de Transição* é usada para definir se uma notificação é enviada para esse estado. Por exemplo, se um artigo foi escrito mas precisa ser revisado, um e-mail pode ser enviado para notificar o editor.
 
-![Aba de notificações do formulário de edição de transição](../../../en/images/workflows/workflow-transition-edit-notifications-tab.png)
+![Aba de notificações do formulário de edição de transição](../../../en/images/workflows/workflow/07-workflow-transition-edit-notifications-tab.png)
 
 - **Enviar Notificação** Se definido como *Sim*, campos extras aparecem.
 - **Texto de Mensagem Adicional** Adicione texto adicional à mensagem ou use uma string de idioma para tornar o texto da mensagem traduzível.
@@ -79,7 +87,7 @@ A aba de permissões controla o acesso a esta transição por grupos de usuário
 
 Os plugins de fluxo de trabalho são usados para ações invocadas por transições. Vá para **Sistema → Plugins** e altere o filtro *- Selecionar Tipo -* para *workflow*. Cada um desses plugins pode ser desativado se não for necessário.
 
-![Lista de plugins de fluxo de trabalho](../../../en/images/workflows/workflow-plugins.png)
+![Lista de plugins de fluxo de trabalho](../../../en/images/workflows/workflow/08-workflow-plugins.png)
 
 - **Destaque de Fluxo de Trabalho** Esta ação implementa a mudança do status *Destacado* de um artigo de *Sim* para *Não*.
 - **Notificação de Fluxo de Trabalho** Esta ação implementa a notificação de um usuário que uma mudança de estágio requer atenção.
@@ -89,7 +97,7 @@ Os plugins de fluxo de trabalho são usados para ações invocadas por transiç�
 
 Os artigos podem ser atribuídos a categorias. Elas correspondem a um determinado fluxo de trabalho e podem ser personalizadas de várias maneiras. Você pode definir um status, categoria pai e também restringir o acesso, assim como as permissões. Esta opção não está na tela de fluxos de trabalho. Para essa opção, você precisa ir para **Conteúdo → Categorias**. Uma vez lá, abra qualquer categoria e você verá uma aba de *Fluxos de Trabalho*.
 
-![Edição de categoria de artigos com fluxo de trabalho](../../../en/images/workflows/workflow-categories-blog.png)
+![Edição de categoria de artigos no fluxo de trabalho](../../../en/images/workflows/workflow/09-workflow-categories-blog.png)
 
 ### Exemplo
 

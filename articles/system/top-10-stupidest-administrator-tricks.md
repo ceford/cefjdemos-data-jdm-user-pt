@@ -1,4 +1,12 @@
-<!-- Filename: Top_10_Stupidest_Administrator_Tricks / Display title: 10 Truques Estúpidos   -->
+<!--
+{
+  "source": "https://docs.joomla.org/Top_10_Stupidest_Administrator_Tricks",
+  "title": "10 Truques Estúpidos   ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Sobre Esta Lista
 

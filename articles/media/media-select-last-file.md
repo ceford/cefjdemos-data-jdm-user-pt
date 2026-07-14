@@ -1,4 +1,12 @@
-<!-- Filename: J5.x:Add_a_class_selector_to_the_create_link_dialog / Display title: Selecionar Último Arquivo -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Add_a_class_selector_to_the_create_link_dialog",
+  "title": "Selecionar Último Arquivo ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Introdução
 

@@ -1,4 +1,12 @@
-<!-- Filename: J4.x:Home_Dashboard / Display title: Dashboard Inicial -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Home_Dashboard",
+  "title": "Dashboard Inicial ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Introdução
 
@@ -17,7 +25,7 @@ A maioria dos itens são links autoexplicativos que duplicam aqueles no menu do 
 
 ## Captura de Tela
 
-![Dashboard Inicial](../../../en/images/dashboards/home-dashboard.png)
+![Painel inicial](../../../en/images/dashboards/home-dashboard/01-home-dashboard.png)
 
 *Traduzido por openai.com*
 

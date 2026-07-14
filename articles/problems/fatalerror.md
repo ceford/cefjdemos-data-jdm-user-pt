@@ -1,4 +1,12 @@
-<!-- Filename: J4.x:FatalError / Display title: ErroFatal -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:FatalError",
+  "title": "ErroFatal ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Introdução
 
@@ -9,11 +17,11 @@ De vez em quando, o Joomla pode exibir uma página de erro em vez da página que
 
 ### Página de Erro do Sistema
 
-![Página de erro fatal do sistema](../../../en/images/problems/fatal-error.png)
+![Página de erro fatal do sistema](../../../en/images/problems/fatalerror/01-fatal-error.png)
 
 ### Página de Erro do Template
 
-![Página de erro do template](../../../en/images/problems/template-error.png)
+![Página de erro do modelo](../../../en/images/problems/fatalerror/02-template-error.png)
 
 ## Como Resolver
 
@@ -39,7 +47,7 @@ Se sua interface de Administrador **não** está funcionando, edite o arquivo *c
 
 Com as mudanças feitas, recarregue a página que estava causando o erro. Agora você deve ver uma trilha de execução. Exemplo:
 
-![Página de erro de template](../../../en/images/problems/template-error-stack-trace.png)
+![Página de erro do template](../../../en/images/problems/fatalerror/03-template-error-stack-trace.png)
 
 O primeiro item na trilha de execução indica onde o erro foi disparado. Às vezes isso é suficiente para identificar a Extensão com defeito. Às vezes, a Extensão com defeito está mais abaixo na trilha de execução. Pode não significar muito para você, mas a trilha de execução é inestimável para os especialistas que respondem perguntas nos Fóruns do Joomla.
 

@@ -1,4 +1,12 @@
-<!-- Filename: J5.x:Managing_Mail_Template_Layout / Display title: Modelos de Email -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Managing_Mail_Template_Layout",
+  "title": "Modelos de Email ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Introdução
 
@@ -6,7 +14,7 @@ Os Modelos de Email são usados para enviar mensagens de email do sistema em **t
 
 A captura de tela a seguir mostra uma seleção dos 26 Modelos de E-mail padrão disponíveis. A lista está disponível selecionando **Sistema -> Modelos de E-mail** no menu do Administrador.
 
-![mail templates list](../../../en/images/templates/mail-templates-list.png)
+![mail templates list](../../../en/images/templates/mail-templates/01-mail-templates-list.png)
 
 As mensagens de e-mail podem ser personalizadas para alterar o layout, a aparência e o texto para atender às necessidades do seu site. Por exemplo, você pode querer usar um logotipo do site e um esquema de cores nesses e-mails enviados aos clientes. A personalização dos e-mails enviados aos administradores é menos importante.
 
@@ -16,7 +24,7 @@ Existem dois métodos de personalização: através do *Modelo de E-mail: Opçõ
 
 Selecione o botão **Opções** na barra de ferramentas da lista de *Modelos de E-mail* para acessar as configurações gerais do modelo de e-mail. Selecione o botão *Alternar Ajuda Inline* para ver se algum dos campos do formulário tem ajuda extra.
 
-![mail templates options](../../../en/images/templates/mail-templates-options.png)
+![mail templates options](../../../en/images/templates/mail-templates/02-mail-templates-options.png)
 
 ### Formato de Correspondência
 
@@ -32,7 +40,7 @@ Na lista de Modelos de E-mail, você pode selecionar qualquer modelo para editar
 
 ### A guia Correio
 
-![edit mail template form](../../../en/images/templates/mail-template-edit.png)
+![edit mail template form](../../../en/images/templates/mail-templates/03-mail-template-edit.png)
 
 O conteúdo das áreas de Assunto e Corpo são armazenados inicialmente em strings de linguagem. Isso torna fácil *Resetar para o Assunto Padrão* ou *Corpo*. No entanto, uma vez que um modelo de e-mail específico tenha sido editado, seus campos de Assunto e Corpo são armazenados na tabela `#__mail_templates`.
 
@@ -44,7 +52,7 @@ As tags de espaço reservado disponíveis variam de e-mail para e-mail. Você po
 
 Esta aba está presente apenas se a opção *Per Template Mail Settings* estiver definida como *Yes* em *Mail Templates: Options*. A ilustração abaixo mostra uma captura de tela com *Mail Settings* definido como *No*. Se definido como *Yes*, mais campos de formulário aparecem, substituindo as opções de e-mail definidas na configuração global, aba Servidor.
 
-![edit mail template form](../../../en/images/templates/mail-template-edit-options.png)
+![edit mail template form](../../../en/images/templates/mail-templates/04-mail-template-edit-options.png)
 
 Se você quiser enviar uma cópia oculta de um email enviado para um endereço específico, você pode inseri-lo no campo *Enviar Cópia Para Email*.
 

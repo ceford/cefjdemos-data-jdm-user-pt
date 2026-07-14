@@ -1,4 +1,12 @@
-<!-- Filename: J4.x:Logging_in_to_Joomla / Display title: Fazendo login no Joomla -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Logging_in_to_Joomla",
+  "title": "Fazendo login no Joomla ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Introdução
 
@@ -16,7 +24,7 @@ O seguinte aborda o login e logout tanto do backend quanto do frontend de um sit
 
 Navegue até a página de Login do Administrador. Este é o endereço web do site acrescido de /administrator, por exemplo, my-joomla-website.com/administrator, que invoca a página de login do Administrador Joomla:
 
-![Formulário de login do administrador](../../../en/images/getting-started/logging-in-to-joomla-administrator-login-form.png)
+![Formulário de login do administrador](../../../en/images/getting-started/logging-in-to-joomla/01-logging-in-to-joomla-administrator-login-form.png)
 
 1.  Adicione seu **Nome de Usuário**
 2.  Adicione sua **Senha**
@@ -33,7 +41,7 @@ Selecione o botão **Log in** para ser levado ao Painel Inicial do Joomla!.
 
 Para sair, selecione o **Menu de Usuário** e depois **Log out**.
 
-![Link de logout do administrador](../../../en/images/getting-started/logging-in-to-joomla-logout-link.png)
+![Link de logout do administrador](../../../en/images/getting-started/logging-in-to-joomla/02-logging-in-to-joomla-logout-link.png)
 
 ### Login do Site
 
@@ -41,7 +49,7 @@ Se o acesso ao frontend estiver habilitado, um formulário de login terá sido a
 
 Este exemplo usa um formulário de login localizado na barra lateral direita.
 
-![Módulo de formulário de login do site](../../../en/images/getting-started/logging-in-to-joomla-site-login-form.png)
+![Módulo de formulário de login do site](../../../en/images/getting-started/logging-in-to-joomla/03-logging-in-to-joomla-site-login-form.png)
 
 No **Formulário de Login**
 
@@ -54,7 +62,7 @@ Ao fazer login pelo frontend do site, você pode permanecer na mesma página de 
 
 ### Logout do Site
 
-![Módulo de formulário de logout do site](../../../en/images/getting-started/logging-in-to-joomla-site-logout-form.png)
+![Módulo de formulário de logout do site](../../../en/images/getting-started/logging-in-to-joomla/04-logging-in-to-joomla-site-logout-form.png)
 
 Para sair, vá até o formulário de login e selecione o botão **Log out**.
 

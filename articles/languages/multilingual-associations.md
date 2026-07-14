@@ -1,4 +1,12 @@
-<!-- Filename: J4.x:Multilingual_Associations / Display title: Associações Multilíngues  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Multilingual_Associations",
+  "title": "Associações Multilíngues  ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Sites Multilíngues
 
@@ -16,7 +24,7 @@ Os seguintes itens podem ser incluídos em associações:
 
 A captura de tela a seguir mostra uma lista de exemplo de artigos em inglês com seus equivalentes em outros idiomas.
 
-![lista de associações multilíngue](../../../en/images/languages/multilingual-associations-list.png)
+![lista de associações multilíngues](../../../en/images/languages/multilingual-associations/01-multilingual-associations-list.png)
 
 O último artigo sobre Montanhas ainda não teve artigos equivalentes criados em outros idiomas. Os artigos que faltam podem ser traduzidos do inglês original desta página.
 
@@ -33,7 +41,7 @@ Se você criou um site multilíngue, terá criado uma categoria de idioma para c
 - Selecione **Fechar**.
 - Repita para os outros idiomas.
 
-![edição de associações multilíngues](../../../en/images/languages/multilingual-associations-edit.png)
+![edição de associações multilíngues](../../../en/images/languages/multilingual-associations/02-multilingual-associations-edit.png)
 
 ## Criando uma Tradução de Menu
 
@@ -58,7 +66,7 @@ Continuando com o exemplo das Montanhas:
 
 Abra ou recarregue a visualização do site para verificar se seus menus e artigos estão sendo exibidos como esperado.
 
-![visualização do site de associações multilíngues](../../../en/images/languages/multilingual-associations-site.png)
+![visualização do site com associações multilíngues](../../../en/images/languages/multilingual-associations/03-multilingual-associations-site.png)
 
 *Traduzido por openai.com*
 

@@ -1,4 +1,12 @@
-<!-- Filename: J5.x:Schema_org/Type_Recipe_-_Using_Recipe_Plugin / Display title: Schema.org - Receita -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Schema_org",
+  "title": "Schema.org - Receita ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Finalidade
 
@@ -30,7 +38,7 @@ A seção *Campo Genérico* permite que pares de *Título* e *Valor* sejam inser
 
 Abaixo está um exemplo de um esquema de Receita em um formulário de edição de Artigo.
 
-![A recipe schema edit form](../../../en/images/schemas/edit-schema-recipe.png)
+![A recipe schema edit form](../../../en/images/schemas/recipe/01-edit-schema-recipe.png)
 
 *Traduzido por openai.com*
 

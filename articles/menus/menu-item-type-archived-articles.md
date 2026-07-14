@@ -1,4 +1,12 @@
-<!-- Filename: J4.x:How_to_Create_a_Menu_Item_to_View_Archived_Articles / Display title: Menu de Artigos Arquivados -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:How_to_Create_a_Menu_Item_to_View_Archived_Articles",
+  "title": "Menu de Artigos Arquivados ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Introdução
 
@@ -15,7 +23,7 @@ Mas e se os artigos mais antigos precisarem estar disponíveis para os visitante
 5. Altere qualquer um dos outros parâmetros de acordo com suas necessidades. Por exemplo, você pode deletar **Todas as Categorias** e escolher uma ou mais categorias da lista suspensa.
 6. Selecione **Salvar & Fechar** para criar o novo item de menu.
 
-![Formulário de Menu de Artigos Arquivados](../../../en/images/menus/menus-articles-archived.png)
+![Formulário de Menu de Artigos Arquivados](../../../en/images/menus/menu-item-type-archived-articles/01-menus-articles-archived.png)
 
 Há uma série de parâmetros que você pode alterar – você pode encontrar informações mais detalhadas na tela de [Ajuda](jdocmanual?article=help/menu-items/menu-item-article-archived).
 
@@ -25,7 +33,7 @@ Após salvar, o novo item de menu aparecerá no menu do site na ordem adicionada
 
 O link *Artigos Arquivados* leva a uma página que exibe uma lista de artigos arquivados:
 
-![Formulário de Menu de Artigos Arquivados](../../../en/images/menus/menus-articles-archived-display.png)
+![Formulário de Menu de Artigos Arquivados](../../../en/images/menus/menu-item-type-archived-articles/02-menus-articles-archived-display.png)
 
 Este exemplo é a saída padrão. Você pode optar por alterá-la para,
 por exemplo, mostrar apenas o título com link e a categoria – o Joomla permite que você modifique isso facilmente. Você pode decidir que quer apenas mostrar o título, mas vale a pena experimentar até configurá-lo como preferir.

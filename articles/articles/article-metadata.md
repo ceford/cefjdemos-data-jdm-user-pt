@@ -1,4 +1,12 @@
-<!-- Filename: J6.x:_Article_Metadata / Display title: Artigo: Editar - Metadados  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J6.x:_Article_Metadata",
+  "title": "Artigo: Editar - Metadados  ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Introdução
 
@@ -36,13 +44,22 @@ Existem várias Ferramentas para Webmasters que podem ser usadas para identifica
 
 [Artigo de suporte do Google sobre uso de títulos para suas páginas web](http://support.google.com/webmasters/bin/answer.py?hl=pt-BR&amp;answer=35624)
 
-No Joomla, para uma única página, o título do artigo torna-se o título da página usado no cabeçalho e exibido na aba do navegador. Para uma página composta, como *Artigos em Destaque* ou um *Blog de Categoria*, o Título do item de menu torna-se o título da página. Portanto, você precisa pensar bem na composição de bons títulos descritivos tanto para artigos quanto para itens de menu.
+### Prioridades para o Título da Página
+
+No Joomla, o título da página (metadado) utilizado na seção `<head>` e exibido na aba do navegador é derivado de uma das seguintes fontes, nesta ordem de prioridade:
+
+1. Item de Menu > Exibição da Página > Título da Página no Navegador (se definido no formulário)
+2. Artigo > Opções > Título da Página no Navegador (se definido no formulário)
+3. Título do Artigo (para um artigo individual sem um item de menu associado)
+4. Título do Item de Menu (para uma página composta, como *Artigos em Destaque* ou *Blog de Categoria*)
+
+Portanto, é importante dedicar atenção à criação de títulos descritivos e adequados — tanto para os títulos das páginas quanto para os títulos dos artigos e itens de menu.
 
 ## Descrição da página
 
 O artigo *Meta Description* é um campo na guia *Publishing* do formulário de entrada de dados do artigo:
 
-![A guia de publicação do formulário de edição do artigo](../../../en/images/articles/articles-edit-publishing-tab.png)
+![Aba de publicação do formulário de edição do artigo](../../../en/images/articles/article-metadata/01-articles-edit-publishing-tab.png)
 
 Se não houver uma descrição de metadados do artigo, será usada uma descrição de metadados de um único item de menu do artigo, se estiver definida. Se não houver descrição de metadados do item de menu, então será usada a meta descrição global do site, se estiver definida. Caso contrário, o campo de descrição de metadados será omitido.
 

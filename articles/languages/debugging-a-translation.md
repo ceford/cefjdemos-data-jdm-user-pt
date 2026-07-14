@@ -1,4 +1,12 @@
-<!-- Filename: Debugging_a_translation / Display title: Depurando uma Tradução  -->
+<!--
+{
+  "source": "https://docs.joomla.org/Debugging_a_translation",
+  "title": "Depurando uma Tradução  ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Arquivos de Idioma do Joomla
 
@@ -58,7 +66,7 @@ Este plugin do sistema controla o que é exibido quando a depuração é ativada
 
 Na aba **Idioma**:
 
-![plugin sistema depuração](../../../en/images/languages/languages-debug-plugin.png)
+![plugin do sistema de depuração](../../../en/images/languages/debugging-a-translation/01-languages-debug-plugin.png)
 
 * **Erros ao Analisar Arquivos de Idioma** Exibe um erro se um arquivo de idioma não conseguir ser carregado.
 

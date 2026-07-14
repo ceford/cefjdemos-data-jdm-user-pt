@@ -1,10 +1,18 @@
-<!-- Filename: J4.x:Menu_Item_Types / Display title: Tipos de Itens do Menu  -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Menu_Item_Types",
+  "title": "Tipos de Itens do Menu  ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Sobre os Tipos de Itens de Menu
 
 Os tipos de itens de menu são definidos em cada componente que possui visualizações do site. O núcleo do Joomla possui cerca de 10 componentes desse tipo, cada um com várias visualizações, totalizando mais de 30 tipos. A captura de tela a seguir mostra os componentes com tipos de itens de menu. Cada componente se expande na seleção para exibir uma lista de tipos definidos por esse componente:
 
-![seleção de tipo de item de menu](../../../en/images/menus/menus-menu-item-type-select.png)
+![selecionar tipo de item de menu](../../../en/images/menus/menu-item-types/01-menus-menu-item-type-select.png)
 
 ### Artigos
 

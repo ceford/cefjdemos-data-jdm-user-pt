@@ -1,4 +1,12 @@
-<!-- Filename: J5.x:Add_a_class_selector_to_the_create_link_dialog / Display title: Artigo: Editar - Estilos de Link -->
+<!--
+{
+  "source": "https://docs.joomla.org/J5.x:Add_a_class_selector_to_the_create_link_dialog",
+  "title": "Artigo: Editar - Estilos de Link ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Descrição
 
@@ -11,7 +19,7 @@ Classes de link personalizadas adicionadas às opções do editor TinyMCE permit
 3. Adicione classes à *Lista de Classes de Links*. Por exemplo, classes do Bootstrap para criar botões elegantes. Pode ser necessário rolar a lista horizontalmente ou mudar a ampliação da tela para ver os botões de adicionar, remover e ordenar no final.
 4. Salvar e Fechar.
 
-![Set link classes in tinymce](../../../en/images/articles/article-edit-link-style-tinymce.png)
+![Set link classes in tinymce](../../../en/images/articles/article-link-styles/01-article-edit-link-style-tinymce.png)
 
 Você pode encontrar exemplos de modelos que usam Bootstrap nativamente na [Documentação Oficial do Bootstrap](https://getbootstrap.com/docs/5.3/components/buttons/).
 
@@ -52,11 +60,11 @@ Você também pode usar as variantes do botão de contorno:
 6. Salve o Artigo.
 7. Visualize o Artigo.
 
-![Apply link style in an article](../../../en/images/articles/article-edit-link-style-apply.png)
+![Apply link style in an article](../../../en/images/articles/article-link-styles/02-article-edit-link-style-apply.png)
 
 E este é um exemplo onde a classe do Botão de Link foi definida como `btn btn-sm btn-outline-info` e o texto vinculado é *Bootstrap*:
 
-![Preview of a custom Link Button](../../../en/images/articles/article-edit-link-style-preview.png)
+![Preview of a custom Link Button](../../../en/images/articles/article-link-styles/03-article-edit-link-style-preview.png)
 
 ## Uso Avançado: Aplicando Classes Personalizadas
 

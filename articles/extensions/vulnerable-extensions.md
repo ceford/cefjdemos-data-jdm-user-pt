@@ -1,4 +1,12 @@
-<!-- Filename: jdocmanual?manual=user&heading=extensions&filename=vulnerable-extensions.md / Display title: Extensões Vulneráveis  -->
+<!--
+{
+  "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=extensions&filename=vulnerable-extensions.md",
+  "title": "Extensões Vulneráveis  ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Fontes de Extensões
 
@@ -16,7 +24,7 @@ Se você estiver preocupado com qualquer uma de suas extensões, deve consultar 
 
 Se você está preocupado com uma extensão que não aparece na VEL, você pode usar a extensão JED Checker. Esta é uma extensão utilizada para verificar extensões submetidas para aparecer na lista do Diretório de Extensões Joomla. É instalada como qualquer outra extensão. Durante o uso, ela aceita um arquivo zip de uma extensão e examina seu conteúdo para verificar a conformidade com os padrões JED. É extremamente útil mesmo para extensões que não aparecem na lista JED. Aqui está um exemplo de captura de tela:
 
-![resultado do verificador jed](../../../en/images/extensions/extensions-jed-checker.png)
+![resultado do verificador jed](../../../en/images/extensions/vulnerable-extensions/01-extensions-jed-checker.png)
 
 Os 400 arquivos PHP sem o Aviso de Licença GPL estão em bibliotecas de terceiros com uma Licença diferente. Os 30 arquivos identificados pelo Script de Varredura Anti-Malware Joomla também estão nessas bibliotecas de terceiros. Há trabalho a fazer nos arquivos que estão sem a segurança JEXEC!  
 

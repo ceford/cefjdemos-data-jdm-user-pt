@@ -1,4 +1,12 @@
-<!-- Filename: J4.x:Fields_and_Field_Groups / Display title: Campos e Grupos de Campos   -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Fields_and_Field_Groups",
+  "title": "Campos e Grupos de Campos   ",
+  "description": "", 
+  "author": ""
+}
+-->
+
 
 ## Introdução
 
@@ -14,7 +22,7 @@ Se um campo não for atribuído a um grupo, ele aparecerá no formulário de Edi
 
 Para artigos sobre a Natureza, a categoria do artigo e as subcategorias para cada ramo do mundo vivo podem aparecer conforme o exemplo a seguir:
 
-![Categorias de artigos sobre natureza](../../../en/images/fields/fields-articles-categories-list.png)
+![Categorias de artigos sobre a natureza](../../../en/images/fields/fields-and-field-groups/01-fields-articles-categories-list.png)
 
 Algumas características óbvias da Natureza a serem observadas:
 
@@ -37,7 +45,7 @@ Criar Grupos de Campos para Artigos é muito simples:
 - Insira uma **Descrição**. Esta aparecerá abaixo do campo no formulário de edição do artigo quando *Alternar Ajuda Inline* estiver selecionado.
 - Selecione **Salvar & Fechar** na barra de ferramentas.
 
-![Lista de grupos de campos de conteúdo](../../../en/images/fields/fields-field-groups-list.png)
+![Lista de grupos de campos de conteúdo](../../../en/images/fields/fields-and-field-groups/02-fields-field-groups-list.png)
 
 ### Ordenação
 
@@ -51,7 +59,7 @@ Para criar um novo Campo de Artigo, selecione **Conteúdo → Campos** no menu d
 
 Note que na captura de tela abaixo, este campo foi atribuído ao Grupo de Campos Natureza e à categoria Natureza. Isso garante que ele sempre apareça em artigos na categoria Natureza e em qualquer subcategoria.
 
-![Campo de texto - nome em latim no grupo natureza](../../../en/images/fields/fields-latin-name.png)
+![Campo de texto - nome latim no grupo natureza](../../../en/images/fields/fields-and-field-groups/03-fields-latin-name.png)
 
 ### Caixas de Seleção - Estação de Floração
 
@@ -59,13 +67,13 @@ As caixas de seleção aparecem no formulário de edição do artigo para você 
 
 Note que nesta captura de tela o Campo foi atribuído ao grupo Flores e à Categoria Flores. Isso deve garantir que o campo esteja presente apenas em artigos sobre flores.
 
-![Campo de caixa de seleção - estação de floração](../../../en/images/fields/fields-flowering-season.png)
+![Campo de caixa de seleção - estação de floração](../../../en/images/fields/fields-and-field-groups/04-fields-flowering-season.png)
 
 ### Cor - Color
 
 Para causar confusão, o nome do tipo de campo é Color (ortografia americana), mas o rótulo na documentação é Colour (ortografia britânica).
 
-![Campo de cor](../../../en/images/fields/fields-colour.png)
+![Campo de cor](../../../en/images/fields/fields-and-field-groups/05-fields-colour.png)
 
 O campo Cor é atribuído ao grupo de campos Natureza e à categoria Natureza, pois não é exclusivo para flores.
 
@@ -73,7 +81,7 @@ O campo Cor é atribuído ao grupo de campos Natureza e à categoria Natureza, p
 
 A resistência de uma planta pode ser representada como um inteiro de 1 a 7. Não há campo para um número real, então o comprimento e a largura podem ser inteiros com uma escala (cm ou m ou ft) incluída no rótulo. Há configurações de *Prefixo* e *Sufixo* na guia *Opções*. Se não houver limite superior óbvio, deixe o campo *Último:* vazio.
 
-![Campo de resistência](../../../en/images/fields/fields-hardiness.png)
+![Campo de resistência](../../../en/images/fields/fields-and-field-groups/06-fields-hardiness.png)
 
 A resistência RHS é uma propriedade geralmente aplicada a flores!
 
@@ -85,14 +93,14 @@ Quando um formulário de Novo Artigo é aberto, a Categoria padrão é "Sem cate
 
 ### Aba Natureza
 
-![Aba de natureza do artigo Bluebell](../../../en/images/fields/field-article-bluebell-nature-tab.png)
+![Aba de natureza do artigo Bluebell](../../../en/images/fields/fields-and-field-groups/07-field-article-bluebell-nature-tab.png)
 
 - **Nome Latim** Este é um campo de entrada de texto, então basta digitar o nome latino de qualquer forma de vida que o artigo aborda. No entanto, a categoria Natureza abrange a vida em geral, bem como animais ou plantas específicas. Portanto, este campo não é *obrigatório*.
 - **Cor** O campo de seleção de cor pode aceitar a entrada de teclado de um valor de cor hexadecimal ou uma cor selecionada na ferramenta de escolha de cores. O número hexadecimal é xrrggbb onde rr são valores de vermelho, gg são valores de verde e bb são valores de azul. Na saída, o site exibe o valor hexadecimal, o que não é muito útil!
 
 ### Aba Flores
 
-![Aba de natureza do artigo Bluebell](../../../en/images/fields/field-article-bluebell-flowers-tab.png)
+![Aba de natureza do artigo Bluebell](../../../en/images/fields/fields-and-field-groups/08-field-article-bluebell-flowers-tab.png)
 
 - **Estação de Floração** O campo de caixa de seleção - os bluebells são flores bem conhecidas da primavera, então a seleção de uma caixa de seleção é apropriada.
 - **Resistência** O campo de número inteiro. Há um problema aqui - não há método disponível para deixar este campo vazio. Assim, ele sempre está presente na saída, mesmo para artigos mais gerais sobre flores, onde não é apropriado. Existe uma solução alternativa que envolve uma sobreposição de modelo.
@@ -101,7 +109,7 @@ Quando um formulário de Novo Artigo é aberto, a Categoria padrão é "Sem cate
 
 Dê uma olhada no resultado visto em seu site. Neste exemplo, foi criado um item de menu para um único artigo:
 
-![Visualização do artigo Bluebell no site](../../../en/images/fields/field-article-bluebell-site.png)
+![Visualização do site do artigo Bluebell](../../../en/images/fields/fields-and-field-groups/09-field-article-bluebell-site.png)
 
 ### A Cor em Hexadecimal
 
