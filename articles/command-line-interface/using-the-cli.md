@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Using_the_CLI",
-<<<<<<< HEAD
-  "title": "Usando a CLI",
-=======
   "title": "Usando a CLI ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## A Interface de Linha de Comando (CLI)
 
@@ -82,19 +75,11 @@ Limpar entradas expiradas do cache do sistema:
     php joomla.php cache:clean --help
     php joomla.php cache:clean
 
-<<<<<<< HEAD
-![Resultado da limpeza do cache](../../../en/images/command-line-interface/using-the-cli/02-cli-cache-clean.png)
-
-    php joomla.php cache:clean expired
-
-![Resultado da limpeza do cache expirado](../../../en/images/command-line-interface/using-the-cli/03-cli-cache-clean-expired.png)
-=======
 ![Saída do cache clean](../../../en/images/command-line-interface/using-the-cli/02-cli-cache-clean.png)
 
     php joomla.php cache:clean expired
 
 ![Saída do cache clean expired](../../../en/images/command-line-interface/using-the-cli/03-cli-cache-clean-expired.png)
->>>>>>> newbranch
 
 ### Config
 
@@ -105,17 +90,6 @@ mail,
     php joomla.php config:get debug --help
     php joomla.php config:get debug
 
-<<<<<<< HEAD
-![Resultado de config get debug](../../../en/images/command-line-interface/using-the-cli/04-cli-get-debug.png)
-
-    php joomla.php config:set debug=true
-
-![Resultado de config set debug](../../../en/images/command-line-interface/using-the-cli/05-cli-set-debug.png)
-
-    php joomla.php config:get --group session
-
-![Resultado de config get group session](../../../en/images/command-line-interface/using-the-cli/06-cli-config-get-group-session.png)
-=======
 ![Saída do config get debug](../../../en/images/command-line-interface/using-the-cli/04-cli-get-debug.png)
 
     php joomla.php config:set debug=true
@@ -125,7 +99,6 @@ mail,
     php joomla.php config:get --group session
 
 ![Saída do config get group session](../../../en/images/command-line-interface/using-the-cli/06-cli-config-get-group-session.png)
->>>>>>> newbranch
 
 ### Core
 
@@ -134,20 +107,12 @@ Verifique atualizações ou atualize o Joomla.
     php joomla.php core:check-updates --help
     php joomla.php core:check-updates
 
-<<<<<<< HEAD
-![Resultado de core check updates](../../../en/images/command-line-interface/using-the-cli/07-cli-check-updates.png)
-=======
 ![Saída do core check updates](../../../en/images/command-line-interface/using-the-cli/07-cli-check-updates.png)
->>>>>>> newbranch
 
     php joomla.php core:update --help
     php joomla.php core:update
 
-<<<<<<< HEAD
-![Resultado da atualização do core](../../../en/images/command-line-interface/using-the-cli/08-cli-core-update.png)
-=======
 ![Saída do core update](../../../en/images/command-line-interface/using-the-cli/08-cli-core-update.png)
->>>>>>> newbranch
 
 ### Banco de Dados
 
@@ -199,11 +164,7 @@ Apaga e reconstrói o índice (os filtros de pesquisa são preservados).
     php joomla.php finder:index
     php joomla.php finder:index purge
 
-<<<<<<< HEAD
-![Resultado de purgação do índice finder](../../../en/images/command-line-interface/using-the-cli/09-cli-finder-index-purge.png)
-=======
 ![Saída do finder index purge](../../../en/images/command-line-interface/using-the-cli/09-cli-finder-index-purge.png)
->>>>>>> newbranch
 
 ### Agendador
 
@@ -251,11 +212,7 @@ ter sido deletados durante uma atualização do Joomla
     php joomla.php update:joomla:remove-old-files --help
     php joomla.php update:joomla:remove-old-files
 
-<<<<<<< HEAD
-![Resultado da remoção de arquivos antigos do Joomla](../../../en/images/command-line-interface/using-the-cli/10-cli-update-remove-old-files.png)
-=======
 ![Saída da atualização do Joomla, removendo arquivos antigos](../../../en/images/command-line-interface/using-the-cli/10-cli-update-remove-old-files.png)
->>>>>>> newbranch
 
 ### Usuário
 
@@ -268,11 +225,7 @@ Listar e gerenciar usuários.
     php joomla.php user:add --username cinderella --name Cinderella --email cinders@localhost --usergroup Manager (prompt para senha)
     php joomla.php user:add (prompts para dados)
 
-<<<<<<< HEAD
-![Resultado de adicionar usuário com prompts](../../../en/images/command-line-interface/using-the-cli/11-cli-add-user.png)
-=======
 ![Saída da adição de usuário com solicitações](../../../en/images/command-line-interface/using-the-cli/11-cli-add-user.png)
->>>>>>> newbranch
 
     php joomla.php user:addtogroup --help
     php joomla.php user:addtogroup (prompts para dados)

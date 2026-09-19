@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
-<<<<<<< HEAD
-  "title": "Campo de Caixas de Seleção",
-=======
   "title": "Campo de Caixas de Seleção ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Finalidade
 
@@ -32,11 +25,7 @@ O campo de caixas de seleção fornece uma ou mais caixas de seleção para sere
 
 Isso é apenas uma questão de selecionar os itens que devem aparecer no resultado.
 
-<<<<<<< HEAD
-![Entrada de dados de campo de caixas de seleção](../../../en/images/fields/adding-custom-fields-checkboxes-field/02-fields-checkboxes-data-entry.png)
-=======
 ![Inserção de dados de campo com caixas de seleção](../../../en/images/fields/adding-custom-fields-checkboxes-field/02-fields-checkboxes-data-entry.png)
->>>>>>> newbranch
 
 Os campos só aparecem em um artigo se forem preenchidos no formulário de inserção de dados do artigo.
 
@@ -46,11 +35,7 @@ A captura de tela do Site a seguir mostra o campo exibido em um artigo. A
 opção *Exibição automática* é responsável pela posição do campo e
 seu template é responsável pelo design do campo.
 
-<<<<<<< HEAD
-![exibição do site do campo de caixas de seleção](../../../en/images/fields/adding-custom-fields-checkboxes-field/03-fields-checkboxes-site.png)
-=======
 ![exibição do campo de caixas de seleção no site](../../../en/images/fields/adding-custom-fields-checkboxes-field/03-fields-checkboxes-site.png)
->>>>>>> newbranch
 
 
 *Traduzido por openai.com*

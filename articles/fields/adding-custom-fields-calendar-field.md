@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
-<<<<<<< HEAD
-  "title": "Campo do Calendário",
-=======
   "title": "Campo do Calendário ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Finalidade
 
@@ -38,11 +31,7 @@ O uso do campo de Calendário é simples. Você pode digitar a data no formato r
 
 A captura de tela a seguir mostra uma data de Aquisição:
 
-<<<<<<< HEAD
-![campo de entrada de dados de calendário](../../../en/images/fields/adding-custom-fields-calendar-field/02-fields-calendar-data-entry.png)
-=======
 ![entrada de dados do campo de calendário](../../../en/images/fields/adding-custom-fields-calendar-field/02-fields-calendar-data-entry.png)
->>>>>>> newbranch
 
 Os campos só aparecem em um artigo se forem preenchidos no formulário de entrada de dados do artigo.
 

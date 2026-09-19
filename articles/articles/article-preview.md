@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Article_Preview",
-<<<<<<< HEAD
-  "title": "Artigo: Prévia  ",
-=======
   "title": "Artigo: Prévia   ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Module_Display_by_Menu_Item",
-<<<<<<< HEAD
-  "title": "Exibição do Módulo por Item de Menu",
-=======
   "title": "Exibição do Módulo por Item de Menu ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

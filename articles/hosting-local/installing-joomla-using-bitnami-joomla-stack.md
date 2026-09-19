@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Installing_Joomla!_using_BitNami_Joomla!_stack",
-<<<<<<< HEAD
-  "title": "Instalação do Bitnami ",
-=======
   "title": "Instalação do Bitnami  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Prefácio
 

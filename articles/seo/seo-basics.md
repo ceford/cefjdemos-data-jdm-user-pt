@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=seo&filename=seo-basics.md",
-<<<<<<< HEAD
-  "title": "Noções básicas de SEO",
-=======
   "title": "Noções básicas de SEO ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Definição
 

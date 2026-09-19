@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/How_to_build_your_free_Joomla_Website",
-<<<<<<< HEAD
-  "title": "Hospedagem Gratuita",
-=======
   "title": "Hospedagem Gratuita ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## O que é joomla.com?
 
@@ -25,11 +18,7 @@ Se você é novo no Joomla e gostaria de vê-lo em ação sem precisar baixá-lo
 
 ### Passo 1: Insira um nome de subdomínio adequado
 
-<<<<<<< HEAD
-![Página inicial do lançamento do Joomla](../../../en/images/hosting/free-hosting/01-free-hosting-launch.png)
-=======
 ![Página inicial de lançamento do Joomla](../../../en/images/hosting/free-hosting/01-free-hosting-launch.png)
->>>>>>> newbranch
 
 Alice e Bob provavelmente já estão ocupados, mas você pode escolher qualquer nome que seja fácil de digitar e lembrar.
 
@@ -37,21 +26,13 @@ Alice e Bob provavelmente já estão ocupados, mas você pode escolher qualquer 
 
 Como esta é uma nova instalação, é melhor selecionar a versão estável mais recente.
 
-<<<<<<< HEAD
-![Diálogo de seleção de versão do lançamento do Joomla](../../../en/images/hosting/free-hosting/02-free-hosting-select-version.png)
-=======
 ![Dialogo de seleção de versão do Joomla](../../../en/images/hosting/free-hosting/02-free-hosting-select-version.png)
->>>>>>> newbranch
 
 ### Passo 3: Crie uma conta
 
 Preencha seus dados pessoais e selecione o botão Registrar.
 
-<<<<<<< HEAD
-![Diálogo de detalhes pessoais do lançamento do Joomla](../../../en/images/hosting/free-hosting/03-free-hosting-personal-details.png)
-=======
 ![Dialogo de dados pessoais do Joomla](../../../en/images/hosting/free-hosting/03-free-hosting-personal-details.png)
->>>>>>> newbranch
 
 #### Notas
 
@@ -68,21 +49,13 @@ Em breve, você receberá um token de 6 dígitos no número de telefone que voc�
 
 ### Passo 5: Verificar Conta
 
-<<<<<<< HEAD
-![Diálogo de verificação da conta do lançamento do Joomla](../../../en/images/hosting/free-hosting/04-free-hosting-verify-account.png)
-=======
 ![Dialogo de verificação de conta do Joomla](../../../en/images/hosting/free-hosting/04-free-hosting-verify-account.png)
->>>>>>> newbranch
 
 Use o token para completar o processo - você será conectado ao painel de controle CloudAccess.net (CCP).
 
 ### Passo 6: Painel de Controle CloudAccess.net
 
-<<<<<<< HEAD
-![Painel de controle de acesso em nuvem do Joomla](../../../en/images/hosting/free-hosting/05-free-hosting-cloud-access-control-panel.png)
-=======
 ![Painel de controle de acesso à nuvem do Joomla](../../../en/images/hosting/free-hosting/05-free-hosting-cloud-access-control-panel.png)
->>>>>>> newbranch
 
 Você também receberá um e-mail com suas credenciais de login do site gratuito. Pode levar alguns minutos para que seu site gratuito Joomla fique disponível. Se você encontrar qualquer problema, abra um Novo Ticket no CPP e a equipe de suporte resolverá o que for necessário.
 
@@ -98,11 +71,7 @@ Para acessar seu site, você pode selecionar o botão Login no painel Seus Produ
 
 O Joomla é gerenciado quase inteiramente a partir de suas páginas do Administrador. No entanto, de tempos em tempos, é útil ter acesso a ferramentas do sistema para fins de resolução de problemas. Selecione o botão Gerenciar na página Seus Produtos do CPP para ter acesso a essas ferramentas.
 
-<<<<<<< HEAD
-![Abrir ferramentas cpp de acesso à nuvem do Joomla](../../../en/images/hosting/free-hosting/06-free-hosting-cpp-manage.png)
-=======
 ![Iniciar acesso ao Joomla na nuvem ferramentas cpp](../../../en/images/hosting/free-hosting/06-free-hosting-cpp-manage.png)
->>>>>>> newbranch
 
 ### phpMyAdmin
 
@@ -124,11 +93,7 @@ Como a maior parte da funcionalidade da plataforma se sobrepõe à do Joomla! CM
 
 Os testes são importantes em um projeto de código aberto como o Joomla, pois fornecem garantia de qualidade para as próximas versões. Você pode ajudar nos testes de novos recursos e correções de bugs instalando a extensão [Joomla Patchtester](https://github.com/joomla-extensions/patchtester/releases) no seu site Joomla gratuito. Não são necessárias habilidades especiais para se tornar um testador! Se você nunca testou pull requests, a Documentação do Joomla fornece todos os [tutoriais que você precisa.] Então faça parte disso, comece a testar o Joomla hoje.
 
-<<<<<<< HEAD
-![Iniciar acesso à nuvem Joomla ferramentas do cpp](../../../en/images/hosting/free-hosting/07-free-hosting-patch-tester.png)
-=======
 ![Iniciar ferramentas de acesso à nuvem do Joomla](../../../en/images/hosting/free-hosting/07-free-hosting-patch-tester.png)
->>>>>>> newbranch
 
 Avisos: Você precisará de uma conta no GitHub e um token do GitHub. Você não poderá testar pull requests que envolvam mudanças em CSS e JavaScript que exijam alterações de recursos NPM.
 

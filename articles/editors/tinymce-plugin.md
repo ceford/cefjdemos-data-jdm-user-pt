@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Content_editors",
-<<<<<<< HEAD
-  "title": "Plugin TinyMCE ",
-=======
   "title": "Plugin TinyMCE  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

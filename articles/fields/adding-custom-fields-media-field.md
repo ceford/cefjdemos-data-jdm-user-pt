@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
-<<<<<<< HEAD
-  "title": "Campo de Mídia",
-=======
   "title": "Campo de Mídia ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Finalidade
 

@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:How_to_Archive_an_Article",
-<<<<<<< HEAD
-  "title": "Artigos: Arquivo",
-=======
   "title": "Artigos: Arquivo ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

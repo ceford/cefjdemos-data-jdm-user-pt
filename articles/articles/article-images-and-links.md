@@ -1,11 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Article_Images_and_Links",
-<<<<<<< HEAD
-  "title": "Artigo: Editar - Imagens e Links",
-=======
   "title": "Artigo: Editar - Imagens e Links ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
@@ -23,11 +19,7 @@ Outros artigos descreveram como incorporar imagens e links no conteúdo de um ar
 
 Para este artigo, começando com uma imagem de uma perereca verde com 1024 pixels de largura, foram feitas duas imagens menores com 128 e 256 pixels de largura. Nota: é melhor preparar imagens na sua ferramenta favorita de edição de imagens, como o *Gimp*. As imagens de tamanho pequeno e médio foram usadas para criar as capturas de tela a seguir.
 
-<<<<<<< HEAD
-![Formulário de edição de artigo, aba de imagens e links](../../../en/images/articles/article-images-and-links/01-articles-edit-images-and-links-tab.png)
-=======
 ![Formulário de edição do artigo, aba de imagens e links](../../../en/images/articles/article-images-and-links/01-articles-edit-images-and-links-tab.png)
->>>>>>> newbranch
 
 ## Campos do Formulário
 
@@ -64,19 +56,11 @@ A entrada de dados é exatamente a mesma do Link A.
 
 A captura de tela abaixo mostra um layout de blog de categoria com a *Imagem de Introdução*. Poderia ter sido melhor usar uma imagem panorâmica com a mesma altura, mas com largura muito maior para ocupar o espaço branco vago.
 
-<<<<<<< HEAD
-![Página de blog da categoria Anfíbios](../../../en/images/articles/article-images-and-links/02-articles-site-amphibians-blog.png)
-
-A captura de tela abaixo mostra a página de um único artigo com a *Imagem do Artigo Completo* e o Link A. A imagem foi alinhada à direita e a legenda visível diz algo para adicionar ao que a Descrição diz, de modo que faça sentido para leitores de tela.
-
-![Página de um único artigo sobre Rãs](../../../en/images/articles/article-images-and-links/03-articles-site-amphibians-frogs.png)
-=======
 ![Exemplo de imagem introdutória na página de uma categoria de blogue](../../../en/images/articles/article-images-and-links/02-site-intro-image.png)
 
 A captura de tela abaixo mostra a página de um único artigo com a *Imagem do Artigo Completo* e o Link A. A imagem foi alinhada à direita e a legenda visível diz algo para adicionar ao que a Descrição diz, de modo que faça sentido para leitores de tela.
 
 ![Exemplo de imagem do artigo completo na página de um artigo individual](../../../en/images/articles/article-images-and-links/03-site-full-article-image.png)
->>>>>>> newbranch
 
 *Traduzido por openai.com*
 

@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Smart_Search_on_large_sites",
-<<<<<<< HEAD
-  "title": "Pesquisa Inteligente em Sites Grandes",
-=======
   "title": "Pesquisa Inteligente em Sites Grandes ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Indexação do Site
 

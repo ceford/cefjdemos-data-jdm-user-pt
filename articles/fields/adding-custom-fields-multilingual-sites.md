@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
-<<<<<<< HEAD
-  "title": "Sites Multilíngues",
-=======
   "title": "Sites Multilíngues ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 
@@ -65,11 +58,7 @@ sobrescrições para as páginas do Site e do Administrador.
 
 A captura de tela a seguir mostra um exemplo de criação de sobrescrição para uma constante de idioma alemã.
 
-<<<<<<< HEAD
-![Criação de sobrescrição em alemão](../../../en/images/fields/adding-custom-fields-multilingual-sites/01-fields-overrides-creation-de.png)
-=======
 ![Criação de substituição em alemão](../../../en/images/fields/adding-custom-fields-multilingual-sites/01-fields-overrides-creation-de.png)
->>>>>>> newbranch
 
 ## Definindo o Grupo de Campos
 

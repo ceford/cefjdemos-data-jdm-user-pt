@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Setup_a_Multilingual_Site",
-<<<<<<< HEAD
-  "title": "Configurar um Site Multilíngue ",
-=======
   "title": "Configurar um Site Multilíngue  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Dados de Amostra
 

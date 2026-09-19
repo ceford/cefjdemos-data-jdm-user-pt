@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
-<<<<<<< HEAD
-  "title": "Campo do Grupo de Usuários",
-=======
   "title": "Campo do Grupo de Usuários ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Finalidade
 
@@ -34,21 +27,13 @@ As opções especiais dentro deste campo são:
 
 Simples, basta selecionar um ou mais grupos da lista de grupos.
 
-<<<<<<< HEAD
-![entrada de dados do campo de grupos de usuários](../../../en/images/fields/adding-custom-fields-usergroup-field/02-fields-usergroups-data-entry.png)
-=======
 ![entrada de dados no campo de grupos de usuários](../../../en/images/fields/adding-custom-fields-usergroup-field/02-fields-usergroups-data-entry.png)
->>>>>>> newbranch
 
 ## Exibição de Dados
 
 A captura de tela do Site a seguir mostra o campo exibido em um artigo. A opção *Exibição automática* é responsável pela posição do campo e seu template é responsável pelo design do campo.
 
-<<<<<<< HEAD
-![exibição de campo de grupos de usuários do site](../../../en/images/fields/adding-custom-fields-usergroup-field/03-fields-usergroups-site.png)
-=======
 ![exibição do campo de grupos de usuários no site](../../../en/images/fields/adding-custom-fields-usergroup-field/03-fields-usergroups-site.png)
->>>>>>> newbranch
 
 O rótulo do campo é seguido por uma lista, separada por vírgulas, dos grupos selecionados.
 

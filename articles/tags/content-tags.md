@@ -1,16 +1,9 @@
 <!--
 {
-<<<<<<< HEAD
-  "source": "https://docs.joomla.org/J4.x:How_To_Use_Content_Tags_in_Joomla",
-  "title": "Tags de Conteúdo ",
-  "description": "", 
-  "author": ""
-=======
     "source": "https://docs.joomla.org/J4.x:How_To_Use_Content_Tags_in_Joomla",
     "title": "Tags de conte\u00fado",
     "description": " ",
     "author": ""
->>>>>>> newbranch
 }
 -->
 
@@ -54,9 +47,6 @@ A exibição de tags pode ser desativada para artigos individuais ou para todos 
 pode parecer ilógico, mas é um recurso útil quando as tags são usadas, por
 exemplo, para filtrar conteúdo para casos de uso específicos.
 
-<<<<<<< HEAD
-![a página da lista de tags](../../../en/images/tags/content-tags/01-tags-list.png)
-=======
 ## A lista de tags
 
 - Selecione **Componentes → Tags** no menu do administrador.
@@ -66,7 +56,6 @@ Cada idioma tem uma lista de tags com uma tag de idioma como pai.
 A tag pai é usada nos módulos *Tags populares* e *Tags semelhantes*.
 
 ![página da lista de tags](../../../en/images/tags/content-tags/02-tags-list.png)
->>>>>>> newbranch
 
 Independentemente de como as tags são criadas, elas podem ser encontradas nesta lista.
 
@@ -75,13 +64,7 @@ Independentemente de como as tags são criadas, elas podem ser encontradas nesta
 
 ### A aba Detalhes da tag
 
-<<<<<<< HEAD
-Selecione o botão **Novo** na Barra de Ferramentas da lista de Tags.
-
-![nova tag chamada predator](../../../en/images/tags/content-tags/02-new-tag-predator.png)
-=======
 ![aba de opções do formulário de edição de tag mostrando classes CSS do Bootstrap](../../../en/images/tags/content-tags/03-edit-tag-details-tab.png)
->>>>>>> newbranch
 
 - **Título** Este é o único campo *obrigatório*.
 - **Alias** É criado a partir do Título ao salvar.
@@ -136,16 +119,8 @@ criar categorias de feeds de notícias.
 
 ## Gerenciamento de etiquetas
 
-<<<<<<< HEAD
-Sempre que você adicionar novas Tags no Joomla, todas elas aparecerão na lista de Tags. Use a lista de Tags para encontrar, abrir e ajustar as configurações das tags.
-
-### Filtro da Lista de Tags
-
-![filtro da lista de tags por tipo](../../../en/images/tags/content-tags/03-tags-list-filter.png)
-=======
 Onde quer que você adicione novas etiquetas no Joomla, todas elas aparecerão na lista de etiquetas.
 Use a lista de etiquetas para localizar, abrir e ajustar as configurações das etiquetas.
->>>>>>> newbranch
 
 Você pode manipular a lista de várias maneiras:
 
@@ -172,30 +147,13 @@ A lista de itens é uma lista filtrada do conteúdo do site que possui a etiquet
 Uma caixa de filtro é fornecida para facilitar a localização de itens à medida que a lista cresce.
 Você também pode definir o número de resultados que deseja ver em uma única visualização.
 
-<<<<<<< HEAD
-![exemplo de uso de tags no site labrador amarelo](../../../en/images/tags/content-tags/04-tag-examples-yellow-labrador.png)
-=======
 ## Configuração de etiquetas
->>>>>>> newbranch
 
 As etiquetas individuais herdam as configurações das opções do componente Etiquetas. Selecione o
 botão **Opções** na barra de ferramentas da página da lista de etiquetas para ver as opções
 padrão de etiquetas disponíveis.
 
-<<<<<<< HEAD
-![exemplo de uso de tags no site labrador preto](../../../en/images/tags/content-tags/05-tag-examples-black-labrador.png)
-
-Clicar em uma tag levará você a uma página que exibe uma lista de todos os itens atribuídos a essa tag específica - na prática, é uma lista filtrada do conteúdo marcado do seu site. É fornecida uma caixa de filtro para facilitar a localização dos itens à medida que a lista cresce. Você também pode definir o número de resultados que deseja ver em uma única exibição.
-
-## Configuração de Tags
-
-Marcas individuais herdam configurações das opções do componente Tags. Isso é
-abordado em um tutorial separado. [ToDo] Selecione o botão **Opções** na Barra de Ferramentas da página de lista de Tags.
-
-A configuração do Componente de Tags pode ser substituída no nível do item de menu.
-=======
 As opções de configuração do componente Etiquetas podem ser substituídas nos níveis do item de conteúdo e/ou do item de menu.
->>>>>>> newbranch
 
 ## Dicas
 

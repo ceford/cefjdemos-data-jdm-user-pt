@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Media:_Image_Crop_Resize_Rotate",
-<<<<<<< HEAD
-  "title": "Cortar Redimensionar Girar Imagem",
-=======
   "title": "Cortar Redimensionar Girar Imagem ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

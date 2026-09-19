@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J5.x:Add_a_class_selector_to_the_create_link_dialog",
-<<<<<<< HEAD
-  "title": "Artigo: Editar - Estilos de Link",
-=======
   "title": "Artigo: Editar - Estilos de Link ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Descrição
 

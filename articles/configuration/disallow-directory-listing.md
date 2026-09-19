@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/How_do_you_block_directory_scans_using_htaccess%3F",
-<<<<<<< HEAD
-  "title": "Desativar Listagem de Diretórios ",
-=======
   "title": "Desativar Listagem de Diretórios  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Contexto
 

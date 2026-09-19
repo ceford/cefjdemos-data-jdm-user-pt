@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/How_do_you_create_a_custom_module%3F",
-<<<<<<< HEAD
-  "title": "Módulo Personalizado",
-=======
   "title": "Módulo Personalizado ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Finalidade
 

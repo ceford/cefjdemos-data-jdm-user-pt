@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=fields&filename=subform.md",
-<<<<<<< HEAD
-  "title": "Campo do Subformulário",
-=======
   "title": "Campo do Subformulário ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Finalidade
 
@@ -30,11 +23,7 @@ Opções especiais para este campo:
 - **Título** e **Rótulo** Neste exemplo, estes estão definidos como *Espécimes*.
 - **Campos** Adicione os campos necessários no subformulário um por um. Cada linha possui uma lista suspensa de campos disponíveis e uma alternância Sim/Não para Renderizar Valores. A ordem dos itens pode ser alterada com o ícone de arrastar.
 
-<<<<<<< HEAD
-![Criação de subformulário](../../../en/images/fields/subforms/01-fields-subform-edit.png)
-=======
 ![Criação de Subformulário](../../../en/images/fields/subforms/01-fields-subform-edit.png)
->>>>>>> newbranch
 
 **Nota:** Neste exemplo, a inclusão do tipo de campo no Título é apenas para fins de demonstração. Deixe-o de fora nos títulos dos seus próprios campos.  
 
@@ -42,11 +31,7 @@ Opções especiais para este campo:
 
 No formulário de entrada de dados, você precisa adicionar linhas para cada amostra. Cada linha contém um campo de Calendário, um campo de Texto e um campo de Cor.
 
-<<<<<<< HEAD
-![Subformulário de entrada de dados](../../../en/images/fields/subforms/02-fields-subform-data-entry.png)
-=======
 ![Entrada de dados em subformulário](../../../en/images/fields/subforms/02-fields-subform-data-entry.png)
->>>>>>> newbranch
 
 ## Exibição de Dados
 

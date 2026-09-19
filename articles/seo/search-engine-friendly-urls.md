@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Search_Engine_Friendly_URLs",
-<<<<<<< HEAD
-  "title": "URLs Amigáveis para Motores de Busca  ",
-=======
   "title": "URLs Amigáveis para Motores de Busca   ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Caminhos e Rotas
 

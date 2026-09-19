@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/https:",
-<<<<<<< HEAD
-  "title": "Cabeçalhos HTTP ",
-=======
   "title": "Cabeçalhos HTTP  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Artigo de Revista
 
@@ -72,11 +65,7 @@ Você pode ver os Cabeçalhos HTTP e como eles se relacionam com objetos HTML in
 
 Você pode ver na imagem abaixo que a imagem destacada está retornando um status HTTP de 200, então o navegador a encontrou. Há também uma variedade de outras informações vinculadas a esse item, como tamanho do arquivo e datas de edição.
 
-<<<<<<< HEAD
-![Joomla http headers 1](../../../en/images/security/http-headers/01-http-headers-dev-tools-headers.png)
-=======
 ![Cabeçalhos http do Joomla 1](../../../en/images/security/http-headers/01-http-headers-dev-tools-headers.png)
->>>>>>> newbranch
 
 Se um dos seus itens HTML falhou em exibir, você pode também obter uma pista sobre o motivo nos cabeçalhos HTTP. Neste exemplo, a segunda imagem falhou em exibir e você pode ver pelas informações exibidas no painel direito que não há informações de Cabeçalho HTTP.
 
@@ -88,19 +77,11 @@ Exceto pela mensagem enigmática:
 
 Assim, quando a imagem é chamada a partir do documento HTML, o navegador a rejeita e ela não é carregada.
 
-<<<<<<< HEAD
-![Joomla http headers 2](../../../en/images/security/http-headers/02-http-headers-dev-tools-headers-reject.png)
-
-O que difere de não ser encontrada e retornar uma mensagem de erro HTTP 404 não encontrada. Nesta situação, a imagem ainda está sendo procurada no servidor que a hospeda, mas o navegador não a encontrou.
-
-![Joomla http headers 3](../../../en/images/security/http-headers/03-http-headers-dev-tools-headers-not-found.png)
-=======
 ![Cabeçalhos http do Joomla 2](../../../en/images/security/http-headers/02-http-headers-dev-tools-headers-reject.png)
 
 O que difere de não ser encontrada e retornar uma mensagem de erro HTTP 404 não encontrada. Nesta situação, a imagem ainda está sendo procurada no servidor que a hospeda, mas o navegador não a encontrou.
 
 ![Cabeçalhos http do Joomla 3](../../../en/images/security/http-headers/03-http-headers-dev-tools-headers-not-found.png)
->>>>>>> newbranch
 
 ## O que o Plugin de Cabeçalhos HTTP do Joomla faz
 
@@ -148,11 +129,7 @@ Isso ajudaria a impedir que códigos JavaScript maliciosos fossem executados em 
 
 Você pode encontrar o plugin de HTTP Headers do Joomla junto com todos os outros plugins do Joomla, e ele é acessado da mesma maneira que você está acostumado a fazer.
 
-<<<<<<< HEAD
-![Joomla http headers 4](../../../en/images/security/http-headers/04-http-headers-plugins.png)
-=======
 ![Joomla cabeçalhos http 4](../../../en/images/security/http-headers/04-http-headers-plugins.png)
->>>>>>> newbranch
 
 ## Usando o Plugin de Cabeçalhos HTTP
 

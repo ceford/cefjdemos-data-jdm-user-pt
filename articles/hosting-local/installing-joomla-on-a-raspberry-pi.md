@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Installing_Joomla_on_a_Raspberry_Pi",
-<<<<<<< HEAD
-  "title": "Instalação do Raspberry Pi",
-=======
   "title": "Instalação do Raspberry Pi ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Prefácio
 

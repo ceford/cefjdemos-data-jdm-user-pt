@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Media:_Upload_Delete_Rename",
-<<<<<<< HEAD
-  "title": "Carregar Excluir Renomear ",
-=======
   "title": "Carregar Excluir Renomear  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Funções Simples de Mídia
 

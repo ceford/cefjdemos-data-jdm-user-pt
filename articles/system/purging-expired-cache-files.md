@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Purging_expired_cache_files",
-<<<<<<< HEAD
-  "title": "Limpar Cache Expirado ",
-=======
   "title": "Limpar Cache Expirado  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Arquivos de Cache
 

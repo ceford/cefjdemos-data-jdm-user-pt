@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J6.x:Access_Control",
-<<<<<<< HEAD
-  "title": "Artigo: Editar - Permissões",
-=======
   "title": "Artigo: Editar - Permissões ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 
@@ -23,11 +16,7 @@ A descrição aqui é para a aba *Permissões* do formulário *Artigo: Editar*. 
 
 ## Captura de Tela
 
-<<<<<<< HEAD
-![A guia de permissões do artigo com autor selecionado](../../../en/images/articles/article-permissions/01-articles-edit-permissions-tab.png)
-=======
 ![A aba de permissões do artigo com autor selecionado](../../../en/images/articles/article-permissions/01-articles-edit-permissions-tab.png)
->>>>>>> newbranch
 
 Pode ser surpreendente que um Autor não pareça ter permissão para Editar um artigo!
 

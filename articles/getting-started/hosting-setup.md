@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Hosting_Setup",
-<<<<<<< HEAD
-  "title": "Configuração de Hospedagem",
-=======
   "title": "Configuração de Hospedagem ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

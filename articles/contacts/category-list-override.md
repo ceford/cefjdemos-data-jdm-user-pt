@@ -1,16 +1,9 @@
 <!--
 {
-<<<<<<< HEAD
-  "source": "https://docs.joomla.org/category-list-override.md",
-  "title": "Substituir Lista de Categorias ",
-  "description": "", 
-  "author": ""
-=======
     "source": "https://docs.joomla.org/category-list-override.md",
     "title": "Substitui\u00e7\u00e3o da lista de categorias",
     "description": "Saiba como criar uma substitui\u00e7\u00e3o de template para melhorar o layout de uma lista de contatos em uma categoria ",
     "author": ""
->>>>>>> newbranch
 }
 -->
 
@@ -37,36 +30,7 @@ e adicionar alguns estilos personalizados. Veja o resultado:
 
 ![comitê empresarial usando uma substituição de template e estilos personalizados](../../../en/images/contacts/category-list-override/02-contacts-business-committee.png)
 
-<<<<<<< HEAD
-A imagem possui o estilo CSS `contact-thumbnail img-thumbnail`. As Ferramentas de Desenvolvedor do navegador indicam que img-thumbnail está configurado para `max-width: 100%;`, mas contact-thumbnail não está sendo utilizado. A única ocorrência deste estilo em todo o site é neste local, portanto, parece seguro definir uma substituição em user.css para restringir a largura da imagem. E o tamanho da fonte do nome de contato pode ser aumentado usando sua tag `a` envolvente:
-
-```css
-.contact-thumbnail {
-  max-width: 200px;
-  margin-right: 1rem;
-}
-a:has(.contact-thumbnail) {
-  font-weight: 700;
-  font-size: larger;
-}
-```
-
-A lista de marcadores dos campos personalizados pode ser melhorada removendo os marcadores e o preenchimento, selecionando apenas listas de marcadores que aparecem dentro de uma tag que possui a classe contactList:
-```css
-#contactList ul {
-  list-style-type: none;
-  padding-left: 0;
-}
-```
-
-![comitê de negócios estilizado](../../../en/images/contacts/category-list-override/01-contact-business-committee-styled.png)
-
-Isso é o máximo que pode ser feito com estilização. Melhor, mas ainda não bom o suficiente. Adicionar mais itens e mudar o layout exigirá uma sobreposição de layout.
-
-## Sobrescrever Layout do Template
-=======
 ## Substituição do layout do template
->>>>>>> newbranch
 
 A pasta com_contact/tmpl/category contém três arquivos PHP: default.php,
 default_children.php e default_items.php. O último da lista contém
@@ -229,13 +193,4 @@ div.parliament-committee-fields ul.fields-container span.field-label {
 }
 ```
 
-<<<<<<< HEAD
-### Resultado
-
-![gridded business committee](../../../en/images/contacts/category-list-override/02-contact-business-committee-grid.png) 
-
 *Traduzido por openai.com*
-
-=======
-*Traduzido por openai.com*
->>>>>>> newbranch

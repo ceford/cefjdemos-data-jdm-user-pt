@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Module_and_Menu_Styles",
-<<<<<<< HEAD
-  "title": "Estilos de Módulo e Menu ",
-=======
   "title": "Estilos de Módulo e Menu  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Sobre Folhas de Estilo em Cascata
 

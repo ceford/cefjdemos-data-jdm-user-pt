@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:User_Profile",
-<<<<<<< HEAD
-  "title": "Perfil do Usuário  ",
-=======
   "title": "Perfil do Usuário   ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Dados de Registro
 

@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Keyboard_Shortcuts",
-<<<<<<< HEAD
-  "title": "Atalhos de Teclado",
-=======
   "title": "Atalhos de Teclado ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

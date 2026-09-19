@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Getting_Started:_Adding_an_Article",
-<<<<<<< HEAD
-  "title": "Adicionando um Artigo",
-=======
   "title": "Adicionando um Artigo ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 
@@ -29,11 +22,7 @@ Até que um artigo seja criado, a página de Artigos mostra uma página de espa�
 
 Em quase todas as páginas, logo abaixo da barra de título, há uma barra contendo botões de ação. Esta é conhecida como Barra de Ferramentas. Os botões variam de página para página e, às vezes, ficam inativos, aparecendo em cinza, até que um item seja selecionado na lista de itens. A captura de tela a seguir mostra a lista de *Artigos* com uma caixa de seleção de artigo selecionada. O botão *Ação* é uma lista suspensa que foi selecionada para mostrar as opções disponíveis.
 
-<<<<<<< HEAD
-![Lista de artigos com o botão de ações ativado](../../../en/images/getting-started/adding-an-article/01-articles-list.png)
-=======
 ![Lista de artigos com botão de ações ativado](../../../en/images/getting-started/adding-an-article/01-articles-list.png)
->>>>>>> newbranch
 
 Selecione o botão *Novo* na *Barra de Ferramentas* da página de *Artigos* para abrir um formulário de edição de artigo.  
 
@@ -41,11 +30,7 @@ Selecione o botão *Novo* na *Barra de Ferramentas* da página de *Artigos* para
 
 Até que um artigo seja salvo, o rótulo da *Barra de Título* é *Artigos: Novo* e possui poucos botões na Barra de Ferramentas. O botão *Cancelar* pode ser usado para cancelar a criação de um artigo. Não há mensagem de aviso. Qualquer conteúdo inserido é descartado. Após salvar, o rótulo da Barra de Título é *Artigos: Editar* e a Barra de Ferramentas tem muitos mais botões.
 
-<<<<<<< HEAD
-![Formulário de Edição de Artigo](../../../en/images/getting-started/adding-an-article/02-article-edit-form.png)
-=======
 ![Formulário de edição de artigo](../../../en/images/getting-started/adding-an-article/02-article-edit-form.png)
->>>>>>> newbranch
 
 Há um número desconcertante de campos de formulário na página de Edição, mas todos, exceto dois, têm valores padrões sensatos. Os campos a serem preenchidos:
 
@@ -79,11 +64,7 @@ Uma nova instalação do Joomla tem um menu do Site com um único item de menu r
 
 A captura de tela a seguir mostra uma visão do site da primeira parte do artigo descrita acima. Seu novo site Joomla! terá apenas o *Menu Principal*, o *Formulário de Login* e seu artigo. Esta captura de tela é para um site multilíngue que mostra a mesma página em muitos idiomas diferentes e possui outros conteúdos utilizados em tutoriais posteriores.
 
-<<<<<<< HEAD
-![Visualização do site usando layout de blog de categoria](../../../en/images/getting-started/adding-an-article/04-article-site-view.png)
-=======
 ![Visualização do site usando o layout de blog de categoria](../../../en/images/getting-started/adding-an-article/04-article-site-view.png)
->>>>>>> newbranch
 
 ### Navegação
 

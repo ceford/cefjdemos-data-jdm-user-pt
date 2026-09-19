@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Unable_to_connect_to_the_database",
-<<<<<<< HEAD
-  "title": "Conexão com o Banco de Dados ",
-=======
   "title": "Conexão com o Banco de Dados  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Erro de Incapacidade de Conectar
 

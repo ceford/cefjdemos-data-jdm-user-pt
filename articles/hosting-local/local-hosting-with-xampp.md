@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/",
-<<<<<<< HEAD
-  "title": "Hospedagem Local com XAMPP ",
-=======
   "title": "Hospedagem Local com XAMPP  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 
@@ -219,11 +212,7 @@ Uma vez que o XAMPP está instalado e você iniciou o serviço Apache com a ferr
 
 Selecione o link chamado `phpinfo()` no menu superior. Isso exibirá uma longa tela de informações sobre a configuração do PHP, conforme mostrado abaixo.
 
-<<<<<<< HEAD
-![A página de informações da versão do xampp php](../../../en/images/hosting-local/local-hosting-with-xampp/02-local-hosting-xampp-php.png)
-=======
 ![A página de informações da versão do php do xampp](../../../en/images/hosting-local/local-hosting-with-xampp/02-local-hosting-xampp-php.png)
->>>>>>> newbranch
 
 Neste ponto, o XAMPP foi instalado com sucesso. Note o *Arquivo de Configuração Carregado*. Vamos editar este arquivo na próxima seção para configurar o XDebug.
 

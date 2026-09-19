@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Home_Page_in_Different_Style",
-<<<<<<< HEAD
-  "title": "Página Inicial em Estilo Diferente ",
-=======
   "title": "Página Inicial em Estilo Diferente  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Página Inicial do Site
 

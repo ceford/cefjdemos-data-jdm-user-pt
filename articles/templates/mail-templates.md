@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J5.x:Managing_Mail_Template_Layout",
-<<<<<<< HEAD
-  "title": "Modelos de Email",
-=======
   "title": "Modelos de Email ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

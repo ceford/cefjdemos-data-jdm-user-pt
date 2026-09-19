@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J6.x:Articles:_Filter_Options",
-<<<<<<< HEAD
-  "title": "Artigos: Opções de Filtro ",
-=======
   "title": "Artigos: Opções de Filtro  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

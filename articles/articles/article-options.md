@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J6.x:_Article_Options",
-<<<<<<< HEAD
-  "title": "Artigo: Editar - Opções ",
-=======
   "title": "Artigo: Editar - Opções  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 
@@ -25,11 +18,7 @@ Este artigo é sobre a aba *Opções* no formulário *Artigo: Editar*. É onde o
 
 A aba *Opções* do formulário *Artigo: Editar* possui uma série de painéis, em sua maioria com a escolha de *Usar Global (Ocultar ou Mostrar)*, *Ocultar* ou *Mostrar*. A captura de tela parcial a seguir mostra o layout geral.
 
-<<<<<<< HEAD
-![Aba de opções de edição de artigos](../../../en/images/articles/article-options/01-articles-edit-options-tab.png)
-=======
 ![Aba de opções de edição de artigo](../../../en/images/articles/article-options/01-articles-edit-options-tab.png)
->>>>>>> newbranch
 
 ## Painel de Layout
 

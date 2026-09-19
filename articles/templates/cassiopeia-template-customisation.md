@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Cassiopeia_Template_Customisation",
-<<<<<<< HEAD
-  "title": "Personalização de Cassiopeia ",
-=======
   "title": "Personalização de Cassiopeia  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 
@@ -21,21 +14,13 @@ Cassiopeia é o modelo de site fornecido com o Joomla 4. É um modelo de propós
 
 A ilustração a seguir mostra a aparência de um site Joomla 4 com um artigo e alguns itens de menu criados.
 
-<<<<<<< HEAD
-![Visualização de um único artigo Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/01-cassiopeia-customisation-article-view.png)
-=======
 ![Visualização de artigo único do Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/01-cassiopeia-customisation-article-view.png)
->>>>>>> newbranch
 
 ## Modelos: Editar Estilo
 
 Você pode experimentar a aparência do site abrindo o formulário Editar Estilo. Vá para **Sistema → Modelos → Estilos de Modelo do Site** e selecione o título do modelo na coluna Estilo, Cassiopeia - Padrão. A guia Avançado contém configurações que você pode ajustar:
 
-<<<<<<< HEAD
-![Cassiopeia editar estilo guia avançada](../../../en/images/templates/cassiopeia-template-customisation/02-cassiopeia-customisation-edit-style.png)
-=======
 ![Aba avançada de edição de estilo Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/02-cassiopeia-customisation-edit-style.png)
->>>>>>> newbranch
 
 Para testar as opções, abra uma aba ou janela do navegador com a interface do Administrador e uma segunda aba ou janela com a interface do Site e alterne entre elas após cada alteração salva.
 
@@ -61,11 +46,7 @@ Você pode definir a Marca para Não se desejar fornecer uma marca em um módulo
 
 - **Sempre ao seu serviço** Se presente, as palavras no campo de slogan aparecerão em um tamanho de fonte pequeno abaixo da imagem do logotipo ou nome da Marca.
 
-<<<<<<< HEAD
-![Cassiopeia marca com slogan](../../../en/images/templates/cassiopeia-template-customisation/03-cassiopeia-customisation-brand-with-tagline.png)
-=======
 ![Marca Cassiopeia com slogan](../../../en/images/templates/cassiopeia-template-customisation/03-cassiopeia-customisation-brand-with-tagline.png)
->>>>>>> newbranch
 
 ### Esquema de Fontes
 
@@ -77,11 +58,7 @@ Você pode definir a Marca para Não se desejar fornecer uma marca em um módulo
 - **Padrão** Uma cor de fundo azul escuro para a barra da Marca e outros recursos, como o botão de Login.
 - **Alternativa** Uma cor de fundo marrom em vez de azul escuro.
 
-<<<<<<< HEAD
-![Cassiopeia esquema de cores alternativo](../../../en/images/templates/cassiopeia-template-customisation/04-cassiopeia-customisation-alt-color-scheme.png)
-=======
 ![Esquema de cores alternativo Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/04-cassiopeia-customisation-alt-color-scheme.png)
->>>>>>> newbranch
 
 ### Layout
 
@@ -90,11 +67,7 @@ Você pode definir a Marca para Não se desejar fornecer uma marca em um módulo
 
 A visão em um dispositivo móvel de tela estreita:
 
-<<<<<<< HEAD
-![Cassiopeia visão móvel](../../../en/images/templates/cassiopeia-template-customisation/05-cassiopeia-customisation-mobile-view.png)
-=======
 ![Visão móvel Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/05-cassiopeia-customisation-mobile-view.png)
->>>>>>> newbranch
 
 ### Cabeçalho Fixo
 
@@ -107,20 +80,12 @@ A visão em um dispositivo móvel de tela estreita:
 - **Sim** Quando o conteúdo é mais alto que a área de visão, no canto inferior direito da página há um botão marcado com um chevron para cima. Selecione-o para rolar de volta ao topo da página.
 
 ![Cassiopeia voltar ao topo](../../../en/images/templates/cassiopeia-template-customisation/06-cassiopeia-customisation-back-to-top.png)
-<<<<<<< HEAD
-
-=======
->>>>>>> newbranch
 
 ## Posições do Template Cassiopeia
 
 À medida que você constrói um site com o Cassiopeia, torna-se muito útil conhecer as localizações das posições que você pode usar para os módulos. Algumas são descritivas, como *menu* e *bottom-a*, mas não é tão óbvio onde elas estão até que você as use. Esta ilustração pode ajudar:
 
-<<<<<<< HEAD
-![Posições do template Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/07-cassiopeia-template-positions.png)
-=======
 ![Posições do modelo Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/07-cassiopeia-template-positions.png)
->>>>>>> newbranch
 
 Experimente o seguinte:
 
@@ -181,11 +146,7 @@ Note aqui que o ponto (.) inicial é um seletor de classe, por exemplo, Dummy H1
 
 Na aba do navegador contendo o Site, abra as Ferramentas de Desenvolvedor do seu navegador, Firefox neste exemplo, e selecione a tag do cabeçalho.
 
-<<<<<<< HEAD
-![Cassiopeia ferramentas de desenvolvedor](../../../en/images/templates/cassiopeia-template-customisation/10-cassiopeia-customisation-developer-tools.png)
-=======
 ![Ferramentas de desenvolvedor Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/10-cassiopeia-customisation-developer-tools.png)
->>>>>>> newbranch
 
 Isso mostra os estilos usados. O estilo container-header é onde a cor de fundo e a imagem de fundo são definidas. Eles precisam ser sobrescritos no arquivo *user.css*. Tente isso:
 ```css
@@ -206,11 +167,7 @@ Lembre-se daquele comentário sobre o menu estar muito à esquerda na barra supe
 ```
 Este é o tema verde em funcionamento:
 
-<<<<<<< HEAD
-![Cassiopeia tema verde](../../../en/images/templates/cassiopeia-template-customisation/11-cassiopeia-customisation-green-theme.png)
-=======
 ![Tema verde Cassiopeia](../../../en/images/templates/cassiopeia-template-customisation/11-cassiopeia-customisation-green-theme.png)
->>>>>>> newbranch
 
 ### Acessibilidade
 

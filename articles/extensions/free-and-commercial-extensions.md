@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Free_and_Commercial_extensions",
-<<<<<<< HEAD
-  "title": "O Diretório de Extensões do Joomla  ",
-=======
   "title": "O Diretório de Extensões do Joomla   ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Extensões Gratuitas e Comerciais
 

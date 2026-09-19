@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/How_do_you_block_direct_hot_linking_to_image_files_using_htaccess%3F",
-<<<<<<< HEAD
-  "title": "Proibir Hotlinking de Imagens ",
-=======
   "title": "Proibir Hotlinking de Imagens  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Definição
 

@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Joomla_Core_Features",
-<<<<<<< HEAD
-  "title": "Recursos Principais do Joomla",
-=======
   "title": "Recursos Principais do Joomla ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Gerenciamento de Conteúdo
 

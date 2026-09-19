@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Apache_PHP_Handler",
-<<<<<<< HEAD
-  "title": "Manipuladores PHP do Apache ",
-=======
   "title": "Manipuladores PHP do Apache  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Notas
 

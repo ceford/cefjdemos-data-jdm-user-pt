@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Smart_Search_configuration_options",
-<<<<<<< HEAD
-  "title": "Opções de Busca Inteligente ",
-=======
   "title": "Opções de Busca Inteligente  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Sobre Opções
 

@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Customising_the_Smart_Search_results_page",
-<<<<<<< HEAD
-  "title": "Substituições de Layout da Pesquisa Inteligente  ",
-=======
   "title": "Substituições de Layout da Pesquisa Inteligente   ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Páginas de Resultados
 

@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:_Article_Accessibility_Check",
-<<<<<<< HEAD
-  "title": "Artigo: Verificação de Acessibilidade  ",
-=======
   "title": "Artigo: Verificação de Acessibilidade   ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

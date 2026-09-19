@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Users_Dashboard",
-<<<<<<< HEAD
-  "title": "Painel de Usuários  ",
-=======
   "title": "Painel de Usuários   ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

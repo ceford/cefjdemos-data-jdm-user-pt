@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J5.x:Schema_org",
-<<<<<<< HEAD
-  "title": "Schema.org - BlogPosting",
-=======
   "title": "Schema.org - BlogPosting ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Propósito
 

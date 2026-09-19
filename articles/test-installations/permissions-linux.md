@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Verifying_permissions",
-<<<<<<< HEAD
-  "title": "Permissões de Arquivo: Linux  ",
-=======
   "title": "Permissões de Arquivo: Linux   ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

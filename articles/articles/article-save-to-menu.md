@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Adding_a_menu_link_in_an_article",
-<<<<<<< HEAD
-  "title": "Artigo: Salvar no Menu",
-=======
   "title": "Artigo: Salvar no Menu ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

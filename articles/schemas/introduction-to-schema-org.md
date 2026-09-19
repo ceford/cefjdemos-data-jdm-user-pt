@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J5.x:Schema_org",
-<<<<<<< HEAD
-  "title": "Introdução a Esquemas",
-=======
   "title": "Introdução a Esquemas ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Rich Snippets
 

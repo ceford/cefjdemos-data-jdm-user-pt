@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Localhost",
-<<<<<<< HEAD
-  "title": "Schema.org - Personalizado",
-=======
   "title": "Schema.org - Personalizado ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Finalidade
 

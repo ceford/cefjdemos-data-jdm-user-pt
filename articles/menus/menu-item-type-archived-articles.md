@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:How_to_Create_a_Menu_Item_to_View_Archived_Articles",
-<<<<<<< HEAD
-  "title": "Menu de Artigos Arquivados",
-=======
   "title": "Menu de Artigos Arquivados ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

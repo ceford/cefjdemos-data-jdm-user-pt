@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Robots.txt_file",
-<<<<<<< HEAD
-  "title": "O arquivo robots.txt",
-=======
   "title": "O arquivo robots.txt ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Sobre Robôs
 

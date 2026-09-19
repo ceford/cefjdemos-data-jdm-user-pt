@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Privacy_Workflow",
-<<<<<<< HEAD
-  "title": "Fluxo de Trabalho de Privacidade",
-=======
   "title": "Fluxo de Trabalho de Privacidade ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Criando uma Solicitação
 
@@ -31,19 +24,11 @@ Usuários registrados podem enviar uma solicitação de informações através d
 
 - O tipo de solicitação: Exportar ou Remover, selecionado da lista suspensa.
 
-<<<<<<< HEAD
-![fluxo de trabalho de privacidade solicitação de usuário](../../../en/images/privacy/privacy-workflow/01-privacy-workflow-user-request.png)
-
-Na submissão, uma mensagem indicará que a solicitação foi aceita e um e-mail de verificação está a caminho:
-
-![fluxo de trabalho de privacidade solicitação de usuário aceita](../../../en/images/privacy/privacy-workflow/02-privacy-workflow-user-request-accepted.png)
-=======
 ![fluxo de privacidade solicitação de usuário](../../../en/images/privacy/privacy-workflow/01-privacy-workflow-user-request.png)
 
 Na submissão, uma mensagem indicará que a solicitação foi aceita e um e-mail de verificação está a caminho:
 
 ![fluxo de privacidade solicitação de usuário aceita](../../../en/images/privacy/privacy-workflow/02-privacy-workflow-user-request-accepted.png)
->>>>>>> newbranch
 
 ou que *Sua solicitação de informações não pôde ser criada. Já existe uma solicitação de informações ativa para este endereço de e-mail e tipo de solicitação. Por favor, entre em contato com o proprietário do site para atualizações sobre esta solicitação.*
 
@@ -63,11 +48,7 @@ Uma vez criada, a solicitação não pode ser editada. Ela pode apenas ser Inval
 
 Uma vez que uma solicitação for criada, independentemente de como ela é criada, o usuário receberá um e-mail contendo um link para um formulário de confirmação.
 
-<<<<<<< HEAD
-![fluxo de privacidade solicitação do usuário confirmar](../../../en/images/privacy/privacy-workflow/03-privacy-workflow-user-request-confirm.png)
-=======
 ![fluxo de trabalho de privacidade confirmar solicitação do usuário](../../../en/images/privacy/privacy-workflow/03-privacy-workflow-user-request-confirm.png)
->>>>>>> newbranch
 
 O usuário deve inserir o token fornecido no e-mail e enviar o formulário. O token é válido por 24 horas. Se uma solicitação não for confirmada nesse período, ela será marcada como **Inválida** na lista de Solicitações de Privacidade e uma nova solicitação deverá ser feita.
 
@@ -76,11 +57,7 @@ Uma vez que o usuário confirme a solicitação, um e-mail será enviado aos Sup
 - Selecione **Usuários → Privacidade → Solicitações** no menu do Administrador.
 - Solicitações que requerem ação serão marcadas como **Confirmadas**.
 
-<<<<<<< HEAD
-![fluxo de privacidade lista de solicitações de informação](../../../en/images/privacy/privacy-workflow/04-privacy-workflow-information-requests-list.png)
-=======
 ![fluxo de trabalho de privacidade lista de solicitações de informações](../../../en/images/privacy/privacy-workflow/04-privacy-workflow-information-requests-list.png)
->>>>>>> newbranch
 
 ## Processando uma Solicitação de Exportação
 
@@ -115,11 +92,7 @@ Isso indicará que a solicitação foi atendida e não há mais ações a serem 
 - Selecione o botão **Concluir** na Barra de Ferramentas (ou o botão **Invalidar**
   se for uma solicitação considerada inválida).
 
-<<<<<<< HEAD
-![revisão da solicitação de informação do fluxo de trabalho da privacidade](../../../en/images/privacy/privacy-workflow/05-privacy-workflow-review-information-request.png)
-=======
 ![fluxo de trabalho de privacidade revisar solicitação de informação](../../../en/images/privacy/privacy-workflow/05-privacy-workflow-review-information-request.png)
->>>>>>> newbranch
 
 ## Finalmente
 
@@ -137,11 +110,7 @@ Para remover os dados de Mensagens Privadas e Solicitações de Privacidade:
   (endereço de email) no banco de dados com o phpMyAdmin e deletar os registros
   lá. Aqui está um exemplo de captura de tela:
 
-<<<<<<< HEAD
-![exclusão de fluxo de trabalho de privacidade com phpmyadmin](../../../en/images/privacy/privacy-workflow/06-privacy-workflow-delete-with-phpmyadmin.png)
-=======
 ![fluxo de trabalho de privacidade delete com phpmyadmin](../../../en/images/privacy/privacy-workflow/06-privacy-workflow-delete-with-phpmyadmin.png)
->>>>>>> newbranch
 
 ## Recursos Adicionais
 

@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Module_Positions",
-<<<<<<< HEAD
-  "title": "Posições do Módulo",
-=======
   "title": "Posições do Módulo ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 
@@ -35,17 +28,6 @@ Para visualizar as posições dos módulos, você precisa adicionar ?tp=1 ou &tp
 
 ### Posições do Template do Administrador Atum
 
-<<<<<<< HEAD
-![templates atum template positions](../../../en/images/modules/module-positions/01-template-positions-templates-page.png)
-
-### Posições do Template do Site Cassiopeia
-
-![templates cassiopeia template positions](../../../en/images/modules/module-positions/02-template-positions-site-page.png)
-
-Você também pode achar este diagrama de posições de módulo útil:
-
-![cassiopeia template position diagram](../../../en/images/modules/module-positions/03-cassiopeia-template-positions.png)
-=======
 ![posições de template atum](../../../en/images/modules/module-positions/01-template-positions-templates-page.png)
 
 ### Posições do Template do Site Cassiopeia
@@ -55,7 +37,6 @@ Você também pode achar este diagrama de posições de módulo útil:
 Você também pode achar este diagrama de posições de módulo útil:
 
 ![diagrama de posições do template cassiopeia](../../../en/images/modules/module-positions/03-cassiopeia-template-positions.png)
->>>>>>> newbranch
 
 ## Locais de Produção
 

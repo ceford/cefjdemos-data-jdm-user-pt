@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:User_Actions_Log",
-<<<<<<< HEAD
-  "title": "Registro de Ações do Usuário",
-=======
   "title": "Registro de Ações do Usuário ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 
@@ -67,8 +60,6 @@ Quando ativado, este plugin exporta os dados do log de ações para uma solicita
 Este módulo é exibido apenas para Super Usuários no Painel Inicial.
 
 ![módulo de registro de ações do usuário](../../../en/images/users/user-actions-log/03-user-actions-log-module.png)
-<<<<<<< HEAD
-=======
 
 ## Como conectar uma extensão ao sistema
 
@@ -205,5 +196,4 @@ elementos-chave de dados para serem exibidos no arquivo de idioma en-GB/com_myco
 ```
 
 *Traduzido por openai.com*
->>>>>>> newbranch
 

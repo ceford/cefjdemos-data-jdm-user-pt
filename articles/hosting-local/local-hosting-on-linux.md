@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/No_original_yet",
-<<<<<<< HEAD
-  "title": "Hospedagem Local no Linux",
-=======
   "title": "Hospedagem Local no Linux ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

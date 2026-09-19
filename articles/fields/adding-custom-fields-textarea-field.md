@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
-<<<<<<< HEAD
-  "title": "Campo de Área de Texto",
-=======
   "title": "Campo de Área de Texto ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Finalidade
 
@@ -28,11 +21,7 @@ As opções especiais dentro deste campo são:
 - **Comprimento Máximo** O número máximo de caracteres que pode ser inserido.
 - **Filtro** Permite que o sistema salve determinadas tags HTML ou dados brutos.
 
-<<<<<<< HEAD
-![criação do campo de área de texto](../../../en/images/fields/adding-custom-fields-textarea-field/01-fields-textarea-edit.png)
-=======
 ![criação de campo de área de texto](../../../en/images/fields/adding-custom-fields-textarea-field/01-fields-textarea-edit.png)
->>>>>>> newbranch
 
 **Nota:** Neste exemplo, a inclusão do tipo de campo no Título é apenas para fins de demonstração. Deixe de fora em seus próprios títulos de campo.
 
@@ -40,21 +29,13 @@ As opções especiais dentro deste campo são:
 
 Simples: insira o texto a ser exibido.
 
-<<<<<<< HEAD
-![entrada de dados do campo de área de texto](../../../en/images/fields/adding-custom-fields-textarea-field/02-fields-textarea-data-entry.png)
-=======
 ![campo de entrada de dados em área de texto](../../../en/images/fields/adding-custom-fields-textarea-field/02-fields-textarea-data-entry.png)
->>>>>>> newbranch
 
 ## Exibição de Dados
 
 A captura de tela a seguir do Site mostra o campo exibido em um artigo. A opção *Exibição automática* é responsável pela posição do campo, e seu modelo é responsável pelo design do campo.
 
-<<<<<<< HEAD
-![exibição do campo de área de texto no site](../../../en/images/fields/adding-custom-fields-textarea-field/03-fields-textarea-site.png)
-=======
 ![exibição de campo de área de texto no site](../../../en/images/fields/adding-custom-fields-textarea-field/03-fields-textarea-site.png)
->>>>>>> newbranch
 
 O rótulo do campo inicia um único bloco de texto, a menos que você tenha inserido tags HTML, como `<p>...</p>`.
 

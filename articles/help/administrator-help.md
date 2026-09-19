@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=help&filename=administrator-help.md",
-<<<<<<< HEAD
-  "title": "Ajuda do Administrador",
-=======
   "title": "Ajuda do Administrador ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

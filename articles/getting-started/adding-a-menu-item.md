@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Getting_Started:_Adding_a_Menu_Item",
-<<<<<<< HEAD
-  "title": "Adicionando um Item ao Menu ",
-=======
   "title": "Adicionando um Item ao Menu  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 
@@ -26,11 +19,7 @@ Suponha que um dos seus artigos seja suficientemente importante para merecer um 
 
 ## A Página de Edição do Menu
 
-<<<<<<< HEAD
-![Formulário de edição do item de menu](../../../en/images/getting-started/adding-a-menu-item/01-menu-item-edit-form.png)
-=======
 ![Formulário de edição de item do menu](../../../en/images/getting-started/adding-a-menu-item/01-menu-item-edit-form.png)
->>>>>>> newbranch
 
 O formulário *Menus: Novo Item* possui quatro campos obrigatórios a serem preenchidos:
 
@@ -47,11 +36,7 @@ O formulário *Menus: Novo Item* possui quatro campos obrigatórios a serem pree
 Isso é tudo que precisa ser feito. Todo o resto é opcional. Dê uma olhada na
 página Inicial do site. O item de menu no menu Principal liga diretamente a essa página.
 
-<<<<<<< HEAD
-![Visualização do site do artigo único](../../../en/images/getting-started/adding-a-menu-item/02-menu-item-single-article-site-view.png)
-=======
 ![Visualização do site de artigo único](../../../en/images/getting-started/adding-a-menu-item/02-menu-item-single-article-site-view.png)
->>>>>>> newbranch
 
 ## Múltiplos Itens de Menu
 

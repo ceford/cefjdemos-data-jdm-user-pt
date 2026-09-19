@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Hosting_Setup",
-<<<<<<< HEAD
-  "title": "Hospedagem Local no Windows ",
-=======
   "title": "Hospedagem Local no Windows  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## WAMP vs XAMPP
 

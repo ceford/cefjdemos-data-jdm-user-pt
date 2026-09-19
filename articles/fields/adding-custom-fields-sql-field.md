@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
-<<<<<<< HEAD
-  "title": "Campo SQL",
-=======
   "title": "Campo SQL ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Finalidade
 
@@ -42,21 +35,13 @@ ORDER BY `title` ASC
 
 Simples - selecione da lista.
 
-<<<<<<< HEAD
-![Entrada de dados do campo SQL](../../../en/images/fields/adding-custom-fields-sql-field/02-fields-sql-data-entry.png)
-=======
 ![Entrada de dados de campo SQL](../../../en/images/fields/adding-custom-fields-sql-field/02-fields-sql-data-entry.png)
->>>>>>> newbranch
 
 ## Exibição de Dados
 
 A captura de tela do site a seguir mostra o campo exibido em um artigo. A opção *Exibição automática* é responsável pela posição do campo e seu modelo é responsável pelo design do campo.
 
-<<<<<<< HEAD
-![Exibição do campo SQL no site](../../../en/images/fields/adding-custom-fields-sql-field/03-fields-sql-site.png)
-=======
 ![Exibição de campo SQL no site](../../../en/images/fields/adding-custom-fields-sql-field/03-fields-sql-site.png)
->>>>>>> newbranch
 
 A saída é um único item ou uma lista de itens separada por vírgula (nomes de países) seguindo o rótulo do campo (País de Origem).
 

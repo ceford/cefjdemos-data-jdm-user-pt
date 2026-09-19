@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Article_Lists",
-<<<<<<< HEAD
-  "title": "Artigo: Editar - Listas",
-=======
   "title": "Artigo: Editar - Listas ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Tipos de Listas
 
@@ -32,15 +25,6 @@ As listas podem conter outras listas em qualquer nível, embora listas muito ind
 
 A captura de tela a seguir mostra uma lista não ordenada com dois níveis de indentação. Ela também exibe o conjunto completo de ferramentas, que é aberto ao selecionar o botão de reticências (...) no final da primeira linha de ícones de ferramentas.
 
-<<<<<<< HEAD
-![Listas não ordenadas aninhadas](../../../en/images/articles/article-lists/01-articles-edit-lists.png)
-
-Esta captura de tela será usada para explicar como a lista com marcadores foi criada usando as ferramentas *Lista com marcadores* e *Aumentar indentação* ou *Diminuir indentação*:
-
-## Estilos de Lista
-
-=======
->>>>>>> newbranch
 ### Listas com marcadores
 
 Três estilos estão disponíveis:
@@ -52,11 +36,7 @@ Três estilos estão disponíveis:
 A seta para baixo à direita do ícone de lista com marcadores abre um pequeno painel
 permitindo a seleção do estilo preferido para um item da lista selecionado:
 
-<<<<<<< HEAD
-![Ferramentas de manipulação de lista com marcadores](../../../en/images/articles/article-lists/02-articles-edit-list-bullets.png)
-=======
 ![Ferramentas de manipulação de lista com marcadores](../../../en/images/articles/article-lists/01-articles-edit-list-bullets.png)
->>>>>>> newbranch
 
 O ícone de lista funciona como um interruptor. Se o cursor estiver em um parágrafo e um marcador
 for selecionado, o parágrafo se torna um item de lista. Se o marcador for selecionado novamente,
@@ -88,11 +68,7 @@ Seis estilos estão disponíveis:
 - Letras maiúsculas: A, B, C ...
 - Numerais romanos em maiúsculas: I, II, III ...
 
-<<<<<<< HEAD
-![Ferramentas de manipulação de lista numerada](../../../en/images/articles/article-lists/03-articles-edit-list-numbers.png)
-=======
 ![Ferramentas de manipulação de lista numerada](../../../en/images/articles/article-lists/02-articles-edit-list-numbers.png)
->>>>>>> newbranch
 
 As listas numeradas funcionam de maneira um pouco diferente. Quando um item de lista é recuado, ele
 assume o primeiro valor numérico e os números do resto da lista sobem para

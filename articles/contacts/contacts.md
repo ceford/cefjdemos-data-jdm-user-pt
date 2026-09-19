@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/contacts.md",
-<<<<<<< HEAD
-  "title": "Contatos",
-=======
   "title": "Contatos ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 
@@ -89,11 +82,7 @@ O layout não está exatamente como desejado. Seria bom incluir uma imagem em mi
 
 Para o Comitê de Negócios, há um item de menu Listar Contatos em uma Categoria. Isso faz com que um layout diferente seja usado:
 
-<<<<<<< HEAD
-![lista de categoria de contato](../../../en/images/contacts/contacts/04-contact-category-list.png)
-=======
 ![lista de categoria de contatos](../../../en/images/contacts/contacts/04-contact-category-list.png)
->>>>>>> newbranch
 
 Melhor, mas ainda não está bem certo! Foi necessário um ajuste de estilo para reduzir o estilo da imagem. Novamente, parece que uma substituição de template poderia ser útil.
 

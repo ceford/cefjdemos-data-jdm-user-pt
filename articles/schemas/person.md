@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Localhost",
-<<<<<<< HEAD
-  "title": "Schema.org - Pessoa",
-=======
   "title": "Schema.org - Pessoa ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Propósito
 

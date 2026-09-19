@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Language_Overrides",
-<<<<<<< HEAD
-  "title": "Substituições de Idioma",
-=======
   "title": "Substituições de Idioma ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Localizações dos Arquivos de Idioma
 
@@ -85,19 +78,11 @@ A nova chave agora pode ser traduzida para cada idioma. As traduções serão sa
 - Salve & Feche o formulário.
 - Repita o processo de tradução para cada idioma.
 
-<<<<<<< HEAD
-![formulário de edição de substituições de idiomas](../../../en/images/languages/language-overrides/01-language-overrides-edit.png)
-
-Finalmente, verifique se a tradução foi implementada.
-
-![Resultado da Substituição no formulário de login do site](../../../en/images/languages/language-overrides/02-language-overrides-custom-logout.png) 
-=======
 ![formulário de substituição de idioma editar](../../../en/images/languages/language-overrides/01-language-overrides-edit.png)
 
 Finalmente, verifique se a tradução foi implementada.
 
 ![Resultado da Substituição no formulário de login do site](../../../en/images/languages/language-overrides/02-language-overrides-custom-logout.png)
->>>>>>> newbranch
 
 *Traduzido por openai.com*
 

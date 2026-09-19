@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Visual_Studio_Code",
-<<<<<<< HEAD
-  "title": "Extras do Visual Studio Code",
-=======
   "title": "Extras do Visual Studio Code ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

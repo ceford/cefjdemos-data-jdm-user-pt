@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Cassiopeia_templateDetails.xml",
-<<<<<<< HEAD
-  "title": "Cassiopeia templateDetails.xml ",
-=======
   "title": "Cassiopeia templateDetails.xml  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Localização e Finalidade
 

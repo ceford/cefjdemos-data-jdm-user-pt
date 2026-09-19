@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Adding_a_New_Article",
-<<<<<<< HEAD
-  "title": "Artigo: Editar - Conteúdo",
-=======
   "title": "Artigo: Editar - Conteúdo ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

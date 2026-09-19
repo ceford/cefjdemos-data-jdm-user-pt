@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Create_and_Manage_Article_Categories",
-<<<<<<< HEAD
-  "title": "Artigos: Categorias ",
-=======
   "title": "Artigos: Categorias  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 
@@ -72,11 +65,7 @@ formulário *Artigos: Nova Categoria*.
 
 ## Os Artigos: Formulário de Nova Categoria
 
-<<<<<<< HEAD
-![O formulário de edição de nova categoria de artigos](../../../en/images/articles/articles-categories/02-article-category-edit.png)
-=======
 ![O formulário de edição da nova categoria de artigos](../../../en/images/articles/articles-categories/02-article-category-edit.png)
->>>>>>> newbranch
 
 A captura de tela acima mostra o formulário preenchido. Há apenas dois campos que precisam de conteúdo. Todo o resto tem valores padrão ou nulos que você pode deixar por agora e preencher mais tarde, conforme necessário.
 
@@ -125,11 +114,7 @@ Na guia *Exibição da Página*, tente definir o campo *Mostrar Cabeçalho da P�
 
 A captura de tela a seguir mostra a visualização do site de uma página de blog de categoria em desenvolvimento.
 
-<<<<<<< HEAD
-![Página de blog da categoria Mamíferos](../../../en/images/articles/articles-categories/04-article-mammals-articles-blog-site-view.png)
-=======
 ![Página de blog da categoria Mamíferos](../../../en/images/articles/articles-categories/04-category-blog-site-view.png)
->>>>>>> newbranch
 
 ## Dicas
 

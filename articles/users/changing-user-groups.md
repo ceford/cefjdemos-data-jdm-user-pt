@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Changing_user_groups",
-<<<<<<< HEAD
-  "title": "Alteração de Grupos de Usuários",
-=======
   "title": "Alteração de Grupos de Usuários ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Herança de Grupos
 

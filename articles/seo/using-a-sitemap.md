@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Using_A_Sitemap",
-<<<<<<< HEAD
-  "title": "Usando um Sitemap ",
-=======
   "title": "Usando um Sitemap  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Usando um Sitemap
 

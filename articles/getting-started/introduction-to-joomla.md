@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Introduction_to_Joomla!",
-<<<<<<< HEAD
-  "title": "Introdução ao Joomla!",
-=======
   "title": "Introdução ao Joomla! ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

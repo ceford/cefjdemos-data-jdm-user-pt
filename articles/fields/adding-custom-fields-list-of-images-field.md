@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
-<<<<<<< HEAD
-  "title": "Lista de Campos de Imagens ",
-=======
   "title": "Lista de Campos de Imagens  ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Propósito
 
@@ -36,11 +29,7 @@ As opções especiais dentro deste campo são:
 
 Simples: selecione uma ou mais imagens da lista.
 
-<<<<<<< HEAD
-![lista de imagens entrada de dados](../../../en/images/fields/adding-custom-fields-list-of-images-field/02-fields-list-of-images-data-entry.png)
-=======
 ![lista de imagens campo de entrada de dados](../../../en/images/fields/adding-custom-fields-list-of-images-field/02-fields-list-of-images-data-entry.png)
->>>>>>> newbranch
 
 
 ## Exibição de Dados

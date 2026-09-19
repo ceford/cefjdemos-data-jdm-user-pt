@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Menu_Dashboard",
-<<<<<<< HEAD
-  "title": "Menu do Painel de Controle",
-=======
   "title": "Menu do Painel de Controle ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

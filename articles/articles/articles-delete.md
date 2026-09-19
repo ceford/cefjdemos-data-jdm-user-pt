@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Deleting_an_Article",
-<<<<<<< HEAD
-  "title": "Artigos: Excluir",
-=======
   "title": "Artigos: Excluir ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Introdução
 

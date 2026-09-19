@@ -1,19 +1,12 @@
 <!--
 {
   "source": "https://docs.joomla.org/Cache",
-<<<<<<< HEAD
-  "title": "Cache",
-=======
   "title": "Cache ",
->>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
-<<<<<<< HEAD
-=======
 
->>>>>>> newbranch
 
 ## Para Administradores
 
