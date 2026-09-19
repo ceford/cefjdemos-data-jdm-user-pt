@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J6.x:Workflow_Scenarios_Example_2",
+<<<<<<< HEAD
   "title": "Exemplo de Fluxo de Trabalho 2 ",
+=======
+  "title": "Exemplo de Fluxo de Trabalho 2  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 
@@ -26,7 +34,11 @@ Primeiro, crie novos Grupos de Usuários, todos filhos de *Registrado*.
 - Crie um novo nível, **Comitê** e adicione *Comitê* aos Grupos de Usuários Com Acesso à Visualização.
 - No Nível de Acesso *Especial*, adicione *Comitê* aos Grupos de Usuários Com Acesso à Visualização.
 
+<<<<<<< HEAD
 ![Níveis de Acesso à Visualização](../../../en/images/workflows/workflow-example-2/02-example-2-viewing-access-levels.png)
+=======
+![Níveis de Acesso de Visualização](../../../en/images/workflows/workflow-example-2/02-example-2-viewing-access-levels.png)
+>>>>>>> newbranch
 
 ## Criar Usuários
 
@@ -160,7 +172,11 @@ alterado de Publicado para Arquivado.
 - **Escolher uma Categoria** *Comitê*
 - **Acesso** *Comitê*
 
+<<<<<<< HEAD
 ![Documentos de comité item de menu](../../../en/images/workflows/workflow-example-2/06-example-2-menu-item.png)
+=======
+![Item de menu de documentos do comitê](../../../en/images/workflows/workflow-example-2/06-example-2-menu-item.png)
+>>>>>>> newbranch
 
 ## Verificar o Site
 
@@ -170,7 +186,11 @@ Alice, Bob e Charlie podem ver o item do Menu, mas ninguém mais pode, nem mesmo
 
 Alice e Bob também podem ver um link para Editar cada artigo e um botão **Novo Artigo**. Isso é geralmente usado por Bob para criar um Documento do Comitê, mas Alice também pode fazer isso.
 
+<<<<<<< HEAD
 ![Visão de Bob da página de lista de categorias dos documentos do comitê](../../../en/images/workflows/workflow-example-2/07-example-2-committee-papers.png)
+=======
+![Visão de Bob da página da lista de categorias dos documentos do comitê](../../../en/images/workflows/workflow-example-2/07-example-2-committee-papers.png)
+>>>>>>> newbranch
 
 ### Para Criar e Publicar um Documento do Comitê
 

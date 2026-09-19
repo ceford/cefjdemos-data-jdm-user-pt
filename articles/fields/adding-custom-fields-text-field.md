@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+<<<<<<< HEAD
   "title": "Campo de Texto",
+=======
+  "title": "Campo de Texto ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Finalidade
 
@@ -30,13 +38,21 @@ fins de demonstração. Deixe-o de fora nos seus próprios títulos de campo.
 
 Simples: Digite seu texto.
 
+<<<<<<< HEAD
 ![entrada de dados de campo de texto](../../../en/images/fields/adding-custom-fields-text-field/02-fields-text-data-entry.png)
+=======
+![entrada de dados no campo de texto](../../../en/images/fields/adding-custom-fields-text-field/02-fields-text-data-entry.png)
+>>>>>>> newbranch
 
 ## Exibição de Dados
 
 A captura de tela do site a seguir mostra o campo exibido em um artigo. A opção *Exibição automática* é responsável pela posição do campo e seu template é responsável pelo design do campo.
 
+<<<<<<< HEAD
 ![exibição do campo de texto no site](../../../en/images/fields/adding-custom-fields-text-field/03-fields-text-site.png)
+=======
+![exibição do campo de texto do site](../../../en/images/fields/adding-custom-fields-text-field/03-fields-text-site.png)
+>>>>>>> newbranch
 
 O campo Texto segue o campo Rótulo.
 *Traduzido por openai.com*

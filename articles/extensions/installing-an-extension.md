@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Installing_an_extension",
+<<<<<<< HEAD
   "title": "Instalando uma extensão ",
+=======
+  "title": "Instalando uma extensão  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Documentação da Extensão
 

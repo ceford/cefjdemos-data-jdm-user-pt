@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J5.x:Add_a_class_selector_to_the_create_link_dialog",
+<<<<<<< HEAD
   "title": "Selecionar Último Arquivo",
+=======
+  "title": "Selecionar Último Arquivo ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

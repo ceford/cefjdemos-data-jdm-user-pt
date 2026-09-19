@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Favicons",
+<<<<<<< HEAD
   "title": "Favicons ",
+=======
+  "title": "Favicons  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Os Favicons do Joomla!
 
@@ -25,7 +33,11 @@ Se você quiser usar seus próprios favicons em vez dos favicons do Joomla, voc�
 
 Favicons às vezes são usados em tamanhos maiores e em lugares fora da aba do navegador. Por exemplo, esta é uma captura de tela de parte de uma página inicial do Firefox mostrando alguns dos locais favoritos do usuário:
 
+<<<<<<< HEAD
 ![exemplos de favicon da página inicial do firefox](../../../en/images/templates/favicons/01-favicons-firefox-start-collection.png)
+=======
+![exemplos de favicon da página inicial do Firefox](../../../en/images/templates/favicons/01-favicons-firefox-start-collection.png)
+>>>>>>> newbranch
 
 Todos os navegadores modernos suportam ícones SVG, então você deve dar prioridade à criação de um ícone SVG.
 
@@ -33,7 +45,11 @@ Todos os navegadores modernos suportam ícones SVG, então você deve dar priori
 
 SVG é um acrônimo para Gráficos Vetoriais Escaláveis (Scalable Vector Graphics). Um arquivo SVG contém texto em um formato que define as localizações e formas das linhas com cores de linha, cores de preenchimento e assim por diante. A captura de tela a seguir mostra o arquivo *joomla-favicon.svg* aberto em um editor de texto. Os números de linha são criados pelo editor de texto. Eles não estão presentes no arquivo. As linhas longas representam curvas e estão truncadas aqui para fins de exibição.
 
+<<<<<<< HEAD
 ![conteúdo de texto do favicon do joomla](../../../en/images/templates/favicons/02-favicons-joomla-favicon-svg-text.png)
+=======
+![conteúdo do texto do favicon do joomla](../../../en/images/templates/favicons/02-favicons-joomla-favicon-svg-text.png)
+>>>>>>> newbranch
 
 Para criar um arquivo SVG, você precisa usar um aplicativo apropriado, como o Inkscape. Aplicativos de gráficos rasterizados, como Photoshop ou The GIMP, não são adequados. Se você preferir desenhar um ícone em um aplicativo de gráficos rasterizados, ou se tiver um logotipo gráfico rasterizado existente que pode ser adaptado para um ícone, você pode importar o arquivo PNG resultante no Inkscape e então traçá-lo para produzir um arquivo SVG. A imagem traçada deve ser excluída após o traçado!
 

@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Multilingual_Associations",
+<<<<<<< HEAD
   "title": "Associações Multilíngues ",
+=======
+  "title": "Associações Multilíngues  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Sites Multilíngues
 
@@ -23,7 +31,11 @@ Os seguintes itens podem ser incluídos em associações:
 
 A captura de tela a seguir mostra uma lista de exemplo de artigos em inglês com seus equivalentes em outros idiomas.
 
+<<<<<<< HEAD
 ![lista de associações multilíngue](../../../en/images/languages/multilingual-associations/01-multilingual-associations-list.png)
+=======
+![lista de associações multilíngues](../../../en/images/languages/multilingual-associations/01-multilingual-associations-list.png)
+>>>>>>> newbranch
 
 O último artigo sobre Montanhas ainda não teve artigos equivalentes criados em outros idiomas. Os artigos que faltam podem ser traduzidos do inglês original desta página.
 
@@ -65,7 +77,11 @@ Continuando com o exemplo das Montanhas:
 
 Abra ou recarregue a visualização do site para verificar se seus menus e artigos estão sendo exibidos como esperado.
 
+<<<<<<< HEAD
 ![visualização do site de associações multilíngues](../../../en/images/languages/multilingual-associations/03-multilingual-associations-site.png)
+=======
+![visualização do site com associações multilíngues](../../../en/images/languages/multilingual-associations/03-multilingual-associations-site.png)
+>>>>>>> newbranch
 
 *Traduzido por openai.com*
 

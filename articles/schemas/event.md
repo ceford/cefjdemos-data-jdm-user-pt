@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J5.x:Schema_org",
+<<<<<<< HEAD
   "title": "Schema.org - Evento",
+=======
+  "title": "Schema.org - Evento ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Finalidade
 

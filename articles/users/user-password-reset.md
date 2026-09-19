@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:User_Password_Reset",
+<<<<<<< HEAD
   "title": "Redefinição de Senha do Usuário  ",
+=======
+  "title": "Redefinição de Senha do Usuário   ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Redefinição do Usuário
 
@@ -23,7 +31,11 @@ Todo o processo é realizado pelo usuário sem necessidade de intervenção de u
 
 E, finalmente, o usuário precisa inserir uma nova senha:
 
+<<<<<<< HEAD
 ![formulário de redefinição de senha completada do site](../../../en/images/users/user-password-reset/04-user-forgot-password-complete.png)
+=======
+![formulário de redefinição de senha esquecida do site](../../../en/images/users/user-password-reset/04-user-forgot-password-complete.png)
+>>>>>>> newbranch
 
 ## Redefinição pelo Administrador
 
@@ -36,7 +48,11 @@ Se houver apenas o login de Administrador, a redefinição da senha de um usuár
 - Defina o campo **Exigir Redefinição de Senha** como *Sim*.
 - **Salvar & Fechar**
 
+<<<<<<< HEAD
 ![formulário de edição de usuário dos administradores](../../../en/images/users/user-password-reset/05-users-edit-user-john-doe.png)
+=======
+![formulário de edição de usuário de administradores](../../../en/images/users/user-password-reset/05-users-edit-user-john-doe.png)
+>>>>>>> newbranch
 
 Você precisará enviar um e-mail para o usuário com a nova senha provisória em texto simples. Após o login, o usuário poderá ver a página inicial do site, mas qualquer tentativa de navegar para outra página levará o usuário ao formulário de nova senha.
 

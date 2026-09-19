@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Read_More_Links",
+<<<<<<< HEAD
   "title": "Artigo: Editar - Leia Mais ",
+=======
+  "title": "Artigo: Editar - Leia Mais  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Layouts de Blog e Artigo em Destaque
 

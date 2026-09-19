@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Media:_Uploading_SVG_files",
+<<<<<<< HEAD
   "title": "Fazendo upload de arquivos SVG  ",
+=======
+  "title": "Fazendo upload de arquivos SVG   ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

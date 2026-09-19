@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Multiple_Domains_and_Web_Sites_in_a_single_Joomla!_installation",
+<<<<<<< HEAD
   "title": "Vários Domínios e Sites em uma única instalação do Joomla!",
+=======
+  "title": "Vários Domínios e Sites em uma única instalação do Joomla! ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 **Nota:** Este artigo foi atualizado pela última vez em 2012!
 

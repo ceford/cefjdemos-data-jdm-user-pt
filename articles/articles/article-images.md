@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Adding_an_image_to_an_article",
+<<<<<<< HEAD
   "title": "Artigo: Editar - Imagens ",
+=======
+  "title": "Artigo: Editar - Imagens  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 
@@ -27,7 +35,11 @@ A melhor maneira de inserir imagens locais é usando o botão **CMS Content →
 
 **Importante:** Primeiro, posicione o cursor onde você deseja que a imagem apareça. Isso pode ser no início ou no fim de um parágrafo ou em um parágrafo vazio.
 
+<<<<<<< HEAD
 ![O diálogo pop-up de mídia](../../../en/images/articles/article-images/01-articles-edit-images-media.png)
+=======
+![O diálogo de popup de mídia](../../../en/images/articles/article-images/01-articles-edit-images-media.png)
+>>>>>>> newbranch
 
 No diálogo pop-up, navegue até a imagem que você deseja usar e selecione-a. Ao selecioná-la, um formulário aparecerá solicitando informações adicionais.
 
@@ -57,7 +69,11 @@ Se a imagem que você deseja usar não está na pasta de imagens da sua instala�
 - Complete os outros campos conforme necessário.
 - A aba **Avançado** oferece algumas opções de formatação aplicadas como estilos em linha. Experimente com 1rem, 2, groove.
 
+<<<<<<< HEAD
 ![A caixa de diálogo pop-up de inserção de imagem](../../../en/images/articles/article-images/02-articles-edit-images-external-image.png)
+=======
+![A caixa de diálogo de inserção de imagem](../../../en/images/articles/article-images/02-articles-edit-images-external-image.png)
+>>>>>>> newbranch
 
 ### Usando Arrastar e Soltar para inserir links de imagem remota
 

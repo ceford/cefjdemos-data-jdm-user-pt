@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Unsupported_PHP_Version",
+<<<<<<< HEAD
   "title": "Versão PHP Não Suportada",
+=======
+  "title": "Versão PHP Não Suportada ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Erro de Instalação
 

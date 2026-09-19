@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/How_do_you_recover_or_reset_your_admin_password%3F",
+<<<<<<< HEAD
   "title": "Recuperação de Senha de Administrador",
+=======
+  "title": "Recuperação de Senha de Administrador ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

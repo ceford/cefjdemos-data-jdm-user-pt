@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/How_to_debug_SMTP_mail_in_Joomla_4",
+<<<<<<< HEAD
   "title": "Correio SMTP e Gmail",
+=======
+  "title": "Correio SMTP e Gmail ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

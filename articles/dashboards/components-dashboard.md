@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Components_Dashboard",
+<<<<<<< HEAD
   "title": "Painel de Componentes  ",
+=======
+  "title": "Painel de Componentes   ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

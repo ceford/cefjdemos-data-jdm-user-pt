@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Adding_a_New_Menu",
+<<<<<<< HEAD
   "title": "Adicionando um Novo Menu  ",
+=======
+  "title": "Adicionando um Novo Menu   ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 
@@ -45,7 +53,11 @@ Na lista de Menus, o menu recém-criado tem um botão rotulado **Adicionar um m�
 
 Na lista de Menus, a coluna *Módulos Vinculados* permite a seleção de qualquer módulo de menu existente para fins de edição. Você pode conferir e depois **Fechar** sem fazer alterações. Para seu novo menu, selecione o botão **Adicionar um módulo para este menu** para abrir uma moldura modal contendo o formulário de entrada de dados do módulo de Menu.
 
+<<<<<<< HEAD
 ![Formulário de entrada de dados do módulo de menu](../../../en/images/menus/adding-a-new-menu/03-menus-module.png)
+=======
+![Formulário de entrada de dados do módulo de Menu](../../../en/images/menus/adding-a-new-menu/03-menus-module.png)
+>>>>>>> newbranch
 
 Campos a serem preenchidos:
 
@@ -78,7 +90,11 @@ Na lista de **Menus**, na coluna **Itens do Menu**, selecione o ícone para o me
 - O campo **Status** deve estar definido como **Publicado**.
 - Selecione **Salvar & Fechar**.
 
+<<<<<<< HEAD
 ![Formulário de entrada de dados de item de menu](../../../en/images/menus/adding-a-new-menu/04-menus-single-article.png)
+=======
+![Formulário de entrada de dados do item de menu](../../../en/images/menus/adding-a-new-menu/04-menus-single-article.png)
+>>>>>>> newbranch
 
 Adicione mais Itens de Menu ao novo Menu conforme necessário.
 

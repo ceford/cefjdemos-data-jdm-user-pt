@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Site_Modules",
+<<<<<<< HEAD
   "title": "Módulos do Site ",
+=======
+  "title": "Módulos do Site  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 
@@ -76,7 +84,11 @@ Após salvar, você pode precisar alterar a ordem dos módulos na posição esco
 
 ## Visualizar o Site
 
+<<<<<<< HEAD
 ![Visualização do módulo de imagem aleatória do site](../../../en/images/modules/site-modules/05-cassiopeia-module-random-image-site.png)
+=======
+![Visualização do módulo de imagem aleatória no site](../../../en/images/modules/site-modules/05-cassiopeia-module-random-image-site.png)
+>>>>>>> newbranch
 
 Verifique a aparência do Site. Neste caso, pode ser uma boa ideia centralizar a imagem. Isso pode ser feito da seguinte forma:
 

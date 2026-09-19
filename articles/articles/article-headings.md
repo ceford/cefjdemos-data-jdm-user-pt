@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Article_Headings",
+<<<<<<< HEAD
   "title": "Artigo: Edição - Títulos ",
+=======
+  "title": "Artigo: Edição - Títulos  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Semântica dos Títulos
 

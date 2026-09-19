@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+<<<<<<< HEAD
   "title": "Ejemplo de Substituições de Modelo",
+=======
+  "title": "Ejemplo de Substituições de Modelo ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Exibição Automática do Campo
 

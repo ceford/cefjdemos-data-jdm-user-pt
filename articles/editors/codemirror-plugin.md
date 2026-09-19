@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Content_editors",
+<<<<<<< HEAD
   "title": "Plugin Codemirror ",
+=======
+  "title": "Plugin Codemirror  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

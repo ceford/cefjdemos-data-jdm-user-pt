@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Top_10_Stupidest_Administrator_Tricks",
+<<<<<<< HEAD
   "title": "10 Truques Estúpidos  ",
+=======
+  "title": "10 Truques Estúpidos   ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Sobre Esta Lista
 

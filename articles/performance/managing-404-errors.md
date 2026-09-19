@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Managing_404_Errors",
+<<<<<<< HEAD
   "title": "Gerenciando Erros 404 ",
+=======
+  "title": "Gerenciando Erros 404  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Por que o 404 Not Found é importante
 
@@ -35,15 +43,25 @@ Se precisar redirecionar uma página, você pode usar o plugin System - Redirect
 
 Se você deseja monitorar seu tráfego de erro 404, a melhor maneira de fazer isso no Analytics é observar o que acontece quando você tem um erro 404. Na maioria dos casos, o título da página muda para 404 – então podemos criar um segmento personalizado que filtrará o tráfego com um título de 404 e informará qual é a página de destino. Isso deve permitir que você monitore e gerencie proativamente seus erros 404 e garanta que os visitantes do seu site não acabem em links quebrados.
 
+<<<<<<< HEAD
 ![Alertas de Analytics para tráfego 404](../../../en/images/performance/managing-404-errors/02-404-analytics-alerts.png)
 
 ![Visão geral do público com alertas de Analytics](../../../en/images/performance/managing-404-errors/03-404-analytics-alerts-2.png)
+=======
+![Alertas de Analytics do tráfego 404](../../../en/images/performance/managing-404-errors/02-404-analytics-alerts.png)
+
+![Visão geral de público do Analytics](../../../en/images/performance/managing-404-errors/03-404-analytics-alerts-2.png)
+>>>>>>> newbranch
 
 O Google também tem a capacidade, no Analytics, de configurar alertas. Os alertas permitem que você receba um e-mail quando certos eventos ocorrem. Neste caso, podemos configurar um alerta para ser notificado se houver um aumento de mais de 5% no número de erros 404 em um período semanal – o que pode significar que temos um problema no site que precisa ser investigado.
 
 Esta é uma ótima maneira de se manter atualizado, mesmo que você não tenha feito login para verificar o seu painel!
 
+<<<<<<< HEAD
 ![Email de alertas de Analytics](../../../en/images/performance/managing-404-errors/04-404-analytics-alerts-email.png)
+=======
+![Email de alertas do Analytics](../../../en/images/performance/managing-404-errors/04-404-analytics-alerts-email.png)
+>>>>>>> newbranch
 
 ## Monitoramento de Erros com um Painel
 

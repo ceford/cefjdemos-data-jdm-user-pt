@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Monitoring_SEO",
+<<<<<<< HEAD
   "title": "Monitorando SEO",
+=======
+  "title": "Monitorando SEO ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Por que Monitorar seu Site?
 

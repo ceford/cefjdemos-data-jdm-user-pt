@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Content_editors",
+<<<<<<< HEAD
   "title": "Editores de Conteúdo  ",
+=======
+  "title": "Editores de Conteúdo   ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

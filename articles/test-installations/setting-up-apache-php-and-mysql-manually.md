@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Setting_up_Apache,_PHP_and_MySQL_manually",
+<<<<<<< HEAD
   "title": "Configuração manual do Apache, PHP e MySQL",
+=======
+  "title": "Configuração manual do Apache, PHP e MySQL ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Visão Geral
 

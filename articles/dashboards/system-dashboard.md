@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:System_Dashboard",
+<<<<<<< HEAD
   "title": "Painel do Sistema ",
+=======
+  "title": "Painel do Sistema  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

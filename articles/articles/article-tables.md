@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Article_Tables",
+<<<<<<< HEAD
   "title": "Artigo: Editar - Tabelas ",
+=======
+  "title": "Artigo: Editar - Tabelas  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Sobre Tabelas
 

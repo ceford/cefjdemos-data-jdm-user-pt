@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Template_Layouts",
+<<<<<<< HEAD
   "title": "Layouts de Modelo ",
+=======
+  "title": "Layouts de Modelo  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Estrutura de Arquivos de Layout
 
@@ -94,7 +102,11 @@ Você pode traduzir o nome do arquivo usando Substituições de Idioma. Tente o 
 
 O campo de seleção de layout do módulo com **expires** traduzido:
 
+<<<<<<< HEAD
 ![selecione layouts alternativos do módulo](../../../en/images/templates/template-layouts/03-layouts-example-translated.png)
+=======
+![seleção de layouts alternativos do módulo](../../../en/images/templates/template-layouts/03-layouts-example-translated.png)
+>>>>>>> newbranch
 
 ## Layouts Alternativos de Componentes
 
@@ -147,7 +159,11 @@ Se houver um item de menu configurado para uma categoria específica, o layout s
 
 Para artigos, existem dois layouts de categoria principais disponíveis: Blog e Lista. Cada um desses layouts aparece no formulário de Opções de Artigos, na aba Categoria, sob o título "Do Componente". Layouts alternativos também aparecem na lista, permitindo que os layouts de Blog, Lista ou templates alternativos sejam selecionados como o layout de categoria padrão, seja globalmente ou ao editar uma única categoria de artigo.
 
+<<<<<<< HEAD
 ![formulário de opções do componente de contatos mostrando layouts alternativos](../../../en/images/templates/template-layouts/08-layouts-articles-options-category.png)
+=======
+![formulário de opções de componente de contatos mostrando layouts alternativos](../../../en/images/templates/template-layouts/08-layouts-articles-options-category.png)
+>>>>>>> newbranch
 
 Isso significa que, como outras opções de layout, você pode controlar se os links da categoria de artigos usam layouts de blog ou lista. É importante compreender que, assim como outros parâmetros de layout, essa opção só terá efeito quando não houver um item de menu de categoria única para a categoria.
 

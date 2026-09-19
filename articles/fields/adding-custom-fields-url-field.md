@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+<<<<<<< HEAD
   "title": "Campo de URL",
+=======
+  "title": "Campo de URL ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Propósito
 
@@ -25,7 +33,11 @@ As opções especiais dentro deste campo são:
 - **Mostrar URL** Se configurado como *Não*, na exibição do Artigo o URL é
   substituído pelas palavras *Visitar Site*.
 
+<<<<<<< HEAD
 ![criação de campo url](../../../en/images/fields/adding-custom-fields-url-field/01-fields-url-edit.png)
+=======
+![criação de campo URL](../../../en/images/fields/adding-custom-fields-url-field/01-fields-url-edit.png)
+>>>>>>> newbranch
 
 **Nota:** Neste exemplo, a inclusão do tipo de campo no Título é apenas para
 fins de demonstração. Deixe-o de fora nos títulos de campo próprios.
@@ -40,7 +52,11 @@ Simples: basta inserir uma URL de destino.
 
 A captura de tela do Site a seguir mostra o campo exibido em um artigo. A opção *Exibição automática* é responsável pela posição do campo e o seu template é responsável pelo design do campo.
 
+<<<<<<< HEAD
 ![exibição do campo de URL do site](../../../en/images/fields/adding-custom-fields-url-field/03-fields-url-site.png)
+=======
+![exibição do campo de URL no site](../../../en/images/fields/adding-custom-fields-url-field/03-fields-url-site.png)
+>>>>>>> newbranch
 
 A URL segue o Rótulo do campo.
 

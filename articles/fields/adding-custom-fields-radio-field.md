@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+<<<<<<< HEAD
   "title": "Campo de Rádio ",
+=======
+  "title": "Campo de Rádio  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Finalidade
 
@@ -25,7 +33,11 @@ O Campo de Rádio fornece botões de seleção, dos quais apenas um pode ser sel
 
 Simples: basta selecionar o valor desejado.
 
+<<<<<<< HEAD
 ![Inserção de dados em campo de rádio](../../../en/images/fields/adding-custom-fields-radio-field/02-fields-radio-data-entry.png)
+=======
+![Entrada de dados do campo de rádio](../../../en/images/fields/adding-custom-fields-radio-field/02-fields-radio-data-entry.png)
+>>>>>>> newbranch
 
 ## Exibição de Dados
 

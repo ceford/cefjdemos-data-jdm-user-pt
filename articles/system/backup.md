@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=system&filename=backup.md",
+<<<<<<< HEAD
   "title": "Backup ",
+=======
+  "title": "Backup  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Acidentes Acontecem!
 

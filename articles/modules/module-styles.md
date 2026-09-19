@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=modules&filename=module-styles.md",
+<<<<<<< HEAD
   "title": "Estilos do Módulo",
+=======
+  "title": "Estilos do Módulo ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Conceitos de Estilo
 

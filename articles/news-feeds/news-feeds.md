@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=news&filename=news-feeds.md",
+<<<<<<< HEAD
   "title": "Feeds de Notícias",
+=======
+  "title": "Feeds de Notícias ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução aos Feeds de Notícias
 
@@ -13,7 +21,11 @@ Era uma vez comum que um site exibisse itens de notícias de sites remotos em um
 
 O método para compartilhar notícias é o *Really Simple Syndication*, geralmente abreviado para **RSS**, e isso ainda tem um lugar na promoção de sites. A seguinte captura de tela mostra o *NetNewsWire*, um leitor de RSS gratuito e de código aberto para Mac. Outros leitores de RSS estão disponíveis para outras plataformas. A ilustração mostra o feed RSS de **Anúncios do Joomla!** selecionado. Dez anúncios estão listados com Título e breve descrição. O anúncio selecionado é mostrado na íntegra na coluna da direita.
 
+<<<<<<< HEAD
 ![Feed RSS de Anúncios do Joomla](../../../en/images/news-feeds/news-feeds/01-news-netnewswire-display.png)
+=======
+![Feed RSS dos Anúncios do Joomla](../../../en/images/news-feeds/news-feeds/01-news-netnewswire-display.png)
+>>>>>>> newbranch
 
 Imagine o que um ou mais feeds RSS podem fazer pelo seu site!
 

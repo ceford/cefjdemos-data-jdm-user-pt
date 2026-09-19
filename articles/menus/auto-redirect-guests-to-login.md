@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Auto_redirect_guests_to_login",
+<<<<<<< HEAD
   "title": "Redirecionar automaticamente convidados para o login ",
+=======
+  "title": "Redirecionar automaticamente convidados para o login  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Funcionalidade Desejada
 

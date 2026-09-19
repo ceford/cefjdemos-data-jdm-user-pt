@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+<<<<<<< HEAD
   "title": "Campo de Lista",
+=======
+  "title": "Campo de Lista ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Finalidade
 
@@ -27,7 +35,11 @@ As opções especiais dentro deste campo são:
 
 Simples: basta selecionar um item da lista ou mais itens se *Múltiplo* for *Sim*.
 
+<<<<<<< HEAD
 ![Inserção de dados no campo de lista](../../../en/images/fields/adding-custom-fields-list-field/02-fields-list-data-entry.png)
+=======
+![Inserção de dados em campo de lista](../../../en/images/fields/adding-custom-fields-list-field/02-fields-list-data-entry.png)
+>>>>>>> newbranch
 
 ## Exibição de Dados
 
@@ -35,7 +47,11 @@ A captura de tela do site a seguir mostra o campo exibido em um artigo. A opçã
 
 A saída é um único item ou uma lista separada por vírgulas.
 
+<<<<<<< HEAD
 ![exibição do site do campo de lista](../../../en/images/fields/adding-custom-fields-list-field/03-fields-list-site.png)
+=======
+![exibição do campo de lista do site](../../../en/images/fields/adding-custom-fields-list-field/03-fields-list-site.png)
+>>>>>>> newbranch
 
 *Traduzido por openai.com*
 

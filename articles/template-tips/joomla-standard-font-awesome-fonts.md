@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Joomla_Standard_Font_Awesome_Fonts",
+<<<<<<< HEAD
   "title": "Fontes do Font Awesome ",
+=======
+  "title": "Fontes do Font Awesome  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Como Usar
 

@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Article_Links",
+<<<<<<< HEAD
   "title": "Artigo: Editar - Links  ",
+=======
+  "title": "Artigo: Editar - Links   ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Links Acessíveis
 

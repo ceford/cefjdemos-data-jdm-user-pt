@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Workflow",
-  "title": "Fluxo de Publicação ",
+  "title": "Fluxo de Publicação  ",
   "description": "", 
   "author": ""
 }
@@ -96,7 +96,7 @@ Os plugins de fluxo de trabalho são usados para ações invocadas por transiç�
 
 Os artigos podem ser atribuídos a categorias. Elas correspondem a um determinado fluxo de trabalho e podem ser personalizadas de várias maneiras. Você pode definir um status, categoria pai e também restringir o acesso, assim como as permissões. Esta opção não está na tela de fluxos de trabalho. Para essa opção, você precisa ir para **Conteúdo → Categorias**. Uma vez lá, abra qualquer categoria e você verá uma aba de *Fluxos de Trabalho*.
 
-![Edição de categoria de artigos com fluxo de trabalho](../../../en/images/workflows/workflow/09-workflow-categories-blog.png)
+![Edição de categoria de artigos no fluxo de trabalho](../../../en/images/workflows/workflow/09-workflow-categories-blog.png)
 
 ### Exemplo
 

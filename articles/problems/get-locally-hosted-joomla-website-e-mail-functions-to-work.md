@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Get_locally_hosted_Joomla!_website_e-mail_functions_to_work",
+<<<<<<< HEAD
   "title": "Email do Host Local ",
+=======
+  "title": "Email do Host Local  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Hospedagem Local
 

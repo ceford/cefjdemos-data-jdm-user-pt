@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Localhost",
+<<<<<<< HEAD
   "title": "Schema.org - Artigo",
+=======
+  "title": "Schema.org - Artigo ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Propósito
 

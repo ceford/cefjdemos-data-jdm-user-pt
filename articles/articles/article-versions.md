@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Components_Version_History",
+<<<<<<< HEAD
   "title": "Artigo: Versões ",
+=======
+  "title": "Artigo: Versões  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 
@@ -45,14 +53,22 @@ No topo da página, você verá a barra de ferramentas mostrada na captura de te
   navegador separada será carregada mostrando a versão selecionada do item, 
   semelhante à captura de tela abaixo. Após visualizar a versão, feche a janela 
   do navegador.
+<<<<<<< HEAD
 ![Diálogo de visualização de versões](../../../en/images/articles/article-versions/02-articles-versions-preview.png)
+=======
+![Caixa de diálogo de pré-visualização de versões](../../../en/images/articles/article-versions/02-articles-versions-preview.png)
+>>>>>>> newbranch
 - **Comparar** Para comparar duas versões e ver o que foi alterado, clique
   nas caixas de seleção de cada uma das versões e clique no botão Comparar.
   Uma nova janela de navegador será aberta, como mostrado na captura de tela
   abaixo. A primeira coluna é o nome do campo, a segunda é a versão mais antiga, 
   a terceira é a versão mais recente, e a última coluna destaca as diferenças 
   entre as duas versões.
+<<<<<<< HEAD
 ![Diálogo de comparação de versões](../../../en/images/articles/article-versions/03-articles-versions-compare.png)
+=======
+![Caixa de diálogo de comparação de versões](../../../en/images/articles/article-versions/03-articles-versions-compare.png)
+>>>>>>> newbranch
 - **Manter Ligado/Desligado** Este botão permite alternar a funcionalidade
   Manter Para Sempre para uma versão. Normalmente, a versão mais antiga de um item 
   será excluída automaticamente quando o número máximo de versões (definido

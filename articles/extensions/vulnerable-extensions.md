@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=extensions&filename=vulnerable-extensions.md",
+<<<<<<< HEAD
   "title": "Extensões Vulneráveis ",
+=======
+  "title": "Extensões Vulneráveis  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Fontes de Extensões
 

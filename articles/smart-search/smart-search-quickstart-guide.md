@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Smart_Search_quickstart_guide",
+<<<<<<< HEAD
   "title": "Início Rápido da Pesquisa Inteligente  ",
+=======
+  "title": "Início Rápido da Pesquisa Inteligente   ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Contexto
 

@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Joomla_Licenses",
+<<<<<<< HEAD
   "title": "Licenças do Joomla  ",
+=======
+  "title": "Licenças do Joomla   ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## LICENÇA PÚBLICA GERAL GNU
 

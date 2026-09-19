@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J6.x:Article_Access_Restriction",
+<<<<<<< HEAD
   "title": "Artigo: Restrição de Acesso ",
+=======
+  "title": "Artigo: Restrição de Acesso  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Media:_Options",
+<<<<<<< HEAD
   "title": "Mídia: Opções",
+=======
+  "title": "Mídia: Opções ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 
@@ -15,7 +23,11 @@ Para acessar o formulário *Mídia: Opções*, selecione o botão **Opções** n
 
 ## Captura de Tela
 
+<<<<<<< HEAD
 ![O formulário de Opções de mídia](../../../en/images/media/media-options/01-media-options.png)
+=======
+![O formulário de Opções de Mídia](../../../en/images/media/media-options/01-media-options.png)
+>>>>>>> newbranch
 
 ## Caminho para Arquivos e Pastas
 

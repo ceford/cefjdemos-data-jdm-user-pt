@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Child_Templates",
+<<<<<<< HEAD
   "title": "Modelos Filhos",
+=======
+  "title": "Modelos Filhos ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 
@@ -22,7 +30,11 @@ Começando de **Sistema → Painel de Templates → Templates do Site**
 - Preencha o diálogo popup do Template Filho e selecione o botão Criar
   Template Filho:
 
+<<<<<<< HEAD
 ![formulário de criação de modelo filho](../../../en/images/templates/child-templates/01-child-templates-create-green.png)
+=======
+![formulário de criação de modelo filho modal](../../../en/images/templates/child-templates/01-child-templates-create-green.png)
+>>>>>>> newbranch
 
 A seleção de Cassiopeia - Padrão no campo Estilos de Templates Adicionais
 parece desnecessária (isso é um bug?).
@@ -45,7 +57,11 @@ posições de template.
 - Selecione o Tipo de Arquivo `.css`.
 - Selecione o botão *Criar*.
 
+<<<<<<< HEAD
 ![formulário de criação de user css do modelo filho](../../../en/images/templates/child-templates/02-child-templates-create-green-user-css.png)
+=======
+![formulário de criação de css do usuário do modelo filho](../../../en/images/templates/child-templates/02-child-templates-create-green-user-css.png)
+>>>>>>> newbranch
 
 O arquivo user.css está vazio, pronto para você inserir alguns estilos personalizados.
 Insira o seguinte para iniciar o tema verde:
@@ -101,7 +117,11 @@ item de menu.
   Artigos Destacados neste exemplo.
 - Selecione *cassiopeia_manual - Padrão* no campo do formulário *Estilo do Template*.
 
+<<<<<<< HEAD
 ![formulário de edição de item do menu de modelo filho](../../../en/images/templates/child-templates/03-child-templates-create-green-menu-item.png)
+=======
+![formulário de edição do item de menu do modelo filho](../../../en/images/templates/child-templates/03-child-templates-create-green-menu-item.png)
+>>>>>>> newbranch
 
 - Para fins da captura de tela seguinte, o Layout de Blog foi configurado para 
   Artigos Principais: 0, Artigos de Introdução: 3 e Direção da Coluna Mult: Através.
@@ -110,7 +130,11 @@ item de menu.
 
 - Na página inicial do seu site, selecione o item de menu recém-criado.
 
+<<<<<<< HEAD
 ![site mostrando o template de tema verde personalizado](../../../en/images/templates/child-templates/04-child-templates-green-site-result.png)
+=======
+![site mostrando o modelo de tema verde personalizado](../../../en/images/templates/child-templates/04-child-templates-green-site-result.png)
+>>>>>>> newbranch
 
 ### Editar o Estilo
 

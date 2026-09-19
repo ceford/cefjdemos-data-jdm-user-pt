@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/What_is_the_difference_between_a_Sub-Domain,_Parked_Domain_and_an_Add-On_Domain%3F",
+<<<<<<< HEAD
   "title": "Subdomínios, Domínios Estacionados e Domínios Adicionais",
+=======
+  "title": "Subdomínios, Domínios Estacionados e Domínios Adicionais ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Diferenças
 

@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Featured_Articles",
+<<<<<<< HEAD
   "title": "Artigos: Em Destaque  ",
+=======
+  "title": "Artigos: Em Destaque   ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 
@@ -47,7 +55,11 @@ Um layout de blog funciona melhor se a quantidade de texto em cada item for limi
 
 ## Aparência do Site
 
+<<<<<<< HEAD
 ![Visualização de artigos em destaque no site](../../../en/images/articles/articles-featured/02-articles-featured-site.png)
+=======
+![Visualização do site de artigos em destaque](../../../en/images/articles/articles-featured/02-articles-featured-site.png)
+>>>>>>> newbranch
 
 *Traduzido por openai.com*
 

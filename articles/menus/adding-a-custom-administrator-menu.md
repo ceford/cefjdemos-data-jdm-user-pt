@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Adding_a_Custom_Administrator_Menu",
+<<<<<<< HEAD
   "title": "Menu Personalizado de Administrador ",
+=======
+  "title": "Menu Personalizado de Administrador  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 
@@ -87,7 +95,11 @@ Na lista de Menus, selecione o botão **Módulos Vinculados** no registro do Men
 
 ## Captura de Tela
 
+<<<<<<< HEAD
 ![seleção de componente de menu de administrador personalizado](../../../en/images/menus/adding-a-custom-administrator-menu/01-menus-custom-administrator-menu.png)
+=======
+![seleção de componente do menu administrador personalizado](../../../en/images/menus/adding-a-custom-administrator-menu/01-menus-custom-administrator-menu.png)
+>>>>>>> newbranch
 
 ## Resultado
 

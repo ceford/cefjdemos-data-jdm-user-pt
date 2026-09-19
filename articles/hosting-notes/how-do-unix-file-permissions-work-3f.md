@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/How_do_UNIX_file_permissions_work%3F",
+<<<<<<< HEAD
   "title": "Permissões de Arquivos UNIX",
+=======
+  "title": "Permissões de Arquivos UNIX ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 As permissões de arquivos Unix/Linux podem ser confusas. As permissões básicas do UNIX vêm em três tipos:
 

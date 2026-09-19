@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+<<<<<<< HEAD
   "title": "Campo do Editor",
+=======
+  "title": "Campo do Editor ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Finalidade
 
@@ -40,7 +48,11 @@ Na exibição do Artigo, o texto inserido aparece abaixo do título, mas faz par
 
 Procure o item **Notas de Cultivo**.
 
+<<<<<<< HEAD
 ![exibição do campo do editor no site](../../../en/images/fields/adding-custom-fields-editor-field/03-fields-editor-site.png)
+=======
+![exibição do campo do editor do site](../../../en/images/fields/adding-custom-fields-editor-field/03-fields-editor-site.png) 
+>>>>>>> newbranch
 
 *Traduzido por openai.com*
 

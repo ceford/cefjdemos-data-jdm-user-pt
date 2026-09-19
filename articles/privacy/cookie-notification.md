@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Cookie_notification",
+<<<<<<< HEAD
   "title": "Cookies ",
+=======
+  "title": "Cookies  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Resumo do uso de cookies em um site Joomla!
 

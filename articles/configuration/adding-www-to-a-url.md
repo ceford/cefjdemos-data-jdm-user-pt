@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Adding_www_to_a_url",
+<<<<<<< HEAD
   "title": "Adicionando www a uma URL",
+=======
+  "title": "Adicionando www a uma URL ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Expressões Regulares do Apache .htaccess
 

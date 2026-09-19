@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Privacy_Setup",
+<<<<<<< HEAD
   "title": "Configuração de Privacidade ",
+=======
+  "title": "Configuração de Privacidade  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Componente de Privacidade
 
@@ -134,7 +142,11 @@ Esta tela é o local central para processar e gerenciar solicitações de inform
 
 Esta tela coleta e exibe informações sobre as capacidades relacionadas à privacidade relatadas por extensões individuais. Destina-se a auxiliar na preparação de documentação, como um artigo de política de privacidade ou um artigo de termos de serviço.
 
+<<<<<<< HEAD
 ![capacidades de extensão de privacidade](../../../en/images/privacy/privacy-setup/05-privacy-extension-capabilities.png)
+=======
+![capacidades de informações de privacidade](../../../en/images/privacy/privacy-setup/05-privacy-extension-capabilities.png)
+>>>>>>> newbranch
 
 O conteúdo da página vem de cadeias de caracteres de idioma no núcleo, no componente de privacidade e em plugins que implementam o evento onPrivacyCollectAdminCapabilities. Isso inclui:
 

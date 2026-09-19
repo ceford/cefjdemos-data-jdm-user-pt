@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J5.x:Enhancing_Password_Security_with_Symbolic_Characters",
+<<<<<<< HEAD
   "title": "Segurança de Senhas do Usuário ",
+=======
+  "title": "Segurança de Senhas do Usuário  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

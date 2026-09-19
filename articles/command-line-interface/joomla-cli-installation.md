@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Joomla_CLI_Installation",
+<<<<<<< HEAD
   "title": "Instalação do Joomla CLI ",
+=======
+  "title": "Instalação do Joomla CLI  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

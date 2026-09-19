@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Assorted_Issues",
+<<<<<<< HEAD
   "title": "Questões Diversas ",
+=======
+  "title": "Questões Diversas  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Problema de Redirecionamento Após Atualização para 4.0.6
 

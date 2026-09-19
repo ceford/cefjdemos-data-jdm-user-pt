@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=performance&filename=page-analysis.md",
+<<<<<<< HEAD
   "title": "Análise de Página",
+=======
+  "title": "Análise de Página ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Lighthouse
 

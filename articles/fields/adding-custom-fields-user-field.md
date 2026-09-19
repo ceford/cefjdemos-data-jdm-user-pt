@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+<<<<<<< HEAD
   "title": "Campo do Usuário",
+=======
+  "title": "Campo do Usuário ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Finalidade
 
@@ -28,7 +36,11 @@ fins de demonstração. Deixe-o de fora nos títulos dos seus próprios campos.
 
 Simples, basta selecionar um usuário da lista de usuários.
 
+<<<<<<< HEAD
 ![entrada de dados do campo do usuário](../../../en/images/fields/adding-custom-fields-user-field/02-fields-user-data-entry.png) 
+=======
+![entrada de dados do campo de usuário](../../../en/images/fields/adding-custom-fields-user-field/02-fields-user-data-entry.png)
+>>>>>>> newbranch
 
 
 ## Exibição de Dados

@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Enabling_the_Login_Form_module",
+<<<<<<< HEAD
   "title": "Formulário de Login",
+=======
+  "title": "Formulário de Login ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Métodos de Login no Site
 
@@ -47,7 +55,11 @@ Você pode fazer o módulo Formulário de Login aparecer em uma ou mais páginas
   - **Em todas as páginas, exceto as selecionadas:** O Formulário de Login aparecerá em todas as páginas não selecionadas.
 - **Seleção de Menu**: Mostra uma lista de todos os Menus e Itens de Menu a partir dos quais um ou mais podem ser selecionados. Este campo é usado apenas se o campo **Menus** estiver configurado como **Selecionar Item(ns) de Menu da Lista**.
 
+<<<<<<< HEAD
   ![atribuição de menu de módulo](../../../en/images/modules/enabling-the-login-form-module/01-modules-login-menu-assignment.png)
+=======
+  ![atribuição de menu do módulo](../../../en/images/modules/enabling-the-login-form-module/01-modules-login-menu-assignment.png)
+>>>>>>> newbranch
 
 ## Para personalizar o módulo de Formulário de Login
 

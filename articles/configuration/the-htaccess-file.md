@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Preconfigured_htaccess",
+<<<<<<< HEAD
   "title": "O arquivo htaccess.txt ",
+=======
+  "title": "O arquivo htaccess.txt  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

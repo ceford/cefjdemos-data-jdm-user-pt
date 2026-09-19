@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Access_Control",
+<<<<<<< HEAD
   "title": "Controle de Acesso",
+=======
+  "title": "Controle de Acesso ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 
@@ -28,7 +36,11 @@ Você pode criar novos grupos de usuários para finalidades especiais, conforme 
 
 Cada vez que você cria um objeto, como um artigo, um módulo ou um item de menu, você verá um campo de Acesso, geralmente na coluna direita do formulário de entrada de dados. É uma lista suspensa que oferece a escolha entre Público, Visitante, Registrado, Especial e Super Usuários. O padrão é Público. Os níveis de acesso padrão para visualização são mostrados na captura de tela a seguir:
 
+<<<<<<< HEAD
 ![Níveis de acesso dos usuários](../../../en/images/users/access-control/02-access-control-users-access-levels.png)
+=======
+![Usuários visualizando níveis de acesso](../../../en/images/users/access-control/02-access-control-users-access-levels.png)
+>>>>>>> newbranch
 
 Exemplos:
 
@@ -68,7 +80,11 @@ Suponha que você precise criar um Grupo de Usuários para usuários que têm ap
 - Preencha o campo Título do Grupo: Administrador de Artigos
 - O Grupo Pai deve ser Público - não tem permissões para nada.
 
+<<<<<<< HEAD
 ![Novo formulário de grupo de usuários](../../../en/images/users/access-control/06-access-control-new-group.png)
+=======
+![Formulário de novo grupo de usuários](../../../en/images/users/access-control/06-access-control-new-group.png)
+>>>>>>> newbranch
 
 ### Atribuir a Especial
 

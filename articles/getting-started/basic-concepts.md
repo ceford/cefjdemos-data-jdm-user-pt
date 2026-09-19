@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Articles_and_categories",
+<<<<<<< HEAD
   "title": "Conceitos Básicos",
+=======
+  "title": "Conceitos Básicos ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

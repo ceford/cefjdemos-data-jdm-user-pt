@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Components_Privacy_Outline",
+<<<<<<< HEAD
   "title": "Esboço de Privacidade ",
+=======
+  "title": "Esboço de Privacidade  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Conteúdo
 

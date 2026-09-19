@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Enabling_Search_Engine_Friendly_(SEF)_URLs_on_Apache",
+<<<<<<< HEAD
   "title": "URLs SEF no Apache",
+=======
+  "title": "URLs SEF no Apache ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Verifique se o .htaccess está Ativado
 

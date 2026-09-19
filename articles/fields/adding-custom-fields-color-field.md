@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J3.x:Adding_custom_fields",
+<<<<<<< HEAD
   "title": "Campo de Cor",
+=======
+  "title": "Campo de Cor ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Finalidade
 
@@ -26,7 +34,11 @@ Opções especiais para este campo:
 
 Você pode digitar um valor de cor hexadecimal se souber que os números hexadecimais vão de 0 a 9 e, em seguida, de a a f, e os pares de números são vermelho, verde e azul. Então, #00ff00 é sem vermelho, máximo de verde e sem azul. Ou você pode usar um cursor para selecionar uma cor visualmente.
 
+<<<<<<< HEAD
 ![Entrada de dados no campo de cor](../../../en/images/fields/adding-custom-fields-color-field/02-fields-colour-data-entry.png)
+=======
+![Entrada de dados de campo de cor](../../../en/images/fields/adding-custom-fields-color-field/02-fields-colour-data-entry.png)
+>>>>>>> newbranch
 
 ## Exibição de Dados
 
@@ -50,5 +62,9 @@ valor.
 
 Procure o item **Cor da Flor**.
 
+<<<<<<< HEAD
 ![exibição de campo de cor no site](../../../en/images/fields/adding-custom-fields-color-field/03-fields-colour-site.png)
+=======
+![exibição do campo de cor no site](../../../en/images/fields/adding-custom-fields-color-field/03-fields-colour-site.png)
+>>>>>>> newbranch
 

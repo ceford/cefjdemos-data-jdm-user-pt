@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J5.x:Schema_org",
+<<<<<<< HEAD
   "title": "Schema.org - Organização",
+=======
+  "title": "Schema.org - Organização ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Finalidade
 

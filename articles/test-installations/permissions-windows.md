@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/How_do_Windows_file_permissions_work?",
+<<<<<<< HEAD
   "title": "Permissões de Arquivo: Windows",
+=======
+  "title": "Permissões de Arquivo: Windows ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

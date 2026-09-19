@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Logging_in_to_Joomla",
+<<<<<<< HEAD
   "title": "Fazendo login no Joomla",
+=======
+  "title": "Fazendo login no Joomla ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

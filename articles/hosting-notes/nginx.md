@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Nginx",
+<<<<<<< HEAD
   "title": "Nginx",
+=======
+  "title": "Nginx ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 <a href="http://nginx.org/"
 rel="nofollow noreferrer noopener">Nginx</a> é um servidor Web leve que alimenta 

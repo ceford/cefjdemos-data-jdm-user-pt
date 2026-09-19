@@ -1,17 +1,29 @@
 <!--
 {
   "source": "https://docs.joomla.org/jdocmanual?manual=user&heading=performance&filename=accessibility-checker.md",
+<<<<<<< HEAD
   "title": "Verificador de Acessibilidade ",
+=======
+  "title": "Verificador de Acessibilidade  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Sistema - Verificador de Acessibilidade do Joomla
 
 Este é um plugin principal que pode ser usado para verificar a acessibilidade durante a criação de conteúdo de artigos. A captura de tela a seguir mostra algumas configurações do plugin:
 
+<<<<<<< HEAD
 ![Configurações do formulário do plugin](../../../en/images/performance/accessibility-checker/01-performance-jooa11y-plugin-form.png)
+=======
+![Configurações do plugin](../../../en/images/performance/accessibility-checker/01-performance-jooa11y-plugin-form.png)
+>>>>>>> newbranch
 
 Com a opção **Mostrar Sempre** definida como *Ligado*, o ícone de relatório aparece em cada página do site. Isso é útil para o desenvolvimento, mas nunca deve ser deixado ativado para um site ao vivo. Defina como **Desligado**!
 

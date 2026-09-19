@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Installing_Joomla",
+<<<<<<< HEAD
   "title": "Instalando o Joomla",
+=======
+  "title": "Instalando o Joomla ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

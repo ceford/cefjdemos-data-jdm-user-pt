@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Menu_Item_Order",
+<<<<<<< HEAD
   "title": "Ordem de Itens do Menu",
+=======
+  "title": "Ordem de Itens do Menu ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 
@@ -26,7 +34,11 @@ Começando pelo menu do Administrador:
 - Selecione e arraste o símbolo do item que deseja mover.
 - Solte o item arrastado em sua nova posição.
 
+<<<<<<< HEAD
 ![ordem do item do menu arrastar](../../../en/images/menus/menu-item-order/01-menus-menu-item-order-drag.png)
+=======
+![ordem de item de menu arrastar](../../../en/images/menus/menu-item-order/01-menus-menu-item-order-drag.png)
+>>>>>>> newbranch
 
 Este método pode ser inconveniente se houver itens de menu pai com muitos filhos. Você pode mover um item pai mais facilmente ocultando os filhos:
 

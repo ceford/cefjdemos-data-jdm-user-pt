@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Content_Dashboard",
+<<<<<<< HEAD
   "title": "Painel de Conteúdo",
+=======
+  "title": "Painel de Conteúdo ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 

@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Setting_up_automatic_Smart_Search_indexing",
+<<<<<<< HEAD
   "title": "Indexação de Pesquisa Inteligente ",
+=======
+  "title": "Indexação de Pesquisa Inteligente  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Indexação Automática
 

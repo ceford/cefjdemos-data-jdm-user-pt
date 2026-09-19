@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/https:",
+<<<<<<< HEAD
   "title": "Melhores Práticas",
+=======
+  "title": "Melhores Práticas ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Artigos de Segurança
 

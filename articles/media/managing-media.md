@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Managing_Media",
+<<<<<<< HEAD
   "title": "Gerenciando Mídia  ",
+=======
+  "title": "Gerenciando Mídia   ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Introdução
 
@@ -67,7 +75,11 @@ Se você selecionar uma pasta diferente, a pasta anterior no mesmo nível será 
 
 A pasta selecionada para exclusão é ilustrada abaixo:
 
+<<<<<<< HEAD
 ![Página de mídia mostrando a pasta lixo](../../../en/images/media/managing-media/02-media-sample-data-garbage-select.png)
+=======
+![Página de mídia mostrando pasta de lixo](../../../en/images/media/managing-media/02-media-sample-data-garbage-select.png)
+>>>>>>> newbranch
 
 ## Barra de Ferramentas da Área de Mídia
 

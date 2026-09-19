@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Template_SVG_Logos",
+<<<<<<< HEAD
   "title": "Modelos de Logos SVG ",
+=======
+  "title": "Modelos de Logos SVG  ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Logo da Cassiopeia
 
@@ -15,7 +23,11 @@ O template padrão do site Joomla 4, Cassiopeia, usa a palavra CASSIOPEIA como u
 
 O Inkscape é um aplicativo de gráficos vetoriais de código aberto e multiplataforma, o que significa que você pode baixá-lo gratuitamente e usá-lo no Linux, Mac ou Windows. Para começar, acesse o site do Inkscape e baixe a versão para o seu laptop ou desktop. Inicie o Inkscape e você estará pronto para criar um logotipo de marca SVG. A captura de tela abaixo mostra o Inkscape no meio da criação de um novo logotipo SVG.
 
+<<<<<<< HEAD
 ![criação do logotipo no inkscape](../../../en/images/templates/template-svg-logos/01-templates-svg-logos-inkscape.png)
+=======
+![criação de logo no inkscape](../../../en/images/templates/template-svg-logos/01-templates-svg-logos-inkscape.png)
+>>>>>>> newbranch
 
 ## Instruções
 
@@ -55,7 +67,11 @@ Para este artigo, é necessário um logotipo que mostre **GREEN CASSIOPEIA** no 
 26. Na aba Avançado, campo de Logotipo, use Selecionar para encontrar seu logotipo recém-criado
 27. Salve e recarregue sua página do Site
 
+<<<<<<< HEAD
 ![resultado da criação do logotipo no inkscape](../../../en/images/templates/template-svg-logos/02-templates-svg-logos-inkscape-result.png)
+=======
+![resultado criação logotipo inkscape](../../../en/images/templates/template-svg-logos/02-templates-svg-logos-inkscape-result.png)
+>>>>>>> newbranch
 
 *Traduzido por openai.com*
 

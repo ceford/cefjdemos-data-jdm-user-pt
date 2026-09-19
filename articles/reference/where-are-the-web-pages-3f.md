@@ -1,11 +1,19 @@
 <!--
 {
   "source": "https://docs.joomla.org/Where_are_the_web_pages%3F",
+<<<<<<< HEAD
   "title": "Onde estão as páginas da web?",
+=======
+  "title": "Onde estão as páginas da web? ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 Se você está vindo de um site tradicional composto por páginas HTML separadas, pode se perguntar onde estão as páginas.
 

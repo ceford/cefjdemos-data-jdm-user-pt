@@ -1,17 +1,29 @@
 <!--
 {
   "source": "https://docs.joomla.org/J4.x:Site_Offline",
+<<<<<<< HEAD
   "title": "Site Fora do Ar",
+=======
+  "title": "Site Fora do Ar ",
+>>>>>>> newbranch
   "description": "", 
   "author": ""
 }
 -->
+<<<<<<< HEAD
+=======
+
+>>>>>>> newbranch
 
 ## Apenas Usuários do Site
 
 Pode haver ocasiões em que você precise deixar seu site Joomla! indisponível para visitantes por um curto período de tempo. Há um simples interruptor de configuração chamado **Site Offline** para este fim, que pode ser alterado de **Não** para **Sim**, conforme necessário. Quando configurado como *Sim*, todos os visitantes do site veem uma página de mensagem offline com formulário de login. O formulário Offline padrão pode ser personalizado com uma imagem:
 
+<<<<<<< HEAD
 ![Tela de site offline](../../../en/images/configuration/site-offline/01-site-offline.png)
+=======
+![Tela do site offline](../../../en/images/configuration/site-offline/01-site-offline.png)
+>>>>>>> newbranch
 
 O interruptor Site Offline não se aplica à interface do administrador, e os usuários que podem fazer login no backend podem continuar a fazer login no frontend. O login no frontend é negado apenas para usuários nos grupos de usuários Registrado, Autor, Editor e Editor Chefe.
 
