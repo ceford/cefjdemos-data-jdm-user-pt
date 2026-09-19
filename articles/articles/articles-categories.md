@@ -114,7 +114,7 @@ Na guia *Exibição da Página*, tente definir o campo *Mostrar Cabeçalho da P�
 
 A captura de tela a seguir mostra a visualização do site de uma página de blog de categoria em desenvolvimento.
 
-![Página de blog da categoria Mamíferos](../../../en/images/articles/articles-categories/04-article-mammals-articles-blog-site-view.png)
+![Página de blog da categoria Mamíferos](../../../en/images/articles/articles-categories/04-category-blog-site-view.png)
 
 ## Dicas
 

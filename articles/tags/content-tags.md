@@ -1,150 +1,164 @@
 <!--
 {
-  "source": "https://docs.joomla.org/J4.x:How_To_Use_Content_Tags_in_Joomla",
-  "title": "Tags de Conteúdo  ",
-  "description": "", 
-  "author": ""
+    "source": "https://docs.joomla.org/J4.x:How_To_Use_Content_Tags_in_Joomla",
+    "title": "Tags de conte\u00fado",
+    "description": " ",
+    "author": ""
 }
 -->
 
-
 ## Introdução
 
-Tags oferecem uma maneira fácil e eficiente de organizar e exibir conteúdo. O **Componente de Tags** permite que tags sejam usadas em diferentes tipos de conteúdo, incluindo artigos, categorias, contatos e feeds de notícias. Ele também possibilita a criação de tags pai e filho.
+As tags oferecem uma maneira fácil de usar e eficiente de organizar e exibir conteúdo. 
+O **componente Tags** permite que tags individuais sejam usadas em diferentes 
+tipos de conteúdo, incluindo artigos, categorias, contatos e feeds de notícias. Ele também permite a criação de tags pai e filhas.
 
-Ao contrário das **Categorias** do Joomla, onde apenas uma categoria pode ser atribuída a um item, múltiplas tags podem ser atribuídas a um único item, mas não é obrigatório atribuir tags aos itens.
+Ao contrário das **Categorias** do Joomla, nas quais apenas uma categoria pode ser atribuída
+a um item, várias tags podem ser atribuídas a um único item, mas não é
+obrigatório atribuir tags aos itens.
 
-Uma vez que um item está marcado com uma tag específica, clicar no botão da tag em conteúdos que exibem tags levará você a uma página que exibe uma lista de todos os itens que foram marcados com aquela tag específica. Por essa razão, tags são frequentemente usadas como uma maneira de apresentar listas *filtradas* de conteúdo.
+Depois que um item recebe uma tag específica, clicar no botão da tag no
+conteúdo que exibe tags levará você a uma página que exibe uma lista de
+todos os itens que receberam aquela tag específica. Por esse
+motivo, as tags são frequentemente usadas como uma forma de apresentar listas de conteúdo
+*filtradas*.
 
-Tags podem ser adicionadas em vários lugares, proporcionando flexibilidade na criação de tags.
+As tags podem ser adicionadas em vários locais, oferecendo flexibilidade na criação de tags.
 
 ## Considerações
 
-Antes de começar, considere o propósito das tags no site, especialmente se outras pessoas irão adicionar conteúdo. A menos que sejam adicionadas e gerenciadas corretamente, as tags podem se tornar contraproducentes. Problemas comuns incluem redatores de conteúdo adicionando novas tags desnecessárias e nomes de tags escritos incorretamente. Alguns Administradores de Site podem optar por alterar as permissões de acesso para que apenas usuários específicos possam adicionar novas tags.
+Antes de começar, considere a finalidade das tags no site, especialmente
+se outras pessoas forem adicionar conteúdo. Se não forem adicionadas e gerenciadas
+corretamente, as tags podem se tornar contraproducentes. Problemas comuns incluem
+redatores de conteúdo adicionando novas tags desnecessárias e nomes de tags
+escritos incorretamente. Alguns administradores do site podem optar por alterar as permissões de acesso para que
+apenas usuários específicos possam adicionar novas tags.
 
-Quando as tags são criadas, elas serão exibidas como links nos itens marcados.  
-Os estilos e posições das tags são definidos pelo modelo do site. Elas são frequentemente estilizadas como botões ou etiquetas.
+A captura de tela a seguir mostra tags usadas em um site que contém artigos sobre
+Sítios do Patrimônio Mundial da UNESCO. Nesse caso, cada tag tem uma cor distinta.
 
-A exibição das tags pode ser desativada! Isso pode parecer ilógico, mas é um recurso útil onde as tags são usadas, por exemplo, para filtrar conteúdo para casos de uso específicos.
+![página da lista de tags](../../../en/images/tags/content-tags/01-tags-example.png)
 
-## A Lista de Tags
+Quando as tags são criadas, elas são exibidas como links nos itens marcados.
+Os estilos e as posições das tags são definidos pelo template do site. Elas geralmente
+são estilizadas como botões ou rótulos.
 
-- Selecione **Componentes → Tags** no menu do Administrador.
+A exibição de tags pode ser desativada para artigos individuais ou para todos os artigos! Isso
+pode parecer ilógico, mas é um recurso útil quando as tags são usadas, por
+exemplo, para filtrar conteúdo para casos de uso específicos.
 
-![a página da lista de tags](../../../en/images/tags/content-tags/01-tags-list.png)
+## A lista de tags
+
+- Selecione **Componentes → Tags** no menu do administrador.
+
+Esta captura de tela mostra tags em uma estrutura usada para um site multilíngue.
+Cada idioma tem uma lista de tags com uma tag de idioma como pai.
+A tag pai é usada nos módulos *Tags populares* e *Tags semelhantes*.
+
+![página da lista de tags](../../../en/images/tags/content-tags/02-tags-list.png)
 
 Independentemente de como as tags são criadas, elas podem ser encontradas nesta lista.
 
-## Adicionando Tags
+- Selecione o botão **Novo** na barra de ferramentas para criar uma nova tag.
+- Selecione o **Título** de uma tag para editar uma tag existente.
 
-### Através da Lista de Tags
+### A aba Detalhes da tag
 
-Selecione o botão **Novo** na Barra de Ferramentas da lista de Tags.
-
-![nova tag chamada predator](../../../en/images/tags/content-tags/02-new-tag-predator.png)
+![aba de opções do formulário de edição de tag mostrando classes CSS do Bootstrap](../../../en/images/tags/content-tags/03-edit-tag-details-tab.png)
 
 - **Título** Este é o único campo *obrigatório*.
-- **Alias** Este é criado a partir do Título ao salvar.
-- **Descrição** É sempre melhor adicionar uma Descrição. Ela é exibida nos 
-  formulários do Administrador e pode ser útil quando muitas tags estão em uso.
-- **Pai** Deixe configurado como *Nenhum* se esta for uma tag raiz. Ou escolha 
-  uma tag pai da lista se esta for uma tag filha.
-- **Status** Este campo é configurado como *Publicado* por padrão. Pode ser 
-  configurado como *Não publicado*, *Arquivado* ou *Lixeira*.
-- **Acesso** O nível de Acesso é Público por padrão.
-- **Nota** e **Nota de Versão:** Se necessário, você pode adicionar notas.
-- **Salvar & Fechar** A nova tag aparecerá na Lista de Tags. Se você estiver 
-  criando múltiplas tags, pode optar por clicar em **Salvar & Novo** para 
-  criar outra.
+- **Alias** É criado a partir do Título ao salvar.
+- **Descrição** É sempre recomendável adicionar uma descrição. Ela é exibida
+  nos formulários do administrador e pode ser útil quando muitas tags estão em uso.
+- **Pai** Deixe definido como *Nenhum* se esta for uma tag que não tem pai. Ou escolha uma
+  tag pai na lista para torná-la uma tag filha.
+- **Status** Este campo é definido como *Publicado* por padrão. Ele pode ser definido como
+  *Despublicado*, *Arquivado* ou *Lixeira*.
+- **Acesso** O nível de acesso é Público por padrão.
+- **Nota** e **Nota da versão:** Se necessário, você pode adicionar notas.
+- **Salvar e fechar** Se estiver criando várias tags, você pode selecionar **Salvar e novo** para criar uma nova tag.
 
-Uma vez salva, a tag estará disponível para uso nos diversos tipos de conteúdo
-que as utilizam.
+### A aba Opções
 
-### De dentro de um Artigo
+- **Layout** Pode haver vários layouts disponíveis, e você pode criar seu próprio layout com uma substituição de template.
+- **Classe CSS para o link da tag** Por padrão, as tags são exibidas como um botão azul. Você pode inserir declarações de classe aqui para personalizar a aparência das tags e atribuir cores diferentes a tags diferentes. Exemplo: `bg-danger-subtle border border-danger` são classes do Bootstrap que produzem um botão rosa com uma borda vermelha.
+- **Imagem de chamada e imagem completa** Defina imagens para a tag: uma imagem de chamada para a lista de tags e/ou uma imagem completa para a página da tag.
 
-É possível adicionar novas tags enquanto cria ou edita um artigo. Na aba
-Conteúdo do artigo, no **Campo de Tags**, insira o nome da nova tag e
+![aba de opções do formulário de edição de tag mostrando classes CSS do Bootstrap](../../../en/images/tags/content-tags/04-edit-tag-options-tab.png)
+
+### A aba Publicação
+
+- Defina os metadados da página da tag para otimização para mecanismos de busca (SEO).
+
+## Métodos alternativos de criação
+
+### Em um artigo
+
+É possível adicionar novas tags ao criar ou editar um artigo. Na aba Conteúdo
+do artigo, no **Campo Tags**, insira o nome da nova tag e
 pressione **Enter** para salvar e atribuir a tag ao artigo.
 
-### De dentro de uma Categoria
+### Em uma categoria
 
-Tags podem ser adicionadas ao criar ou editar uma categoria. Na aba **Categoria**,
-insira o nome da tag no **Campo de Tags** e pressione **Enter** para criar
+As tags podem ser adicionadas ao criar ou editar uma categoria. Na aba **Categoria**,
+insira o nome da tag no **Campo Tags** e pressione **Enter** para criar
 e atribuir a nova tag.
 
-### De dentro de um Contato
+### Em um contato
 
-Tags podem ser adicionadas ao criar ou editar um Contato. Na aba **Novo/Editar Contato**,
-insira o nome da tag no **Campo de Tags** e pressione **Enter** para 
-criar e atribuir a nova tag. Você também pode adicionar novas tags ao criar 
-Categorias de Contatos.
+As tags podem ser adicionadas ao criar ou editar um contato. Na aba
+**Novo/Editar contato**, insira o nome da tag no **Campo Tags** e pressione
+**Enter** para criar e atribuir a nova tag. Você também pode adicionar novas tags ao criar categorias de contatos.
 
-### De dentro de um Feed de Notícias
+### A partir de um feed de notícias
 
-Tags podem ser adicionadas ao criar ou editar um novo Feed de Notícias. Na 
-aba **Novo/Editar Feed de Notícias**, insira o nome da tag no **Campo de Tags** e pressione
-**Enter** para criar e atribuir a nova tag. Você também pode adicionar novas tags ao 
-criar Categorias de Feeds de Notícias.
+As etiquetas podem ser adicionadas ao criar ou editar um novo feed de notícias. Na
+aba **Novo/Editar feed de notícias**, insira o nome da etiqueta no **campo Etiquetas** e pressione
+**Enter** para criar e atribuir a nova etiqueta. Você também pode adicionar novas etiquetas ao
+criar categorias de feeds de notícias.
 
-## Gerenciando Tags
+## Gerenciamento de etiquetas
 
-Sempre que você adicionar novas Tags no Joomla, todas elas aparecerão na lista de Tags. Use a lista de Tags para encontrar, abrir e ajustar as configurações das tags.
-
-### Filtro da Lista de Tags
-
-![filtro de lista de tags por tipo](../../../en/images/tags/content-tags/03-tags-list-filter.png)
+Onde quer que você adicione novas etiquetas no Joomla, todas elas aparecerão na lista de etiquetas.
+Use a lista de etiquetas para localizar, abrir e ajustar as configurações das etiquetas.
 
 Você pode manipular a lista de várias maneiras:
 
-- Pesquisar uma tag usando parte ou todo o seu título no campo de Pesquisa.
-- Reordenar a lista usando arrastar e soltar para otimizar a ordem de saída.
-- Publicar ou Despublicar tags usando o botão na coluna Status.
-- Selecionar uma ou mais tags e usar o botão **Ações** para Publicar, Despublicar, 
-  Arquivar, Fazer Check-in ou Mover para a Lixeira as tags selecionadas.
-- Selecionar uma ou mais tags e usar o botão **Ações → Lote** para definir o
-  Idioma ou o Nível de Acesso.
+- Pesquise uma etiqueta usando parte ou todo o seu título ou alias no campo Pesquisar.
+- Reordene a lista usando arrastar e soltar para otimizar a ordem de exibição.
+- Publique ou despublique etiquetas usando o botão na coluna Status.
+- Selecione uma ou mais etiquetas e use o botão **Ações** para publicar, despublicar,
+  arquivar, fazer check-in ou enviar para a lixeira as etiquetas selecionadas.
+- Selecione uma ou mais etiquetas e use o botão **Ações → Lote** para definir o
+  idioma ou o nível de acesso.
 
-### Configurações de Tag
+## Exibição de etiquetas
 
- - Selecione um **Título** de tag para fazer alterações em suas configurações.
+Depois que as etiquetas forem criadas no seu site, elas estarão disponíveis para uso no conteúdo e em módulos como **Etiquetas populares** e **Etiquetas semelhantes**. Os exemplos a seguir mostram como elas podem ser exibidas em um site que usa o **template Cassiopeia** padrão.
 
-No formulário de Edição da tag:
+![etiquetas exibidas em um artigo e nos módulos de etiquetas populares e etiquetas semelhantes](../../../en/images/tags/content-tags/05-tag-modules-site-view.png)
 
-- As configurações da aba **Detalhes da Tag** foram abordadas acima.
-- A aba **Opções**:
-  - Altere o layout da página da tag (a página que aparece quando você
-    clica no link da tag - por exemplo, mysite.com/tags/minha-tag). Este
-    layout normalmente depende da configuração padrão e do template.
-  - Adicionar uma Classe CSS para aplicar um estilo diferente (aparência) ao link
-    da tag. Isso normalmente seria usado apenas pelo Administrador do Site.
-  - Definir imagens para a tag - uma imagem de destaque para a lista de tags e/ou uma
-    imagem completa para a página da tag.
-- A aba **Publicação**: Defina Metadados para a página da tag para Otimização para Motores de Busca (SEO).
+Quando você seleciona uma das etiquetas, é direcionado para uma página que lista
+todos os itens atribuídos a essa etiqueta específica:
 
-## Como o Joomla Exibe Tags
+![exemplo de uso de etiquetas no site com um labrador preto](../../../en/images/tags/content-tags/06-items-with-cultural-site-tag.png)
 
-Uma vez que as tags tenham sido criadas no seu site, elas estão disponíveis para uso não apenas em conteúdo, mas também em alguns módulos úteis, como **Tags Populares** e **Tags Similares**. Os exemplos a seguir mostram como elas aparecem em uma instalação padrão usando o modelo padrão **Cassiopeia**.
+A lista de itens é uma lista filtrada do conteúdo do site que possui a etiqueta selecionada.
+Uma caixa de filtro é fornecida para facilitar a localização de itens à medida que a lista cresce.
+Você também pode definir o número de resultados que deseja ver em uma única visualização.
 
-![exemplo de uso de tags no site labrador amarelo](../../../en/images/tags/content-tags/04-tag-examples-yellow-labrador.png)
+## Configuração de etiquetas
 
-Quando você clica em uma das tags, será direcionado para uma página que lista todos os itens atribuídos a essa tag específica:
+As etiquetas individuais herdam as configurações das opções do componente Etiquetas. Selecione o
+botão **Opções** na barra de ferramentas da página da lista de etiquetas para ver as opções
+padrão de etiquetas disponíveis.
 
-![exemplo de uso de tags no site labrador preto](../../../en/images/tags/content-tags/05-tag-examples-black-labrador.png)
-
-Clicar em uma tag levará você a uma página que exibe uma lista de todos os itens atribuídos a essa tag específica - na prática, é uma lista filtrada do conteúdo marcado do seu site. É fornecida uma caixa de filtro para facilitar a localização dos itens à medida que a lista cresce. Você também pode definir o número de resultados que deseja ver em uma única exibição.
-
-## Configuração de Tags
-
-Marcas individuais herdam configurações das opções do componente Tags. Isso é
-abordado em um tutorial separado. [ToDo] Selecione o botão **Opções** na Barra de Ferramentas da página de lista de Tags.
-
-A configuração do Componente de Tags pode ser substituída no nível do item de menu.
+As opções de configuração do componente Etiquetas podem ser substituídas nos níveis do item de conteúdo e/ou do item de menu.
 
 ## Dicas
 
-- Lembre-se de que as Tags são usadas em vários tipos de conteúdo
-- Você pode adicionar mais de uma Tag a um item
-- Use o botão de Ajuda quando estiver em dúvida
+- Lembre-se de que as etiquetas são usadas em vários tipos de conteúdo.
+- Você pode adicionar mais de uma etiqueta a um item.
+- Use o botão Ajuda da barra de ferramentas quando tiver dúvidas.
 
 *Traduzido por openai.com*
-
