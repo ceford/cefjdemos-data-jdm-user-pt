@@ -64,3 +64,4 @@ A captura de tela abaixo mostra a página de um único artigo com a *Imagem do A
 
 *Traduzido por openai.com*
 
+
