@@ -40,4 +40,3 @@ No Artigo, o subformulário intitulado Especímenes tem uma linha para cada esp�
 ![exibição do subformulário no site](../../../en/images/fields/subforms/03-fields-subform-site.png)
 
 *Traduzido por openai.com*
-
