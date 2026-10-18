@@ -14,7 +14,7 @@ O Painel de Conteúdo é acessado através do ícone à direita do item de menu 
 
 ## Captura de tela
 
-![Dashboard de conteúdo](../../../en/images/dashboards/content-dashboard/01-content-dashboard.png)
+![Dashboard de conteúdo](../../../pt/images/dashboards/content-dashboard/01-content-dashboard.png)
 
 *Traduzido por openai.com*
 

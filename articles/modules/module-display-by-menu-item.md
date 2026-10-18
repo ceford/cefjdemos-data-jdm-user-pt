@@ -33,7 +33,7 @@ Existem quatro opções de atribuição de menu:
 - Em todas as páginas, exceto as selecionadas
 
 Para as duas últimas, um painel de Seleção de Menu é exibido. Inicialmente, os menus que ele contém estão totalmente expandidos, mas podem ser recolhidos com o botão **Expandir as Subárvores do Menu** *Nenhuma*. Em seguida, expanda o menu de interesse.
-![atribuição de menu do módulo](../../../en/images/modules/module-display-by-menu-item/01-module-display-by-menu.png)
+![atribuição de menu do módulo](../../../pt/images/modules/module-display-by-menu-item/01-module-display-by-menu.png)
 
 Selecione os Itens de Menu para exibir ou não exibir o módulo conforme desejado.
 

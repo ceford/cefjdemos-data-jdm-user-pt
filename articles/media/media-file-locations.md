@@ -20,7 +20,7 @@ Para configurar um local para arquivos que seja separado das imagens, primeiro c
 
 Encontre o plugin *FileSystem - Local* na lista de plugins e abra-o. Adicione sua recém-criada pasta *files* à lista de locais onde você pode manter a mídia. Basta clicar no botão + e selecionar **files** da lista de pastas disponíveis.
 
-![Plugin do Sistema de Arquivos](../../../en/images/media/media-file-locations/01-plugin-group-file-system-local.png)
+![Plugin do Sistema de Arquivos](../../../pt/images/media/media-file-locations/01-plugin-group-file-system-local.png)
 
 A opção **Criar Miniaturas** configurada como **Sim** causa a criação de pequenas imagens com uma altura ou largura máxima de 200 pixels em media/cache/com_media/thumbs com a mesma estrutura de pastas da pasta de mídia. Isso deve aumentar muito a velocidade de exibição de uma pasta com muitas imagens. Não é necessário para arquivos, pois eles são representados por ícones.
 

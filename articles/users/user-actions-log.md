@@ -20,7 +20,7 @@ Para visualizar a lista de Registro de Ações do Usuário:
 
 - Selecione **Usuários → Registro de Ações do Usuário** no menu do Administrador.
 
-![página da lista de registro de ações do usuário](../../../en/images/users/user-actions-log/01-user-actions-log-list.png)
+![página da lista de registro de ações do usuário](../../../pt/images/users/user-actions-log/01-user-actions-log-list.png)
 
 A partir desta página, um Super Usuário tem uma visão global de todas as atividades
 realizadas por usuários em um site.
@@ -37,7 +37,7 @@ realizadas por usuários em um site.
 
 O formulário de Opções do Registro de Ações do Usuário permite que o Superusuário selecione quais eventos registrar e se deve incluir endereços IP nos dados do registro.
 
-![página de opções do registro de ações do usuário](../../../en/images/users/user-actions-log/02-user-actions-log-options.png)
+![página de opções do registro de ações do usuário](../../../pt/images/users/user-actions-log/02-user-actions-log-options.png)
 
 ## Plugins
 
@@ -59,7 +59,7 @@ Quando ativado, este plugin exporta os dados do log de ações para uma solicita
 
 Este módulo é exibido apenas para Super Usuários no Painel Inicial.
 
-![módulo de registro de ações do usuário](../../../en/images/users/user-actions-log/03-user-actions-log-module.png)
+![módulo de registro de ações do usuário](../../../pt/images/users/user-actions-log/03-user-actions-log-module.png)
 
 ## Como conectar uma extensão ao sistema
 

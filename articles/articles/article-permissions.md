@@ -16,7 +16,7 @@ A descrição aqui é para a aba *Permissões* do formulário *Artigo: Editar*. 
 
 ## Captura de Tela
 
-![A aba de permissões do artigo com autor selecionado](../../../en/images/articles/article-permissions/01-articles-edit-permissions-tab.png)
+![A aba de permissões do artigo com autor selecionado](../../../pt/images/articles/article-permissions/01-articles-edit-permissions-tab.png)
 
 Pode ser surpreendente que um Autor não pareça ter permissão para Editar um artigo!
 

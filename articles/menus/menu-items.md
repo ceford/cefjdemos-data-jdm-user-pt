@@ -19,7 +19,7 @@ vários artigos. Um tipo de item de menu de URL é usado para vincular a um site
 
 Os tipos de itens do menu são definidos em cada componente que possui visualizações no site. O núcleo do Joomla tem cerca de 10 desses componentes, cada um com várias visualizações, totalizando mais de 30 tipos. A captura de tela a seguir mostra a lista **Menus: Todos os Itens de Menu** com uma seleção de tipos de itens de menu abaixo do título do menu na coluna **Título**:
 
-![lista de itens de menu](../../../en/images/menus/menu-items/01-menus-all-menu-items-list.png)
+![lista de itens de menu](../../../pt/images/menus/menu-items/01-menus-all-menu-items-list.png)
 
 ## Adicionando um Item de Menu
 
@@ -33,7 +33,7 @@ No formulário **Menus: Novo Item**:
 - No campo **Título**, insira um título curto apropriado para o item de menu.
 - No campo **Tipo de Item de Menu**, use o botão **Selecionar** para abrir a caixa de diálogo de Tipo de Item de Menu.
 
-![selecionar tipo de itens do menu](../../../en/images/menus/menu-items/02-menus-menu-items-select-type.png)
+![selecionar tipo de itens do menu](../../../pt/images/menus/menu-items/02-menus-menu-items-select-type.png)
 
 - Selecione o tipo que você precisar, neste exemplo um tipo de Artigo Único.
 
@@ -44,7 +44,7 @@ O formulário de entrada de dados do **Menus: Novo Item** mudará para exibir ca
 - **Salvar**
 - Se desejar alterar a ordem deste item no menu, use o campo **Ordenação** à direita. Por padrão, ele é o último. Você pode torná-lo **Primeiro** ou colocá-lo após qualquer outro item de menu que você selecionar.
 
-![editar item de itens do menu](../../../en/images/menus/menu-items/03-menus-menu-items-edit-item.png)
+![editar item de itens do menu](../../../pt/images/menus/menu-items/03-menus-menu-items-edit-item.png)
 
 - Visualize o site para verificar se está como você deseja.
 

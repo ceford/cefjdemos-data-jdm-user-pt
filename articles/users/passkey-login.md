@@ -65,7 +65,7 @@ O login com passkey usa um plugin do sistema que é habilitado por padrão. Um
 botão **Entrar com passkey** estará presente nas telas de login padrão do Joomla
 4 e posteriores, conforme ilustrado na tela de login do Administrador:
 
-![formulário de login seguro do administrador](../../../en/images/users/passkey-login/02-login-form.png)
+![formulário de login seguro do administrador](../../../pt/images/users/passkey-login/02-login-form.png)
 
 ## Configuração do usuário
 
@@ -92,7 +92,7 @@ impressão digital / rosto, inserindo um PIN ou uma combinação dos itens acima
 dependendo do seu autenticador — a mensagem desaparece, o autenticador é
 registrado e a tela aparece da seguinte forma:
 
-![autenticador registrado no login seguro do administrador](../../../en/images/users/passkey-login/04-registered-authenticator.png)
+![autenticador registrado no login seguro do administrador](../../../pt/images/users/passkey-login/04-registered-authenticator.png)
 
 É muito importante observar que você só pode registrar ou remover
 autenticadores da sua própria conta de usuário. Por motivos de segurança, nem

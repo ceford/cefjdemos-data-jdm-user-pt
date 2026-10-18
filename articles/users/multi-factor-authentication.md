@@ -75,7 +75,7 @@ Observe que há um plugin separado **Sistema - Login Sem Senha WebAuthn** para l
 
 O formulário de Opções de Usuários possui um formulário de Autenticação Multifator para configurar como a Autenticação Multifator funciona no Joomla. Selecione o botão Alternar Ajuda Inline para obter informações sobre cada opção.
 
-![formulário de opções de usuários autenticação multifatorial](../../../en/images/users/multi-factor-authentication/01-users-configuration-mfa.png)
+![formulário de opções de usuários autenticação multifatorial](../../../pt/images/users/multi-factor-authentication/01-users-configuration-mfa.png)
 
 ## Perfil do Usuário
 
@@ -83,7 +83,7 @@ O formulário Administrador / Usuários: Editar Perfil possui abas separadas par
 
 O formulário Site / Edite Seu Perfil possui as abas do formulário do backend dispostas uma acima da outra, o que pode ser confuso porque a Autenticação Web aparece duas vezes, primeiro para login sem senha e segundo para Autenticação Multi-fator. A ilustração a seguir mostra a parte de Autenticação Multi-fator do formulário após um método ter sido criado. Isso define automaticamente o recurso como Ativado e mostra a opção de criar Códigos de Backup.
 
-![vista do site do formulário de autenticação multifator do usuário](../../../en/images/users/multi-factor-authentication/02-multi-factor-authentication-site-profile.jpg)
+![vista do site do formulário de autenticação multifator do usuário](../../../pt/images/users/multi-factor-authentication/02-multi-factor-authentication-site-profile.png)
 
 Como mencionado acima, você pode testar cada uma delas selecionando o botão + Adicionar ..., mas selecione Cancelar no formulário subsequente se decidir não prosseguir.
 

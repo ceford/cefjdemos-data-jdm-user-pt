@@ -32,7 +32,7 @@ O uso do nível de acesso de Convidado pode ser ilustrado com um item de menu de
 - Opcionalmente, selecione a lista de Ordenação e escolha o item **após o
   qual você gostaria que o item de Login aparecesse.
 
-![formulário de menu de login restrito ao acesso de convidado](../../../en/images/users/guest-access/01-guest-access-menu-login.png)
+![formulário de menu de login restrito ao acesso de convidado](../../../pt/images/users/guest-access/01-guest-access-menu-login.png)
 
 - Salvar e Fechar.
 - Veja o site. Verifique se o item do menu Login funciona. Verifique se ele
@@ -50,7 +50,7 @@ O uso do nível de acesso Registrado pode ser ilustrado com um item de menu de L
 - Salve.
 - Opcionalmente, selecione o menu suspenso de Ordenação e escolha o item **após** o qual você gostaria que o item Login aparecesse.
 
-![formulário de menu de logout restrito ao acesso registrado](../../../en/images/users/guest-access/02-guest-access-menu-logout.png)
+![formulário de menu de logout restrito ao acesso registrado](../../../pt/images/users/guest-access/02-guest-access-menu-logout.png)
 
 - Salve e Feche.
 - Veja o site. Verifique se o item de menu Logout funciona. Verifique se ele desaparece após o logout.

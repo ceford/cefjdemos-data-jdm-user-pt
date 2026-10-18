@@ -36,7 +36,7 @@ Após efetuar login na interface de Administrador:
 - Se você receber uma mensagem *A página solicitada não pode ser encontrada*, faça login no Frontend e tente novamente.
 - Para fechar a janela de Pré-visualização, selecione o botão *X* no canto superior direito.
 
-![A janela de pré-visualização](../../../en/images/articles/article-preview/01-article-edit-preview.png)
+![A janela de pré-visualização](../../../pt/images/articles/article-preview/01-article-edit-preview.png)
 
 *Traduzido por openai.com*
 

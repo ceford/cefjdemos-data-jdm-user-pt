@@ -59,7 +59,7 @@ Portanto, é importante dedicar atenção à criação de títulos descritivos e
 
 O artigo *Meta Description* é um campo na guia *Publishing* do formulário de entrada de dados do artigo:
 
-![Aba de publicação do formulário de edição do artigo](../../../en/images/articles/article-metadata/01-articles-edit-publishing-tab.png)
+![Aba de publicação do formulário de edição do artigo](../../../pt/images/articles/article-metadata/01-articles-edit-publishing-tab.png)
 
 Se não houver uma descrição de metadados do artigo, será usada uma descrição de metadados de um único item de menu do artigo, se estiver definida. Se não houver descrição de metadados do item de menu, então será usada a meta descrição global do site, se estiver definida. Caso contrário, o campo de descrição de metadados será omitido.
 

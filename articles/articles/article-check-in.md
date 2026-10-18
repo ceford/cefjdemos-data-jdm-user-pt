@@ -40,7 +40,7 @@ No menu do Administrador:
   **Sistema → Painel de Manutenção → Registro Global**.
 - A lista mostra o número de itens retirados.
 
-![Página de check-in global](../../../en/images/articles/article-check-in/01-global-checkin.png)
+![Página de check-in global](../../../pt/images/articles/article-check-in/01-global-checkin.png)
 
 - Na lista de tabelas do banco de dados, selecione a caixa de seleção para o tipo de item a ser registrado.
 - Selecione *Registrar* na Barra de ferramentas.

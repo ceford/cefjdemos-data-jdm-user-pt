@@ -22,7 +22,7 @@ filtro bruto para garantir que o código html seja preservado quando o formulár
 - **Prefixo** Isto aparece antes do texto na saída do Artigo. Exemplo: £.
 - **Sufixo** Isto aparece após o texto na saída do Artigo, Exemplo: EUR.
 
-![criação de campo de texto](../../../en/images/fields/adding-custom-fields-text-field/01-fields-text-edit.png)
+![criação de campo de texto](../../../pt/images/fields/adding-custom-fields-text-field/01-fields-text-edit.png)
 
 **Nota:** Neste exemplo, a inclusão do tipo de campo no Título é apenas para
 fins de demonstração. Deixe-o de fora nos seus próprios títulos de campo.
@@ -31,13 +31,13 @@ fins de demonstração. Deixe-o de fora nos seus próprios títulos de campo.
 
 Simples: Digite seu texto.
 
-![entrada de dados no campo de texto](../../../en/images/fields/adding-custom-fields-text-field/02-fields-text-data-entry.png)
+![entrada de dados no campo de texto](../../../pt/images/fields/adding-custom-fields-text-field/02-fields-text-data-entry.png)
 
 ## Exibição de Dados
 
 A captura de tela do site a seguir mostra o campo exibido em um artigo. A opção *Exibição automática* é responsável pela posição do campo e seu template é responsável pelo design do campo.
 
-![exibição do campo de texto do site](../../../en/images/fields/adding-custom-fields-text-field/03-fields-text-site.png)
+![exibição do campo de texto do site](../../../pt/images/fields/adding-custom-fields-text-field/03-fields-text-site.png)
 
 O campo Texto segue o campo Rótulo.
 *Traduzido por openai.com*

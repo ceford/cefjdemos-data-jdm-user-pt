@@ -46,7 +46,7 @@ Abra o artigo que deseja editar. Observe que o contêiner de texto padrão é um
 - Na parte inferior da tela, o indicador de contêiner mostrará HX.
 - Você pode clicar duas vezes em qualquer texto selecionado para fazer uma mudança rápida, por exemplo, de P para H2 (alternar) ou de H2 para H3 usando uma barra pop-up, como na captura de tela a seguir:
 
-![formulário de edição de artigo com h3 selecionado](../../../en/images/articles/article-headings/01-articles-edit-headings.png)
+![formulário de edição de artigo com h3 selecionado](../../../pt/images/articles/article-headings/01-articles-edit-headings.png)
 
 Nota: por convenção, todas as tags HTML usam letras minúsculas. Se você selecionar o botão *Alternar Editor* para ver o código-fonte, verá os parágrafos e títulos definidos em tags com letras minúsculas.
 

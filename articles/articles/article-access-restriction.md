@@ -18,7 +18,7 @@ Este artigo descreve a implementação da restrição de acesso no formulário *
 
 O Joomla fornece os Níveis de Acesso vistos na captura de tela a seguir:
 
-![Níveis de acesso do usuário](../../../en/images/articles/article-access-restriction/01-article-access-user-groups.png)
+![Níveis de acesso do usuário](../../../pt/images/articles/article-access-restriction/01-article-access-user-groups.png)
 
 Os níveis de acesso aparecem na aba *Conteúdo* do formulário *Artigo: Editar*.
 

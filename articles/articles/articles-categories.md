@@ -61,11 +61,11 @@ A captura de tela a seguir mostra o link *Categorias de Artigos* do Painel Inici
 para a lista de categorias e o *Símbolo de Mais* adjacente que leva ao
 formulário *Artigos: Nova Categoria*.
 
-![O ícone de adicionar categoria destacado no painel inicial](../../../en/images/articles/articles-categories/01-category-add-via-home-dashboard.png)
+![O ícone de adicionar categoria destacado no painel inicial](../../../pt/images/articles/articles-categories/01-category-add-via-home-dashboard.png)
 
 ## Os Artigos: Formulário de Nova Categoria
 
-![O formulário de edição da nova categoria de artigos](../../../en/images/articles/articles-categories/02-article-category-edit.png)
+![O formulário de edição da nova categoria de artigos](../../../pt/images/articles/articles-categories/02-article-category-edit.png)
 
 A captura de tela acima mostra o formulário preenchido. Há apenas dois campos que precisam de conteúdo. Todo o resto tem valores padrão ou nulos que você pode deixar por agora e preencher mais tarde, conforme necessário.
 
@@ -98,7 +98,7 @@ As configurações nesta guia afetam a aparência desta Categoria nas páginas d
 
 Fechar o formulário de edição leva à página de lista **Artigos: Categorias**.
 
-![Uma lista de categorias filtrada pela tag Natureza](../../../en/images/articles/articles-categories/03-categories-list.png)
+![Uma lista de categorias filtrada pela tag Natureza](../../../pt/images/articles/articles-categories/03-categories-list.png)
 
 ### Salvar no Menu como Lista
 
@@ -114,7 +114,7 @@ Na guia *Exibição da Página*, tente definir o campo *Mostrar Cabeçalho da P�
 
 A captura de tela a seguir mostra a visualização do site de uma página de blog de categoria em desenvolvimento.
 
-![Página de blog da categoria Mamíferos](../../../en/images/articles/articles-categories/04-category-blog-site-view.png)
+![Página de blog da categoria Mamíferos](../../../pt/images/articles/articles-categories/04-category-blog-site-view.png)
 
 ## Dicas
 

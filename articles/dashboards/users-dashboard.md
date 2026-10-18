@@ -14,7 +14,7 @@ O Painel de Usuários é acessado através do ícone à direita do item de menu 
 
 ## Captura de Tela
 
-![Painel de usuários](../../../en/images/dashboards/users-dashboard/01-users-dashboard.png)
+![Painel de usuários](../../../pt/images/dashboards/users-dashboard/01-users-dashboard.png)
 
 *Traduzido por openai.com*
 

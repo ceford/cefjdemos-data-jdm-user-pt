@@ -12,7 +12,7 @@
 
 A opção de Roteamento Estrito, introduzida no Joomla 5.2, aprimora o desempenho de SEO da plataforma permitindo regras de roteamento mais rígidas através de um interruptor no plugin *System - SEF*. Ela ajuda a eliminar conteúdo duplicado aplicando URLs mais consistentes e redirecionando duplicatas para o URL correto com um redirecionamento 301.
 
-![system sef plugin settings](../../../en/images/seo/strict-routing/01-seo-system-sef-plugin.png)
+![system sef plugin settings](../../../pt/images/seo/strict-routing/01-seo-system-sef-plugin.png)
 
 ### Impor Sufixos
 

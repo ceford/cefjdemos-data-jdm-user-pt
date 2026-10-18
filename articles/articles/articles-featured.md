@@ -36,7 +36,7 @@ Para ver os artigos selecionados para um layout de *Artigos em Destaque*:
 
 A captura de tela a seguir mostra uma lista de artigos em destaque contendo quatro itens, suficiente para criar um layout de blog interessante.:
 
-![Artigos em destaque](../../../en/images/articles/articles-featured/01-articles-featured.png)
+![Artigos em destaque](../../../pt/images/articles/articles-featured/01-articles-featured.png)
 
 ### Ordem dos Artigos em Destaque
 
@@ -48,7 +48,7 @@ Um layout de blog funciona melhor se a quantidade de texto em cada item for limi
 
 ## Aparência do Site
 
-![Visualização do site de artigos em destaque](../../../en/images/articles/articles-featured/02-articles-featured-site.png)
+![Visualização do site de artigos em destaque](../../../pt/images/articles/articles-featured/02-articles-featured-site.png)
 
 *Traduzido por openai.com*
 

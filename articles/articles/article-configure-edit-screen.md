@@ -14,7 +14,7 @@ As telas de edição de artigo têm layouts diferentes no backend e no frontend.
 
 ## Captura de Tela
 
-![A guia de edição de configuração da tela](../../../en/images/articles/article-configure-edit-screen/01-articles-edit-configure-edit-screen-tab.png)
+![A guia de edição de configuração da tela](../../../pt/images/articles/article-configure-edit-screen/01-articles-edit-configure-edit-screen-tab.png)
 
 ## Configurar painel de Edição de Tela
 

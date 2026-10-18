@@ -14,7 +14,7 @@ A tela de Ajuda não é intitulada um Painel, mas possui todas as funcionalidade
 
 ## Captura de Tela
 
-![Painel de Ajuda](../../../en/images/dashboards/help-dashboard/01-help-dashboard.png)
+![Painel de Ajuda](../../../pt/images/dashboards/help-dashboard/01-help-dashboard.png)
 
 *Traduzido por openai.com*  
 
